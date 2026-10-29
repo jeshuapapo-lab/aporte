@@ -1,0 +1,243 @@
+1
+00:00:00,250 --> 00:00:03,130
+Hoy estudiaremos ciclo de vida general del bpm.
+
+2
+00:00:03,350 --> 00:00:07,094
+El propósito es explicar el ciclo general de BPM y la
+
+3
+00:00:07,094 --> 00:00:10,838
+relación iterativa entre comprender, cambiar y controlar un proceso.
+
+4
+00:00:11,058 --> 00:00:14,813
+Este contenido forma parte de procesos para negocios digitales.
+
+5
+00:00:15,033 --> 00:00:19,982
+Trabajaremos con conceptos y un caso ficticio para tomar decisiones justificadas.
+
+6
+00:00:20,708 --> 00:00:24,762
+Antes de proponer una solución, considera esta pregunta: ¿Qué evidencia produce
+
+7
+00:00:24,762 --> 00:00:28,815
+cada fase y cuándo sería necesario volver al análisis?
+
+8
+00:00:29,035 --> 00:00:32,598
+Al terminar deberás explicar tu decisión, indicar cómo la comprobarías y
+
+9
+00:00:32,598 --> 00:00:36,160
+reconocer los límites de la evidencia utilizada.
+
+10
+00:00:36,917 --> 00:00:42,357
+El ciclo comienza seleccionando procesos según propósito, impacto y problemas observados.
+
+11
+00:00:42,577 --> 00:00:47,163
+Define límites, destinatarios, responsable y relación con otros procesos.
+
+12
+00:00:47,383 --> 00:00:51,117
+No todas las oportunidades tienen la misma prioridad ni madurez.
+
+13
+00:00:51,337 --> 00:00:54,451
+Un alcance claro permite saber qué se investigará y evita que
+
+14
+00:00:54,451 --> 00:00:57,566
+el proyecto intente transformar toda la organización antes de comprender una
+
+15
+00:00:57,566 --> 00:01:00,681
+necesidad concreta.
+
+16
+00:01:01,417 --> 00:01:04,990
+El descubrimiento documenta cómo funciona realmente el proceso usando entrevistas, observación
+
+17
+00:01:04,990 --> 00:01:08,563
+y registros pertinentes.
+
+18
+00:01:08,783 --> 00:01:14,010
+El análisis identifica problemas, tiempos, variaciones y causas que deben contrastarse.
+
+19
+00:01:14,230 --> 00:01:16,299
+El modelo actual no debe confundirse con el procedimiento ideal del
+
+20
+00:01:16,299 --> 00:01:18,369
+manual.
+
+21
+00:01:18,589 --> 00:01:22,215
+Recoger varias perspectivas ayuda a encontrar trabajo oculto y diferencias entre
+
+22
+00:01:22,215 --> 00:01:25,842
+lo previsto y lo que las personas hacen.
+
+23
+00:01:26,583 --> 00:01:32,258
+El recorrido une identificación, descubrimiento, análisis, rediseño, implementación y monitoreo.
+
+24
+00:01:32,478 --> 00:01:35,091
+Agruparlos en cuatro bloques facilita recordar el ciclo, pero no elimina
+
+25
+00:01:35,091 --> 00:01:37,705
+sus actividades.
+
+26
+00:01:37,925 --> 00:01:40,453
+La evidencia de monitoreo puede devolver al equipo al análisis o
+
+27
+00:01:40,453 --> 00:01:42,981
+incluso a la delimitación.
+
+28
+00:01:43,201 --> 00:01:48,534
+Lo importante es conservar trazabilidad entre problema, propuesta y resultado observado.
+
+29
+00:01:49,292 --> 00:01:54,006
+Caso ficticio: un negocio detecta solicitudes de soporte respondidas tarde.
+
+30
+00:01:54,226 --> 00:01:58,600
+Primero limita el proceso desde recepción hasta primera respuesta útil.
+
+31
+00:01:58,820 --> 00:02:02,361
+Observa casos y descubre reasignaciones sin responsable.
+
+32
+00:02:02,581 --> 00:02:04,618
+Propone una regla de asignación, forma al equipo y la prueba
+
+33
+00:02:04,618 --> 00:02:06,656
+en un piloto.
+
+34
+00:02:06,876 --> 00:02:10,374
+Después revisa tiempo, calidad y solicitudes olvidadas.
+
+35
+00:02:10,594 --> 00:02:12,994
+Si la mejora solo funciona para casos simples, vuelve al análisis
+
+36
+00:02:12,994 --> 00:02:15,394
+de excepciones.
+
+37
+00:02:16,125 --> 00:02:20,605
+El rediseño propone un estado futuro coherente con objetivos y restricciones.
+
+38
+00:02:20,825 --> 00:02:23,609
+Compara alternativas, revisa excepciones y anticipa cómo cambiarán tareas, roles y
+
+39
+00:02:23,609 --> 00:02:26,393
+sistemas.
+
+40
+00:02:26,613 --> 00:02:32,330
+Implementar incluye acuerdos operativos, capacitación y controles, no solo instalar tecnología.
+
+41
+00:02:32,550 --> 00:02:35,601
+Una transición gradual y con criterios de aceptación permite comprobar que
+
+42
+00:02:35,601 --> 00:02:38,652
+el nuevo recorrido puede ejecutarse y que su resultado satisface el
+
+43
+00:02:38,652 --> 00:02:41,702
+propósito.
+
+44
+00:02:42,458 --> 00:02:46,704
+El seguimiento compara el desempeño con objetivos y detecta desviaciones.
+
+45
+00:02:46,924 --> 00:02:51,446
+Usa definiciones de indicador, datos confiables y responsables de revisión.
+
+46
+00:02:51,666 --> 00:02:54,397
+Los resultados pueden exigir ajustar reglas, redescubrir el proceso o revisar
+
+47
+00:02:54,397 --> 00:02:57,128
+el alcance.
+
+48
+00:02:57,348 --> 00:03:01,422
+El ciclo es iterativo: no termina al publicar un diagrama, y
+
+49
+00:03:01,422 --> 00:03:05,497
+sus fases pueden solaparse cuando aparece nueva evidencia sobre la operación.
+
+50
+00:03:06,250 --> 00:03:09,386
+Para aplicar lo aprendido, desarrolla la tarea editable.
+
+51
+00:03:09,606 --> 00:03:13,382
+Describe el alcance del proceso y el criterio para seleccionarlo.
+
+52
+00:03:13,602 --> 00:03:17,975
+Después, diseña un piloto con roles, capacitación y aceptación del cambio.
+
+53
+00:03:18,195 --> 00:03:21,619
+Justifica tus decisiones con los conceptos de esta explicación y comprueba
+
+54
+00:03:21,619 --> 00:03:25,043
+tus respuestas en la actividad interactiva.
+
+55
+00:03:25,792 --> 00:03:27,456
+Conserva estas ideas.
+
+56
+00:03:27,676 --> 00:03:29,532
+Delimita antes de intervenir.
+
+57
+00:03:29,752 --> 00:03:32,696
+Conecta diagnóstico, propuesta e implementación.
+
+58
+00:03:32,916 --> 00:03:35,689
+Usa resultados para reiniciar el aprendizaje.
+
+59
+00:03:35,909 --> 00:03:38,085
+El caso y sus datos son ficticios.
+
+60
+00:03:38,305 --> 00:03:41,857
+Revisa las fuentes indicadas en los materiales y continúa con la
+
+61
+00:03:41,857 --> 00:03:45,409
+práctica para transferir estos criterios a otra situación.

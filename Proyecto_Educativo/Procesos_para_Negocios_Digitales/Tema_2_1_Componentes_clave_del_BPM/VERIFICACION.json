@@ -1,0 +1,43 @@
+{
+  "folder": "Procesos_para_Negocios_Digitales/Tema_2_1_Componentes_clave_del_BPM",
+  "office_reopened": true,
+  "pdf_pages": {
+    "Presentacion.pdf": 10,
+    "Tarea.pdf": 3
+  },
+  "media": {
+    "Video.mp4": {
+      "duration": 225.25,
+      "bytes": 5877458,
+      "streams": [
+        {
+          "codec_type": "video",
+          "codec_name": "h264",
+          "width": 1920,
+          "height": 1080,
+          "pix_fmt": "yuv420p"
+        },
+        {
+          "codec_type": "audio",
+          "codec_name": "aac",
+          "sample_rate": "24000",
+          "channels": 1
+        }
+      ],
+      "decoded_entirely": true
+    },
+    "Audio.mp3": {
+      "duration": 211.487347,
+      "bytes": 2365258,
+      "streams": [
+        {
+          "codec_type": "audio",
+          "codec_name": "mp3",
+          "sample_rate": "44100",
+          "channels": 1
+        }
+      ],
+      "decoded_entirely": true
+    }
+  }
+}

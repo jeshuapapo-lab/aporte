@@ -1,0 +1,235 @@
+1
+00:00:00,250 --> 00:00:02,938
+Hoy estudiaremos componentes clave del bpm.
+
+2
+00:00:03,158 --> 00:00:07,115
+El propósito es relacionar modelado, ejecución, monitoreo y optimización como componentes
+
+3
+00:00:07,115 --> 00:00:11,073
+coordinados de una estructura de BPM.
+
+4
+00:00:11,293 --> 00:00:15,047
+Este contenido forma parte de procesos para negocios digitales.
+
+5
+00:00:15,267 --> 00:00:20,217
+Trabajaremos con conceptos y un caso ficticio para tomar decisiones justificadas.
+
+6
+00:00:20,958 --> 00:00:25,310
+Antes de proponer una solución, considera esta pregunta: ¿Qué componente aporta
+
+7
+00:00:25,310 --> 00:00:29,662
+cada evidencia y qué problema impide confiar plenamente en el tablero?
+
+8
+00:00:29,882 --> 00:00:33,445
+Al terminar deberás explicar tu decisión, indicar cómo la comprobarías y
+
+9
+00:00:33,445 --> 00:00:37,008
+reconocer los límites de la evidencia utilizada.
+
+10
+00:00:37,750 --> 00:00:41,270
+El modelado hace explícitos actividades, reglas, roles y resultados del proceso
+
+11
+00:00:41,270 --> 00:00:44,790
+con el detalle adecuado al propósito.
+
+12
+00:00:45,010 --> 00:00:48,551
+Puede incluir diagramas, definiciones y documentos asociados.
+
+13
+00:00:48,771 --> 00:00:51,865
+Una representación compartida facilita conversación y análisis, pero necesita versión y
+
+14
+00:00:51,865 --> 00:00:54,958
+responsable.
+
+15
+00:00:55,178 --> 00:00:58,591
+Si el modelo no refleja la operación real, las decisiones posteriores
+
+16
+00:00:58,591 --> 00:01:02,005
+pueden apoyarse en una visión que ya no existe.
+
+17
+00:01:02,750 --> 00:01:05,342
+La ejecución convierte reglas y acuerdos en trabajo realizado por personas
+
+18
+00:01:05,342 --> 00:01:07,934
+o sistemas.
+
+19
+00:01:08,154 --> 00:01:11,845
+Requiere asignar casos, conservar estado y atender excepciones.
+
+20
+00:01:12,065 --> 00:01:16,289
+No todo modelo se ejecuta directamente en una plataforma informática.
+
+21
+00:01:16,509 --> 00:01:21,095
+Distingue una descripción para comunicar el proceso de una especificación que
+
+22
+00:01:21,095 --> 00:01:25,682
+contenga datos y reglas suficientes para automatizar parte de su comportamiento.
+
+23
+00:01:26,417 --> 00:01:30,801
+El modelo describe y acuerda el funcionamiento; la ejecución lo convierte
+
+24
+00:01:30,801 --> 00:01:35,185
+en trabajo; el monitoreo produce evidencia; la optimización propone cambios.
+
+25
+00:01:35,405 --> 00:01:39,351
+El gobierno conecta decisiones y versiones a lo largo del recorrido.
+
+26
+00:01:39,571 --> 00:01:43,315
+Después de un cambio aprobado, debe comprobarse que la operación y
+
+27
+00:01:43,315 --> 00:01:47,059
+los indicadores utilizan reglas compatibles con el nuevo modelo.
+
+28
+00:01:47,792 --> 00:01:51,408
+Caso ficticio: una empresa dibuja el proceso de soporte, asigna casos
+
+29
+00:01:51,408 --> 00:01:55,024
+en una aplicación y muestra un tablero de tiempos.
+
+30
+00:01:55,244 --> 00:01:58,572
+Sin embargo, las solicitudes recibidas por teléfono quedan fuera del registro
+
+31
+00:01:58,572 --> 00:02:01,900
+y nadie aprueba cambios de prioridad.
+
+32
+00:02:02,120 --> 00:02:05,021
+El tablero representa solo parte del proceso.
+
+33
+00:02:05,241 --> 00:02:08,942
+Antes de optimizar, el equipo debe integrar esas entradas y acordar
+
+34
+00:02:08,942 --> 00:02:12,644
+quién puede cambiar reglas y cómo se registra su vigencia.
+
+35
+00:02:13,375 --> 00:02:17,876
+El monitoreo recoge eventos y medidas relevantes para conocer desempeño.
+
+36
+00:02:18,096 --> 00:02:21,072
+Define identificador del caso, actividad, instante y resultado cuando esos datos
+
+37
+00:02:21,072 --> 00:02:24,048
+sean necesarios.
+
+38
+00:02:24,268 --> 00:02:27,682
+Una cifra sin origen o definición es difícil de auditar.
+
+39
+00:02:27,902 --> 00:02:31,315
+El tablero debe permitir investigar desviaciones y no limitarse a mostrar
+
+40
+00:02:31,315 --> 00:02:34,728
+totales favorables; también importa si el registro omite casos abandonados o
+
+41
+00:02:34,728 --> 00:02:38,142
+actividades manuales.
+
+42
+00:02:38,875 --> 00:02:43,568
+La optimización usa evidencia para comparar alternativas y ajustar el proceso.
+
+43
+00:02:43,788 --> 00:02:48,418
+Gobierno significa decidir quién aprueba modelos, reglas, cambios e indicadores.
+
+44
+00:02:48,638 --> 00:02:51,518
+Es el vínculo entre los componentes: evita que una mejora en
+
+45
+00:02:51,518 --> 00:02:54,398
+el tablero nunca llegue a la operación o que un cambio
+
+46
+00:02:54,398 --> 00:02:57,278
+operativo deje al modelo desactualizado.
+
+47
+00:02:57,498 --> 00:03:03,322
+La estructura necesita retroalimentación y responsabilidades, además de aplicaciones conectadas.
+
+48
+00:03:04,042 --> 00:03:07,178
+Para aplicar lo aprendido, desarrolla la tarea editable.
+
+49
+00:03:07,398 --> 00:03:11,728
+Representa los cuatro componentes y las relaciones de información entre ellos.
+
+50
+00:03:11,948 --> 00:03:16,642
+Después, diseña el registro mínimo que incluya solicitudes web y telefónicas.
+
+51
+00:03:16,862 --> 00:03:20,286
+Justifica tus decisiones con los conceptos de esta explicación y comprueba
+
+52
+00:03:20,286 --> 00:03:23,710
+tus respuestas en la actividad interactiva.
+
+53
+00:03:24,458 --> 00:03:26,122
+Conserva estas ideas.
+
+54
+00:03:26,342 --> 00:03:28,966
+Los componentes se necesitan mutuamente.
+
+55
+00:03:29,186 --> 00:03:32,045
+La calidad del registro delimita el monitoreo.
+
+56
+00:03:32,265 --> 00:03:35,060
+El gobierno conecta modelos, reglas y cambios.
+
+57
+00:03:35,280 --> 00:03:37,456
+El caso y sus datos son ficticios.
+
+58
+00:03:37,676 --> 00:03:41,228
+Revisa las fuentes indicadas en los materiales y continúa con la
+
+59
+00:03:41,228 --> 00:03:44,780
+práctica para transferir estos criterios a otra situación.

@@ -1,0 +1,243 @@
+1
+00:00:00,250 --> 00:00:02,213
+Hoy estudiaremos certificaciones.
+
+2
+00:00:02,433 --> 00:00:07,243
+El propósito es distinguir certificaciones de personas, acreditaciones formativas y certificaciones
+
+3
+00:00:07,243 --> 00:00:12,054
+organizacionales relacionadas con gestión por procesos.
+
+4
+00:00:12,274 --> 00:00:16,029
+Este contenido forma parte de procesos para negocios digitales.
+
+5
+00:00:16,249 --> 00:00:21,198
+Trabajaremos con conceptos y un caso ficticio para tomar decisiones justificadas.
+
+6
+00:00:21,958 --> 00:00:26,470
+Antes de proponer una solución, considera esta pregunta: ¿Qué afirmación sería
+
+7
+00:00:26,470 --> 00:00:30,982
+verificable y qué información falta para hablar de certificación profesional?
+
+8
+00:00:31,202 --> 00:00:34,765
+Al terminar deberás explicar tu decisión, indicar cómo la comprobarías y
+
+9
+00:00:34,765 --> 00:00:38,328
+reconocer los límites de la evidencia utilizada.
+
+10
+00:00:39,083 --> 00:00:42,475
+Una certificación declara que una persona, producto, sistema u organización cumple
+
+11
+00:00:42,475 --> 00:00:45,867
+criterios de un esquema definido.
+
+12
+00:00:46,087 --> 00:00:49,085
+En BPM importa identificar quién emite la credencial, qué competencias evalúa
+
+13
+00:00:49,085 --> 00:00:52,082
+y a quién corresponde.
+
+14
+00:00:52,302 --> 00:00:57,731
+Un certificado de asistencia demuestra participación bajo sus condiciones, pero no
+
+15
+00:00:57,731 --> 00:01:03,161
+equivale automáticamente a una certificación profesional basada en evaluación de competencias.
+
+16
+00:01:03,917 --> 00:01:08,215
+ABPMP publica certificaciones profesionales relacionadas con BPM, como CBPA, CBPP y
+
+17
+00:01:08,215 --> 00:01:12,514
+CBPL, con alcances y requisitos propios.
+
+18
+00:01:12,734 --> 00:01:17,619
+Los requisitos, disponibilidad y condiciones deben comprobarse en su fuente vigente.
+
+19
+00:01:17,839 --> 00:01:22,042
+También existen credenciales de proveedores sobre herramientas específicas.
+
+20
+00:01:22,262 --> 00:01:25,505
+Dominio de una plataforma no demuestra por sí solo competencia integral
+
+21
+00:01:25,505 --> 00:01:28,747
+en análisis, cambio y gestión de procesos.
+
+22
+00:01:29,500 --> 00:01:32,977
+Define primero qué competencia o reconocimiento necesitas.
+
+23
+00:01:33,197 --> 00:01:36,269
+Revisa el esquema en la fuente oficial y distingue formación previa,
+
+24
+00:01:36,269 --> 00:01:39,341
+evaluación y requisitos de experiencia.
+
+25
+00:01:39,561 --> 00:01:42,505
+Verifica que la credencial emitida pueda comprobarse y que la afirmación
+
+26
+00:01:42,505 --> 00:01:45,449
+que haces respete su alcance.
+
+27
+00:01:45,669 --> 00:01:48,965
+Después considera las condiciones de mantenimiento y actualización, sin asumir que
+
+28
+00:01:48,965 --> 00:01:52,261
+una credencial es indefinida.
+
+29
+00:01:53,000 --> 00:01:56,072
+Caso ficticio: una analista termina un curso de ocho horas y
+
+30
+00:01:56,072 --> 00:01:59,144
+recibe un certificado de participación.
+
+31
+00:01:59,364 --> 00:02:03,780
+Su empresa quiere anunciar que está certificada internacionalmente en BPM.
+
+32
+00:02:04,000 --> 00:02:07,861
+Antes de publicar, debe distinguir la formación de la analista de
+
+33
+00:02:07,861 --> 00:02:11,723
+una certificación profesional y de una certificación organizacional.
+
+34
+00:02:11,943 --> 00:02:15,815
+Si decide preparar una credencial profesional, necesita revisar requisitos actuales y
+
+35
+00:02:15,815 --> 00:02:19,687
+un plan realista de aprendizaje y evidencia.
+
+36
+00:02:20,417 --> 00:02:24,769
+Una certificación profesional pertenece a la persona que cumple su esquema.
+
+37
+00:02:24,989 --> 00:02:28,530
+Una certificación organizacional, como la de un sistema de gestión bajo
+
+38
+00:02:28,530 --> 00:02:32,071
+un estándar aplicable, tiene otro objeto y alcance.
+
+39
+00:02:32,291 --> 00:02:35,897
+No debe presentarse una credencial de un empleado como certificación de
+
+40
+00:02:35,897 --> 00:02:39,502
+toda la empresa, ni confundir una formación en BPM con una
+
+41
+00:02:39,502 --> 00:02:43,107
+autorización legal para cualquier servicio profesional.
+
+42
+00:02:43,833 --> 00:02:47,318
+Relaciona la credencial con un objetivo y revisa entidad emisora, requisitos,
+
+43
+00:02:47,318 --> 00:02:50,802
+examen, experiencia requerida, vigencia, renovación y costos en la información oficial
+
+44
+00:02:50,802 --> 00:02:54,287
+actual.
+
+45
+00:02:54,507 --> 00:02:56,928
+Comprueba autenticidad y alcance antes de usar un logotipo o afirmación
+
+46
+00:02:56,928 --> 00:02:59,349
+comercial.
+
+47
+00:02:59,569 --> 00:03:04,071
+La certificación puede apoyar desarrollo profesional, pero no garantiza empleo ni
+
+48
+00:03:04,071 --> 00:03:08,572
+resultados de proyectos sin práctica, ética y actualización continua.
+
+49
+00:03:09,333 --> 00:03:12,469
+Para aplicar lo aprendido, desarrolla la tarea editable.
+
+50
+00:03:12,689 --> 00:03:19,196
+Clasifica tres evidencias ficticias: asistencia, credencial profesional y certificación organizacional.
+
+51
+00:03:19,416 --> 00:03:21,517
+Después, corrige el anuncio del caso para que respete la evidencia
+
+52
+00:03:21,517 --> 00:03:23,619
+disponible.
+
+53
+00:03:23,839 --> 00:03:27,263
+Justifica tus decisiones con los conceptos de esta explicación y comprueba
+
+54
+00:03:27,263 --> 00:03:30,687
+tus respuestas en la actividad interactiva.
+
+55
+00:03:31,417 --> 00:03:33,081
+Conserva estas ideas.
+
+56
+00:03:33,301 --> 00:03:36,351
+Distingue asistencia, competencia y organización.
+
+57
+00:03:36,571 --> 00:03:39,601
+Comprueba emisor, alcance y requisitos vigentes.
+
+58
+00:03:39,821 --> 00:03:42,253
+Comunica solo lo que la evidencia acredita.
+
+59
+00:03:42,473 --> 00:03:44,649
+El caso y sus datos son ficticios.
+
+60
+00:03:44,869 --> 00:03:48,421
+Revisa las fuentes indicadas en los materiales y continúa con la
+
+61
+00:03:48,421 --> 00:03:51,973
+práctica para transferir estos criterios a otra situación.

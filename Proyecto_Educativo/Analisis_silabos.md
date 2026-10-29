@@ -1,47 +1,38 @@
-# Análisis de los sílabos y matriz de producción
+# Análisis y cobertura de los dos sílabos
 
-Fuente: los dos PDF aportados por el usuario, Universidad Politécnica Salesiana, período 2026–2027; docente Edgar Olmedo Andrade Espín. Se conserva la secuencia de contenidos de la página 1 de cada sílabo; solo se normalizan espacios y puntuación final. Los encabezados de unidad se mantienen. Cada subtema numerado es una unidad de producción propuesta, no una asignación confirmada por el docente.
+Fuente curricular: los dos PDF adjuntos de la Universidad Politécnica Salesiana, período 2026–2027, docente Edgar Olmedo Andrade Espín. Se conserva la secuencia y denominación de las unidades y los 27 contenidos numerados de la página 1; solo se normalizan espacios y puntuación final.
 
-## Materias
+El usuario solicitó desarrollar **todos los subtemas de ambos sílabos**. No queda una selección de temas pendiente. Este alcance responde a su petición, no a una atribución de asignación individual contenida en los PDF.
 
-| Materia | Código | Nivel | Horas | Unidades | Subtemas |
-|---|---|---:|---:|---:|---:|
-| Negocios Electrónicos | E-CA-LND-202 | 4 | 120 | 4 | 12 |
-| Procesos para Negocios Digitales | E-CA-LND-214 | 8 | 160 | 4 | 15 |
-
-## Tabla completa de materiales
-
-| Materia | Unidad | Nº | Tema / subtema literal | Materiales | Alcance |
+| Materia | Unidad | Nº | Subtema | Entregables | Estado |
 |---|---|---|---|---|---|
-| Negocios Electrónicos | 1. Estructura del negocio electrónico | 1.1 | Las páginas de inicio | PPTX · MP4 · MP3 · DOCX · Educaplay | Piloto propuesto |
-| Negocios Electrónicos | 1. Estructura del negocio electrónico | 1.2 | División por departamentos y categorías | PPTX · MP4 · MP3 · DOCX · Educaplay | Asignación por confirmar |
-| Negocios Electrónicos | 1. Estructura del negocio electrónico | 1.3 | Páginas de ventas y servicios | PPTX · MP4 · MP3 · DOCX · Educaplay | Asignación por confirmar |
-| Negocios Electrónicos | 1. Estructura del negocio electrónico | 1.4 | Aspectos institucionales | PPTX · MP4 · MP3 · DOCX · Educaplay | Asignación por confirmar |
-| Negocios Electrónicos | 2. Sistemas empresariales electrónicos integrales | 2.1 | Tecnología en la gestión de cadena de valor | PPTX · MP4 · MP3 · DOCX · Educaplay | Asignación por confirmar |
-| Negocios Electrónicos | 2. Sistemas empresariales electrónicos integrales | 2.2 | Metodología CRM | PPTX · MP4 · MP3 · DOCX · Educaplay | Asignación por confirmar |
-| Negocios Electrónicos | 3. Sistemas para Mypes y Pymes y valor financiero de los sistemas electrónicos | 3.1 | Diferentes sistemas para Mypes y Pymes | PPTX · MP4 · MP3 · DOCX · Educaplay | Asignación por confirmar |
-| Negocios Electrónicos | 3. Sistemas para Mypes y Pymes y valor financiero de los sistemas electrónicos | 3.2 | Rendimiento financiero de los negocios electrónicos | PPTX · MP4 · MP3 · DOCX · Educaplay | Asignación por confirmar |
-| Negocios Electrónicos | 3. Sistemas para Mypes y Pymes y valor financiero de los sistemas electrónicos | 3.3 | Integraciones rentables de software y hardware | PPTX · MP4 · MP3 · DOCX · Educaplay | Asignación por confirmar |
-| Negocios Electrónicos | 3. Sistemas para Mypes y Pymes y valor financiero de los sistemas electrónicos | 3.4 | Sistemas de pago y documentos electrónicos | PPTX · MP4 · MP3 · DOCX · Educaplay | Asignación por confirmar |
-| Negocios Electrónicos | 4. Sistemas para negocios globales y negocios móviles | 4.1 | Internacionalización de los negocios electrónicos | PPTX · MP4 · MP3 · DOCX · Educaplay | Asignación por confirmar |
-| Negocios Electrónicos | 4. Sistemas para negocios globales y negocios móviles | 4.2 | Aplicaciones para negocios móviles | PPTX · MP4 · MP3 · DOCX · Educaplay | Asignación por confirmar |
-| Procesos para Negocios Digitales | 1. Introducción del BPM | 1.1 | Generalidades del BPM | PPTX · MP4 · MP3 · DOCX · Educaplay | Asignación por confirmar |
-| Procesos para Negocios Digitales | 1. Introducción del BPM | 1.2 | Beneficios del BPM en los negocios digitales | PPTX · MP4 · MP3 · DOCX · Educaplay | Asignación por confirmar |
-| Procesos para Negocios Digitales | 1. Introducción del BPM | 1.3 | Certificaciones | PPTX · MP4 · MP3 · DOCX · Educaplay | Asignación por confirmar |
-| Procesos para Negocios Digitales | 1. Introducción del BPM | 1.4 | Ciclo de vida general del BPM | PPTX · MP4 · MP3 · DOCX · Educaplay | Asignación por confirmar |
-| Procesos para Negocios Digitales | 2. Estructura del BPM | 2.1 | Componentes clave del BPM | PPTX · MP4 · MP3 · DOCX · Educaplay | Asignación por confirmar |
-| Procesos para Negocios Digitales | 2. Estructura del BPM | 2.2 | Fases del ciclo de vida del BPM | PPTX · MP4 · MP3 · DOCX · Educaplay | Asignación por confirmar |
-| Procesos para Negocios Digitales | 2. Estructura del BPM | 2.3 | Rol del BPM en la mejora continua | PPTX · MP4 · MP3 · DOCX · Educaplay | Asignación por confirmar |
-| Procesos para Negocios Digitales | 3. Técnicas de modelado de procesos | 3.1 | Importancia del modelado en la gestión de procesos | PPTX · MP4 · MP3 · DOCX · Educaplay | Asignación por confirmar |
-| Procesos para Negocios Digitales | 3. Técnicas de modelado de procesos | 3.2 | Buenas prácticas de modelado | PPTX · MP4 · MP3 · DOCX · Educaplay | Asignación por confirmar |
-| Procesos para Negocios Digitales | 3. Técnicas de modelado de procesos | 3.3 | Herramientas digitales para modelado de procesos | PPTX · MP4 · MP3 · DOCX · Educaplay | Asignación por confirmar |
-| Procesos para Negocios Digitales | 3. Técnicas de modelado de procesos | 3.4 | Análisis y diagnóstico de procesos existentes y rediseño de procesos | PPTX · MP4 · MP3 · DOCX · Educaplay | Asignación por confirmar |
-| Procesos para Negocios Digitales | 4. Implementación del BPM | 4.1 | Planificación de un proyecto BPM | PPTX · MP4 · MP3 · DOCX · Educaplay | Asignación por confirmar |
-| Procesos para Negocios Digitales | 4. Implementación del BPM | 4.2 | Indicadores para evaluar la implementación | PPTX · MP4 · MP3 · DOCX · Educaplay | Asignación por confirmar |
-| Procesos para Negocios Digitales | 4. Implementación del BPM | 4.3 | Evaluación y selección de procesos a mejorar | PPTX · MP4 · MP3 · DOCX · Educaplay | Asignación por confirmar |
-| Procesos para Negocios Digitales | 4. Implementación del BPM | 4.4 | Estudio de caso | PPTX · MP4 · MP3 · DOCX · Educaplay | Asignación por confirmar |
-
-Son 27 subtemas y 135 entregables si se seleccionan todos. Una actividad preparada para Educaplay no equivale a una actividad publicada.
+| Negocios Electrónicos | 1. Estructura del negocio electrónico | 1.1 | Las páginas de inicio | PPTX, MP4, MP3, DOCX y Educaplay | Generado y verificado |
+| Negocios Electrónicos | 1. Estructura del negocio electrónico | 1.2 | División por departamentos y categorías | PPTX, MP4, MP3, DOCX y Educaplay | Generado y verificado |
+| Negocios Electrónicos | 1. Estructura del negocio electrónico | 1.3 | Páginas de ventas y servicios | PPTX, MP4, MP3, DOCX y Educaplay | Generado y verificado |
+| Negocios Electrónicos | 1. Estructura del negocio electrónico | 1.4 | Aspectos institucionales | PPTX, MP4, MP3, DOCX y Educaplay | Generado y verificado |
+| Negocios Electrónicos | 2. Sistemas empresariales electrónicos integrales | 2.1 | Tecnología en la gestión de cadena de valor | PPTX, MP4, MP3, DOCX y Educaplay | Generado y verificado |
+| Negocios Electrónicos | 2. Sistemas empresariales electrónicos integrales | 2.2 | Metodología CRM | PPTX, MP4, MP3, DOCX y Educaplay | Generado y verificado |
+| Negocios Electrónicos | 3. Sistemas para Mypes y Pymes y valor financiero de los sistemas electrónicos | 3.1 | Diferentes sistemas para Mypes y Pymes | PPTX, MP4, MP3, DOCX y Educaplay | Generado y verificado |
+| Negocios Electrónicos | 3. Sistemas para Mypes y Pymes y valor financiero de los sistemas electrónicos | 3.2 | Rendimiento financiero de los negocios electrónicos | PPTX, MP4, MP3, DOCX y Educaplay | Generado y verificado |
+| Negocios Electrónicos | 3. Sistemas para Mypes y Pymes y valor financiero de los sistemas electrónicos | 3.3 | Integraciones rentables de software y hardware | PPTX, MP4, MP3, DOCX y Educaplay | Generado y verificado |
+| Negocios Electrónicos | 3. Sistemas para Mypes y Pymes y valor financiero de los sistemas electrónicos | 3.4 | Sistemas de pago y documentos electrónicos | PPTX, MP4, MP3, DOCX y Educaplay | Generado y verificado |
+| Negocios Electrónicos | 4. Sistemas para negocios globales y negocios móviles | 4.1 | Internacionalización de los negocios electrónicos | PPTX, MP4, MP3, DOCX y Educaplay | Generado y verificado |
+| Negocios Electrónicos | 4. Sistemas para negocios globales y negocios móviles | 4.2 | Aplicaciones para negocios móviles | PPTX, MP4, MP3, DOCX y Educaplay | En producción |
+| Procesos para Negocios Digitales | 1. Introducción del BPM | 1.1 | Generalidades del BPM | PPTX, MP4, MP3, DOCX y Educaplay | En producción |
+| Procesos para Negocios Digitales | 1. Introducción del BPM | 1.2 | Beneficios del BPM en los negocios digitales | PPTX, MP4, MP3, DOCX y Educaplay | En producción |
+| Procesos para Negocios Digitales | 1. Introducción del BPM | 1.3 | Certificaciones | PPTX, MP4, MP3, DOCX y Educaplay | En producción |
+| Procesos para Negocios Digitales | 1. Introducción del BPM | 1.4 | Ciclo de vida general del BPM | PPTX, MP4, MP3, DOCX y Educaplay | En producción |
+| Procesos para Negocios Digitales | 2. Estructura del BPM | 2.1 | Componentes clave del BPM | PPTX, MP4, MP3, DOCX y Educaplay | En producción |
+| Procesos para Negocios Digitales | 2. Estructura del BPM | 2.2 | Fases del ciclo de vida del BPM | PPTX, MP4, MP3, DOCX y Educaplay | En producción |
+| Procesos para Negocios Digitales | 2. Estructura del BPM | 2.3 | Rol del BPM en la mejora continua | PPTX, MP4, MP3, DOCX y Educaplay | En producción |
+| Procesos para Negocios Digitales | 3. Técnicas de modelado de procesos | 3.1 | Importancia del modelado en la gestión de procesos | PPTX, MP4, MP3, DOCX y Educaplay | En producción |
+| Procesos para Negocios Digitales | 3. Técnicas de modelado de procesos | 3.2 | Buenas prácticas de modelado | PPTX, MP4, MP3, DOCX y Educaplay | En producción |
+| Procesos para Negocios Digitales | 3. Técnicas de modelado de procesos | 3.3 | Herramientas digitales para modelado de procesos | PPTX, MP4, MP3, DOCX y Educaplay | En producción |
+| Procesos para Negocios Digitales | 3. Técnicas de modelado de procesos | 3.4 | Análisis y diagnóstico de procesos existentes y rediseño de procesos | PPTX, MP4, MP3, DOCX y Educaplay | En producción |
+| Procesos para Negocios Digitales | 4. Implementación del BPM | 4.1 | Planificación de un proyecto BPM | PPTX, MP4, MP3, DOCX y Educaplay | En producción |
+| Procesos para Negocios Digitales | 4. Implementación del BPM | 4.2 | Indicadores para evaluar la implementación | PPTX, MP4, MP3, DOCX y Educaplay | En producción |
+| Procesos para Negocios Digitales | 4. Implementación del BPM | 4.3 | Evaluación y selección de procesos a mejorar | PPTX, MP4, MP3, DOCX y Educaplay | En producción |
+| Procesos para Negocios Digitales | 4. Implementación del BPM | 4.4 | Estudio de caso | PPTX, MP4, MP3, DOCX y Educaplay | En producción |
 
 ## Resultados de aprendizaje de las unidades
 
@@ -49,22 +40,16 @@ Son 27 subtemas y 135 entregables si se seleccionan todos. Una actividad prepara
 
 **Procesos para Negocios Digitales:** U1: Reconoce los conceptos relacionados con BPM. U2: Identifica claramente la estructura de un BPM. U3: Maneja las técnicas de modelado de procesos. U4: Implementa proyectos con base a BPM.
 
-## Actividades oficiales y elementos que no son nuevos temas
+## Actividades y evaluación oficiales
 
-Negocios Electrónicos: el PDF tiene dos páginas; el apartado 3 aparece sin un desarrollo detallado de actividades en el archivo suministrado. No se han inventado tareas oficiales ni ponderaciones.
+El sílabo de Negocios Electrónicos presenta el encabezado de planificación sin desarrollar una tabla de actividades en el archivo recibido. No se inventan ponderaciones oficiales para esa materia.
 
-Procesos para Negocios Digitales: pp. 2–6 incluyen trabajo/taller colaborativo, Tarea 1, Proyecto entregable 1, Tarea 2, Entregable 2 proyecto, dos talleres colaborativos de la U3, Entregable 3 proyecto y Entregable 4, además de los dos exámenes parciales. La tabla asigna 15 puntos a U1, 15 a U2, 20 a U3, 10 a U4 y 20 a cada examen: total 100. Las tareas, talleres y exámenes son actividades y evidencias, no subtemas adicionales. Los indicadores destacan vocabulario y ciclo BPM (U1), componentes e interpretación de esquemas (U2), notación BPMN (U3) y propuestas, herramientas y KPI (U4).
+Procesos para Negocios Digitales incluye trabajo y talleres colaborativos, Tareas 1 y 2, cuatro entregables de proyecto y dos exámenes parciales. Su tabla suma 100 puntos: U1 15; U2 15; U3 20; U4 10; cada examen parcial 20. Las tareas y exámenes son actividades, no subtemas añadidos a la matriz. Los resultados y criterios abarcan vocabulario, estructura y ciclo BPM, interpretación de diagramas, BPMN, herramientas y KPI.
 
-En la planificación aparece una variante truncada de 3.1 en Procesos para Negocios Digitales; se usa como denominación canónica la estructura de la página 1: «Importancia del modelado en la gestión de procesos». Las bibliografías y el perfil docente se conservan en los PDF originales, incluidos en Fuentes/.
+Los objetivos particulares, los casos, las tareas, los tiempos sugeridos y las rúbricas de esta colección son elaboraciones didácticas. La rúbrica local de 20 puntos de cada tarea no sustituye las ponderaciones del profesor. Las bibliografías y perfiles docentes originales se conservan íntegros en Fuentes/.
 
-## Fase 2: selección pendiente
+En la planificación de PND aparece una variante truncada de 3.1; se conserva como título canónico el de la página 1: Importancia del modelado en la gestión de procesos.
 
-Los documentos no identifican al estudiante ni le asignan contenidos particulares. Todos los subtemas de la tabla son candidatos de selección; corresponde confirmar la asignación con el profesor. Para avanzar se produjo como propuesta el subtema 1.1 de Negocios Electrónicos: Las páginas de inicio. Esta selección no se presenta como obligación del docente. Los otros 26 subtemas no se han desarrollado.
+## Organización de la producción
 
-Propuestas de alcance, si el profesor permite elegir: un tema de entrada (NE 1.1); un tema introductorio de la segunda materia (PND 1.1); o una unidad completa, previa confirmación. No se atribuye ninguna de estas propuestas al sílabo.
-
-## Procedencia
-
-- Universidad Politécnica Salesiana (2026). Sílabo de Negocios Electrónicos, E-CA-LND-202. Unidad 1, tema 1.1, p. 1. PDF adjunto por el usuario.
-- Universidad Politécnica Salesiana (2026). Sílabo de Procesos para Negocios Digitales, E-CA-LND-214. Estructura curricular, p. 1; actividades y evaluación, pp. 2–6. PDF adjunto por el usuario.
-- W3C (2023). Web Content Accessibility Guidelines (WCAG) 2.2. https://www.w3.org/TR/WCAG22/
+Se produjo primero NE 1.1 como piloto y se amplió la misma estructura a los otros 26 subtemas a petición del usuario. Cada tema contiene los cinco entregables principales y extras para práctica y edición. Las actividades de Educaplay están preparadas para publicar en una cuenta autorizada, sin inventar enlaces.
