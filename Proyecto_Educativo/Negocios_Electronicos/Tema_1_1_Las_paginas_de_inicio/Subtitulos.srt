@@ -1,0 +1,275 @@
+1
+00:00:00,280 --> 00:00:03,366
+Imagina que entras a una tienda y nadie te explica qué
+
+2
+00:00:03,366 --> 00:00:04,909
+vende ni por dónde empezar.
+
+3
+00:00:05,159 --> 00:00:06,951
+En internet ocurre lo mismo.
+
+4
+00:00:07,201 --> 00:00:09,335
+La página de inicio debe orientar.
+
+5
+00:00:09,585 --> 00:00:13,862
+En este tema aprenderás a reconocer sus elementos, proponer una estructura
+
+6
+00:00:13,862 --> 00:00:16,753
+clara y evaluar si ayuda a las personas a avanzar.
+
+7
+00:00:17,613 --> 00:00:21,559
+La página de inicio presenta la oferta y distribuye los recorridos
+
+8
+00:00:21,559 --> 00:00:22,157
+del sitio.
+
+9
+00:00:22,407 --> 00:00:26,023
+Debe responder tres preguntas: qué ofrece el negocio, para quién y
+
+10
+00:00:26,023 --> 00:00:27,229
+qué puedo hacer ahora.
+
+11
+00:00:27,479 --> 00:00:29,655
+No todas las visitas comienzan aquí.
+
+12
+00:00:29,905 --> 00:00:33,710
+Una persona también puede llegar directamente a un producto desde un
+
+13
+00:00:33,710 --> 00:00:34,214
+buscador.
+
+14
+00:00:34,464 --> 00:00:38,048
+Por eso, el resto del sitio necesita orientación coherente.
+
+15
+00:00:38,905 --> 00:00:42,254
+Una estructura útil comienza con identidad y navegación.
+
+16
+00:00:42,504 --> 00:00:46,963
+El bloque principal comunica el beneficio y presenta una acción prioritaria.
+
+17
+00:00:47,213 --> 00:00:51,160
+Después, el contenido de apoyo muestra la oferta y aporta señales
+
+18
+00:00:51,160 --> 00:00:52,738
+de confianza verificables.
+
+19
+00:00:52,988 --> 00:00:55,996
+El pie reúne contacto, ayuda e información legal.
+
+20
+00:00:56,246 --> 00:01:00,029
+No es una plantilla obligatoria: el orden se adapta al propósito
+
+21
+00:01:00,029 --> 00:01:01,921
+y a las necesidades del público.
+
+22
+00:01:02,780 --> 00:01:06,236
+Pensemos en Minga Cacao, un negocio ficticio de Guayaquil.
+
+23
+00:01:06,486 --> 00:01:09,899
+El mensaje calidad y pasión para ti no explica su oferta.
+
+24
+00:01:10,149 --> 00:01:14,096
+Chocolate de cacao ecuatoriano para regalar resulta más concreto.
+
+25
+00:01:14,346 --> 00:01:18,144
+Un botón que dice explorar regalos anticipa mejor el destino que
+
+26
+00:01:18,144 --> 00:01:18,975
+haz clic aquí.
+
+27
+00:01:19,225 --> 00:01:23,641
+Evita prometer entregas o certificaciones que el negocio no puede demostrar.
+
+28
+00:01:24,488 --> 00:01:26,856
+Diseña los recorridos según la intención.
+
+29
+00:01:27,106 --> 00:01:30,816
+Quien ya sabe lo que busca necesita acceder fácilmente a las
+
+30
+00:01:30,816 --> 00:01:31,373
+opciones.
+
+31
+00:01:31,623 --> 00:01:34,695
+Quien está comparando necesita contexto y evidencia.
+
+32
+00:01:34,945 --> 00:01:38,145
+Priorizar una acción no significa eliminar las demás.
+
+33
+00:01:38,395 --> 00:01:41,998
+Significa ordenar su importancia para que la página no obligue a
+
+34
+00:01:41,998 --> 00:01:45,094
+elegir entre demasiadas llamadas que compiten entre sí.
+
+35
+00:01:45,947 --> 00:01:49,445
+Comprueba la página en una pantalla pequeña y con teclado.
+
+36
+00:01:49,695 --> 00:01:51,039
+¿Se lee sin esfuerzo?
+
+37
+00:01:51,289 --> 00:01:53,273
+¿Se distingue dónde está el foco?
+
+38
+00:01:53,523 --> 00:01:57,342
+Las imágenes informativas necesitan texto alternativo útil.
+
+39
+00:01:57,592 --> 00:02:02,269
+Como referencia, las pautas de accesibilidad web establecen contraste mínimo de
+
+40
+00:02:02,269 --> 00:02:05,763
+cuatro coma cinco a uno para texto normal, con excepciones.
+
+41
+00:02:06,013 --> 00:02:10,693
+La claridad visual debe acompañarse de una experiencia que distintas personas
+
+42
+00:02:10,693 --> 00:02:11,666
+puedan utilizar.
+
+43
+00:02:12,530 --> 00:02:15,730
+Elige una acción vinculada al objetivo antes de medir.
+
+44
+00:02:15,980 --> 00:02:19,579
+Si cincuenta de dos mil sesiones que vieron el inicio completan
+
+45
+00:02:19,579 --> 00:02:22,721
+esa acción, la proporción es dos coma cinco por ciento.
+
+46
+00:02:22,971 --> 00:02:24,721
+Los datos son hipotéticos.
+
+47
+00:02:24,971 --> 00:02:27,595
+Define el período y el conjunto de sesiones.
+
+48
+00:02:27,845 --> 00:02:30,989
+Un clic no equivale a una venta, y una mejora observada
+
+49
+00:02:30,989 --> 00:02:33,562
+no demuestra por sí sola qué cambio la causó.
+
+50
+00:02:34,405 --> 00:02:35,877
+Ahora aplica el criterio.
+
+51
+00:02:36,127 --> 00:02:40,377
+El inicio ficticio de Minga Cacao dice bienvenidos, muestra seis botones
+
+52
+00:02:40,377 --> 00:02:42,207
+iguales y no explica la oferta.
+
+53
+00:02:42,457 --> 00:02:46,283
+Propón un mensaje concreto, dibuja una versión móvil y elige una
+
+54
+00:02:46,283 --> 00:02:47,300
+acción principal.
+
+55
+00:02:47,550 --> 00:02:51,560
+Justifica dos decisiones de accesibilidad y una medida de resultado.
+
+56
+00:02:51,810 --> 00:02:56,184
+No necesitas programar: debes demostrar por qué tu propuesta orienta mejor.
+
+57
+00:02:57,030 --> 00:03:00,379
+Recuerda tres ideas: orientar, priorizar y comprobar.
+
+58
+00:03:00,629 --> 00:03:04,646
+Una buena página de inicio explica la oferta, ordena los recorridos
+
+59
+00:03:04,646 --> 00:03:06,624
+y se evalúa con criterios claros.
+
+60
+00:03:06,874 --> 00:03:10,726
+Antes de publicarla, pide a otra persona que identifique qué ofrece
+
+61
+00:03:10,726 --> 00:03:14,234
+el negocio y cuál sería su siguiente paso, sin recibir ayuda.
+
+62
+00:03:14,484 --> 00:03:17,705
+Su respuesta te dará una primera pista para mejorar.
+
+63
+00:03:18,572 --> 00:03:21,974
+El tema corresponde al subtema uno punto uno del sílabo de
+
+64
+00:03:21,974 --> 00:03:23,265
+Negocios Electrónicos.
+
+65
+00:03:23,515 --> 00:03:27,337
+La referencia técnica de accesibilidad es la versión dos punto dos
+
+66
+00:03:27,337 --> 00:03:29,190
+de las pautas del consorcio web.
+
+67
+00:03:29,440 --> 00:03:32,405
+Continúa con la tarea y el cuestionario de práctica.
+
+68
+00:03:32,655 --> 00:03:36,274
+Los ejemplos, el caso del negocio y sus cifras se elaboraron
+
+69
+00:03:36,274 --> 00:03:37,540
+con fines educativos.

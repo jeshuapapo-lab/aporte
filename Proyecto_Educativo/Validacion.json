@@ -1,0 +1,118 @@
+{
+  "fecha": "2026-10-29",
+  "alcance": "1 piloto: Negocios Electrónicos, 1.1. Las páginas de inicio; otros 26 pendientes de asignación",
+  "subtemas_matriz": 27,
+  "office_integridad_y_reapertura": [
+    "Matriz_temas.docx",
+    "Negocios_Electronicos/Tema_1_1_Las_paginas_de_inicio/Tarea.docx",
+    "Negocios_Electronicos/Tema_1_1_Las_paginas_de_inicio/Presentacion.pptx"
+  ],
+  "pdf_abiertos_paginas": {
+    "Matriz_temas.pdf": 2,
+    "Fuentes/silabo_asignatura_418022.pdf": 7,
+    "Fuentes/silabo_asignatura_417986 (1) (1).pdf": 2,
+    "Negocios_Electronicos/Tema_1_1_Las_paginas_de_inicio/Tarea.pdf": 4,
+    "Negocios_Electronicos/Tema_1_1_Las_paginas_de_inicio/Presentacion.pdf": 10
+  },
+  "medios": {
+    "Video.mp4": {
+      "duration_seconds": 218.125,
+      "bytes": 7851949,
+      "streams": [
+        {
+          "codec_name": "h264",
+          "codec_type": "video",
+          "width": 1920,
+          "height": 1080,
+          "pix_fmt": "yuv420p",
+          "r_frame_rate": "24/1"
+        },
+        {
+          "codec_name": "aac",
+          "codec_type": "audio",
+          "sample_rate": "48000",
+          "channels": 1,
+          "r_frame_rate": "0/0"
+        }
+      ]
+    },
+    "Audio.mp3": {
+      "duration_seconds": 197.198367,
+      "bytes": 2173763,
+      "streams": [
+        {
+          "codec_name": "mp3",
+          "codec_type": "audio",
+          "sample_rate": "44100",
+          "channels": 1,
+          "r_frame_rate": "0/0"
+        }
+      ]
+    }
+  },
+  "decodificacion_ffmpeg_completa": {
+    "Video.mp4": "sin errores",
+    "Audio.mp3": "sin errores"
+  },
+  "reproduccion_chromium": {
+    "Video.mp4": {
+      "duracion": 218.125,
+      "avance": 0.831067,
+      "error": null,
+      "resolucion": [
+        1920,
+        1080
+      ]
+    },
+    "Audio.mp3": {
+      "duracion": 197.151995,
+      "avance": 0.854677,
+      "error": null
+    }
+  },
+  "cuestionario": {
+    "preguntas": 10,
+    "aciertos": "10/10",
+    "errores": "0/10",
+    "reinicio": true,
+    "teclado": true,
+    "viewport_movil": [
+      390,
+      844
+    ],
+    "desbordamiento_horizontal": false,
+    "errores_javascript": []
+  },
+  "sonoridad_ffmpeg": {
+    "Video.mp4": {
+      "input_i": "-17.45",
+      "input_tp": "-1.84",
+      "input_lra": "2.10",
+      "input_thresh": "-27.76",
+      "output_i": "-16.41",
+      "output_tp": "-1.50",
+      "output_lra": "2.00",
+      "output_thresh": "-26.72",
+      "normalization_type": "dynamic",
+      "target_offset": "0.41"
+    },
+    "Audio.mp3": {
+      "input_i": "-17.22",
+      "input_tp": "-1.33",
+      "input_lra": "2.70",
+      "input_thresh": "-27.44",
+      "output_i": "-16.52",
+      "output_tp": "-1.50",
+      "output_lra": "2.50",
+      "output_thresh": "-26.73",
+      "normalization_type": "dynamic",
+      "target_offset": "0.52"
+    }
+  },
+  "limites": [
+    "Sin evaluación auditiva humana de naturalidad o pronunciación",
+    "Educaplay preparado sin publicar",
+    "26 subtemas no desarrollados",
+    "ZIP del piloto, no de todos los temas"
+  ]
+}
