@@ -1,0 +1,259 @@
+1
+00:00:00,250 --> 00:00:03,685
+Hoy estudiaremos sistemas de pago y documentos electrónicos.
+
+2
+00:00:03,905 --> 00:00:08,267
+El propósito es distinguir el ciclo de pagos electrónicos y documentos
+
+3
+00:00:08,267 --> 00:00:12,630
+electrónicos, incorporando conciliación, seguridad y requisitos aplicables.
+
+4
+00:00:12,850 --> 00:00:15,943
+Este contenido forma parte de negocios electrónicos.
+
+5
+00:00:16,163 --> 00:00:21,113
+Trabajaremos con conceptos y un caso ficticio para tomar decisiones justificadas.
+
+6
+00:00:21,833 --> 00:00:24,898
+Antes de proponer una solución, considera esta pregunta: ¿Qué evidencia usarías
+
+7
+00:00:24,898 --> 00:00:27,963
+para confirmar cada pago y cómo registrarías los dos dólares de
+
+8
+00:00:27,963 --> 00:00:31,028
+diferencia?
+
+9
+00:00:31,248 --> 00:00:34,811
+Al terminar deberás explicar tu decisión, indicar cómo la comprobarías y
+
+10
+00:00:34,811 --> 00:00:38,373
+reconocer los límites de la evidencia utilizada.
+
+11
+00:00:39,125 --> 00:00:42,336
+Un pago electrónico involucra al comprador, al comercio y a proveedores
+
+12
+00:00:42,336 --> 00:00:45,546
+que autorizan o procesan la operación.
+
+13
+00:00:45,766 --> 00:00:48,774
+Distingue iniciado, autorizado, capturado, liquidado, rechazado y devuelto según el medio
+
+14
+00:00:48,774 --> 00:00:51,782
+utilizado.
+
+15
+00:00:52,002 --> 00:00:55,522
+No todos los sistemas usan exactamente los mismos estados.
+
+16
+00:00:55,742 --> 00:00:58,889
+Mostrar una pantalla de éxito no demuestra por sí solo que
+
+17
+00:00:58,889 --> 00:01:02,036
+el comercio haya recibido y conciliado los fondos.
+
+18
+00:01:02,792 --> 00:01:08,466
+Relaciona pedido, operación de pago y movimiento liquidado mediante identificadores consistentes.
+
+19
+00:01:08,686 --> 00:01:11,812
+La conciliación compara registros y explica diferencias por comisiones, plazos, devoluciones
+
+20
+00:01:11,812 --> 00:01:14,937
+o disputas.
+
+21
+00:01:15,157 --> 00:01:18,069
+Los avisos del proveedor deben validarse según su mecanismo de autenticidad
+
+22
+00:01:18,069 --> 00:01:20,981
+y manejar reintentos.
+
+23
+00:01:21,201 --> 00:01:23,558
+Un mensaje duplicado no debería cobrar ni confirmar dos veces el
+
+24
+00:01:23,558 --> 00:01:25,916
+mismo pedido.
+
+25
+00:01:26,667 --> 00:01:29,707
+El pedido inicia una operación de pago cuyo estado debe comprobarse
+
+26
+00:01:29,707 --> 00:01:32,747
+mediante un mecanismo confiable.
+
+27
+00:01:32,967 --> 00:01:35,591
+Después se emite y entrega el documento que corresponda al hecho
+
+28
+00:01:35,591 --> 00:01:38,215
+real y al marco aplicable.
+
+29
+00:01:38,435 --> 00:01:42,509
+La conciliación verifica el movimiento liquidado y sus diferencias.
+
+30
+00:01:42,729 --> 00:01:45,823
+Las devoluciones y rechazos necesitan recorridos propios, con trazabilidad y comunicación
+
+31
+00:01:45,823 --> 00:01:48,916
+al cliente.
+
+32
+00:01:49,667 --> 00:01:53,464
+Caso ficticio: un pedido de cincuenta dólares aparece pagado porque el
+
+33
+00:01:53,464 --> 00:01:57,261
+navegador mostró éxito, pero la operación fue rechazada.
+
+34
+00:01:57,481 --> 00:02:01,343
+Otro proveedor liquida cuarenta y ocho tras una comisión de dos.
+
+35
+00:02:01,563 --> 00:02:05,168
+El comercio debe comprobar estados, evitar despachar el pedido rechazado y
+
+36
+00:02:05,168 --> 00:02:08,773
+explicar la diferencia de la liquidación válida.
+
+37
+00:02:08,993 --> 00:02:11,841
+Además, la confirmación de compra debe distinguirse de la factura que
+
+38
+00:02:11,841 --> 00:02:14,689
+cumpla los requisitos aplicables.
+
+39
+00:02:15,417 --> 00:02:18,499
+Una confirmación de pedido, un comprobante de pago y una factura
+
+40
+00:02:18,499 --> 00:02:21,582
+electrónica cumplen funciones diferentes.
+
+41
+00:02:21,802 --> 00:02:25,237
+En Ecuador, la emisión de comprobantes electrónicos debe seguir las reglas
+
+42
+00:02:25,237 --> 00:02:28,671
+vigentes del SRI y el esquema aplicable.
+
+43
+00:02:28,891 --> 00:02:32,102
+Antes de implantar, consulta documentación oficial sobre emisión, firma, autorización, entrega
+
+44
+00:02:32,102 --> 00:02:35,313
+y conservación.
+
+45
+00:02:35,533 --> 00:02:38,466
+Un archivo PDF con un logotipo no garantiza validez tributaria ni
+
+46
+00:02:38,466 --> 00:02:41,399
+sustituye esos requisitos.
+
+47
+00:02:42,125 --> 00:02:46,392
+Reduce la exposición de información de pago usando proveedores y mecanismos
+
+48
+00:02:46,392 --> 00:02:50,658
+adecuados, como páginas alojadas o tokenización cuando corresponda.
+
+49
+00:02:50,878 --> 00:02:53,524
+No almacenes datos sensibles por comodidad.
+
+50
+00:02:53,744 --> 00:02:58,032
+Aplica control de acceso, registros de operación y respuesta a incidentes.
+
+51
+00:02:58,252 --> 00:03:01,288
+Las obligaciones de seguridad y cumplimiento dependen del papel del negocio
+
+52
+00:03:01,288 --> 00:03:04,325
+y del medio de pago; contratar un proveedor no elimina toda
+
+53
+00:03:04,325 --> 00:03:07,361
+responsabilidad propia.
+
+54
+00:03:08,083 --> 00:03:11,219
+Para aplicar lo aprendido, desarrolla la tarea editable.
+
+55
+00:03:11,439 --> 00:03:15,535
+Representa los estados de un pago con rechazo, reintento y devolución.
+
+56
+00:03:15,755 --> 00:03:20,705
+Después, explica las diferencias entre confirmación, comprobante y factura electrónica.
+
+57
+00:03:20,925 --> 00:03:24,349
+Justifica tus decisiones con los conceptos de esta explicación y comprueba
+
+58
+00:03:24,349 --> 00:03:27,773
+tus respuestas en la actividad interactiva.
+
+59
+00:03:28,500 --> 00:03:30,164
+Conserva estas ideas.
+
+60
+00:03:30,384 --> 00:03:33,093
+Distingue estados, documentos y liquidación.
+
+61
+00:03:33,313 --> 00:03:35,639
+Concilia montos e identificadores.
+
+62
+00:03:35,859 --> 00:03:38,611
+Consulta requisitos y minimiza exposición.
+
+63
+00:03:38,831 --> 00:03:41,007
+El caso y sus datos son ficticios.
+
+64
+00:03:41,227 --> 00:03:44,779
+Revisa las fuentes indicadas en los materiales y continúa con la
+
+65
+00:03:44,779 --> 00:03:48,331
+práctica para transferir estos criterios a otra situación.

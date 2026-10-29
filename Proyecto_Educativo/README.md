@@ -4,7 +4,7 @@ Se están desarrollando los **27 subtemas** de Negocios Electrónicos y Procesos
 
 ## Estado de esta subida
 
-**9 de 27 temas** tienen sus cinco entregables generados y comprobados en el entorno: presentación PowerPoint, video MP4 de 2–4 minutos, audio MP3, tarea Word y actividad preparada para Educaplay. Las siguientes subidas incorporarán el resto. El contenido de todos los subtemas ya está preparado; la síntesis de voz, exportación y validación se realizan por lotes.
+**13 de 27 temas** tienen sus cinco entregables generados y comprobados en el entorno: presentación PowerPoint, video MP4 de 2–4 minutos, audio MP3, tarea Word y actividad preparada para Educaplay. Las siguientes subidas incorporarán el resto. El contenido de todos los subtemas ya está preparado; la síntesis de voz, exportación y validación se realizan por lotes.
 
 Los PDF permiten revisar el diseño; los archivos PPTX y DOCX conservan contenido editable. Los videos incluyen voz neuronal configurada para español latinoamericano, música instrumental propia y subtítulos. Las actividades HTML permiten practicar sin una cuenta externa.
 
@@ -21,5 +21,9 @@ Educaplay: se entregan preguntas, respuestas, retroalimentación e instrucciones
 - NE_3_1: Diferentes sistemas para Mypes y Pymes.
 - NE_3_2: Rendimiento financiero de los negocios electrónicos.
 - NE_3_3: Integraciones rentables de software y hardware.
+- NE_3_4: Sistemas de pago y documentos electrónicos.
+- NE_4_1: Internacionalización de los negocios electrónicos.
+- NE_4_2: Aplicaciones para negocios móviles.
+- PND_1_1: Generalidades del BPM.
 
 Los casos y datos son ficticios. Los modelos de voz, el entorno virtual y las cachés de trabajo se mantienen fuera del repositorio. La revisión técnica de reproducción no equivale a una evaluación auditiva humana de pronunciación y expresividad.

@@ -1,0 +1,243 @@
+1
+00:00:00,250 --> 00:00:04,197
+Hoy estudiaremos internacionalización de los negocios electrónicos.
+
+2
+00:00:04,417 --> 00:00:08,566
+El propósito es evaluar la entrada de un negocio electrónico a
+
+3
+00:00:08,566 --> 00:00:12,715
+otro mercado considerando demanda, adaptación y operación transfronteriza.
+
+4
+00:00:12,935 --> 00:00:16,029
+Este contenido forma parte de negocios electrónicos.
+
+5
+00:00:16,249 --> 00:00:21,198
+Trabajaremos con conceptos y un caso ficticio para tomar decisiones justificadas.
+
+6
+00:00:21,958 --> 00:00:25,059
+Antes de proponer una solución, considera esta pregunta: ¿Qué muestra la
+
+7
+00:00:25,059 --> 00:00:28,159
+diferencia de siete dólares y qué falta conocer antes de declarar
+
+8
+00:00:28,159 --> 00:00:31,260
+rentable la expansión?
+
+9
+00:00:31,480 --> 00:00:35,042
+Al terminar deberás explicar tu decisión, indicar cómo la comprobarías y
+
+10
+00:00:35,042 --> 00:00:38,605
+reconocer los límites de la evidencia utilizada.
+
+11
+00:00:39,333 --> 00:00:43,141
+Internacionalizar un negocio electrónico consiste en atender mercados de otros países
+
+12
+00:00:43,141 --> 00:00:46,949
+con una propuesta y una operación viables.
+
+13
+00:00:47,169 --> 00:00:49,431
+Traducir el sitio es solo una parte.
+
+14
+00:00:49,651 --> 00:00:54,813
+Investiga necesidades, alternativas existentes, hábitos de compra y barreras de acceso.
+
+15
+00:00:55,033 --> 00:00:58,681
+La demanda observada en el mercado local no demuestra que la
+
+16
+00:00:58,681 --> 00:01:02,329
+misma oferta, precio o comunicación funcionen en otro contexto.
+
+17
+00:01:03,083 --> 00:01:06,305
+Adapta lenguaje, moneda, formatos y explicaciones sin prometer condiciones que la
+
+18
+00:01:06,305 --> 00:01:09,526
+operación no puede cumplir.
+
+19
+00:01:09,746 --> 00:01:13,927
+Considera medios de pago disponibles y soporte en horarios pertinentes.
+
+20
+00:01:14,147 --> 00:01:19,033
+La localización requiere comprobar comprensión y expectativas del público destino.
+
+21
+00:01:19,253 --> 00:01:23,477
+Una traducción literal puede producir ambigüedades, y mostrar un precio convertido
+
+22
+00:01:23,477 --> 00:01:27,701
+no resuelve por sí solo impuestos, comisiones o costos de entrega.
+
+23
+00:01:28,458 --> 00:01:31,232
+Compara destinos según demanda y restricciones.
+
+24
+00:01:31,452 --> 00:01:33,702
+Adapta la oferta y comprueba que el público entiende condiciones y
+
+25
+00:01:33,702 --> 00:01:35,953
+costo total.
+
+26
+00:01:36,173 --> 00:01:39,224
+Prepara pagos, logística, requisitos y atención.
+
+27
+00:01:39,444 --> 00:01:42,587
+Finalmente ejecuta un piloto con límites de volumen y criterios de
+
+28
+00:01:42,587 --> 00:01:45,730
+continuidad; amplía solo si los resultados de margen y cumplimiento justifican
+
+29
+00:01:45,730 --> 00:01:48,873
+la decisión.
+
+30
+00:01:49,625 --> 00:01:52,292
+Caso hipotético: Minga Cacao considera vender una caja en otro país
+
+31
+00:01:52,292 --> 00:01:54,958
+por cuarenta dólares.
+
+32
+00:01:55,178 --> 00:01:58,826
+El costo del producto es dieciocho, la logística doce y las
+
+33
+00:01:58,826 --> 00:02:02,474
+comisiones tres, antes de publicidad, impuestos u otros gastos.
+
+34
+00:02:02,694 --> 00:02:06,150
+Quedan siete dólares para cubrir esas partidas y resultado.
+
+35
+00:02:06,370 --> 00:02:09,869
+Antes de lanzar, debe comprobar si el destino admite el producto,
+
+36
+00:02:09,869 --> 00:02:13,368
+qué condiciones aplican y cómo resolver devoluciones.
+
+37
+00:02:14,125 --> 00:02:18,840
+Define origen, destino, transporte, trazabilidad y tratamiento de devoluciones.
+
+38
+00:02:19,060 --> 00:02:22,409
+Los requisitos aduaneros, tributarios, sanitarios o de etiquetado dependen del producto
+
+39
+00:02:22,409 --> 00:02:25,758
+y los países involucrados.
+
+40
+00:02:25,978 --> 00:02:29,968
+Consulta fuentes oficiales y asesoría competente antes de operar.
+
+41
+00:02:30,188 --> 00:02:34,166
+Distingue el precio del producto del costo total que deberá asumir
+
+42
+00:02:34,166 --> 00:02:38,145
+el comprador y aclara quién gestiona cada trámite y eventual incidencia.
+
+43
+00:02:38,875 --> 00:02:42,224
+Selecciona un mercado y una oferta limitados para un piloto.
+
+44
+00:02:42,444 --> 00:02:45,527
+Evalúa costo de adquisición, margen después de logística y comisiones, cumplimiento
+
+45
+00:02:45,527 --> 00:02:48,610
+de plazos y consultas.
+
+46
+00:02:48,830 --> 00:02:52,179
+Considera cambios de tipo de cambio y reglas aplicables.
+
+47
+00:02:52,399 --> 00:02:56,275
+Crecer en visitas internacionales no demuestra rentabilidad ni capacidad de servicio;
+
+48
+00:02:56,275 --> 00:03:00,150
+la expansión necesita evidencia sobre la operación completa y no únicamente
+
+49
+00:03:00,150 --> 00:03:04,026
+sobre el alcance publicitario.
+
+50
+00:03:04,750 --> 00:03:07,886
+Para aplicar lo aprendido, desarrolla la tarea editable.
+
+51
+00:03:08,106 --> 00:03:13,098
+Compara dos destinos ficticios con demanda, competencia y restricciones explícitas.
+
+52
+00:03:13,318 --> 00:03:17,521
+Después, calcula la contribución del caso y enumera los costos excluidos.
+
+53
+00:03:17,741 --> 00:03:21,165
+Justifica tus decisiones con los conceptos de esta explicación y comprueba
+
+54
+00:03:21,165 --> 00:03:24,589
+tus respuestas en la actividad interactiva.
+
+55
+00:03:25,333 --> 00:03:26,997
+Conserva estas ideas.
+
+56
+00:03:27,217 --> 00:03:29,095
+Elige mercados con evidencia.
+
+57
+00:03:29,315 --> 00:03:31,469
+Localiza experiencia y operación.
+
+58
+00:03:31,689 --> 00:03:34,441
+Prueba margen y cumplimiento antes de escalar.
+
+59
+00:03:34,661 --> 00:03:36,837
+El caso y sus datos son ficticios.
+
+60
+00:03:37,057 --> 00:03:40,609
+Revisa las fuentes indicadas en los materiales y continúa con la
+
+61
+00:03:40,609 --> 00:03:44,161
+práctica para transferir estos criterios a otra situación.

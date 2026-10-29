@@ -1,0 +1,79 @@
+ACTIVIDAD PREPARADA PARA EDUCAPLAY — SIN PUBLICAR
+Procesos para Negocios Digitales · 1.1 · Generalidades del BPM
+Objetivo: Reconocer proceso, actividad, evento y flujo, y distinguir gestión por procesos, notación y software.
+Tipo propuesto: cuestionario de opción múltiple. Ocho preguntas, una respuesta correcta, un punto por acierto, sin descuento ni límite de tiempo. Referencia de práctica: seis de ocho. Estas son propuestas didácticas.
+Instrucciones: elige una respuesta y revisa la explicación. El caso y los datos son ficticios.
+
+1. ¿Qué caracteriza a un proceso?
+   A) Transformar entradas en resultados mediante actividades relacionadas
+   B) Ser siempre una tarea de un departamento
+   C) Existir solo si está automatizado
+   D) Consistir únicamente en una lista de cargos
+Correcta: A
+Retroalimentación: El propósito y la transformación delimitan el proceso.
+
+2. ¿Qué representa un evento?
+   A) Un cargo jerárquico
+   B) Algo que ocurre y afecta el recorrido
+   C) Una licencia de software
+   D) Cualquier instrucción de trabajo por definición
+Correcta: B
+Retroalimentación: Un evento, como recibir una solicitud, se distingue del trabajo realizado.
+
+3. ¿Qué expresa un flujo?
+   A) Solo una persona responsable
+   B) El costo de una herramienta
+   C) La relación u orden entre elementos
+   D) La certificación del negocio
+Correcta: C
+Retroalimentación: El flujo ayuda a comprender cómo se conectan los elementos.
+
+4. ¿Qué es BPM?
+   A) Una única notación gráfica
+   B) Un producto comercial específico
+   C) Una tarea aislada de programación
+   D) Una disciplina de gestión y mejora de procesos
+Correcta: D
+Retroalimentación: BPM requiere gestión continua y no se reduce a una herramienta.
+
+5. ¿Qué es BPMN?
+   A) Una notación para modelar procesos
+   B) Un sinónimo exacto de toda la disciplina BPM
+   C) Un indicador financiero
+   D) Una garantía de automatización
+Correcta: A
+Retroalimentación: La notación representa; no sustituye la gestión del proceso.
+
+6. Dos horas de trabajo y tres días hasta responder indican…
+   A) Que el proceso duró exactamente dos horas
+   B) Que existen tiempos transcurridos adicionales como esperas
+   C) Que no puede medirse
+   D) Que necesariamente se trabajó tres días completos
+Correcta: B
+Retroalimentación: Trabajo y tiempo de ciclo no son la misma medida.
+
+7. ¿Qué aporta un responsable del proceso?
+   A) Eliminar toda función de las áreas
+   B) Garantizar éxito sin indicadores
+   C) Coordinación del resultado de extremo a extremo
+   D) Sustituir a todos los participantes
+Correcta: C
+Retroalimentación: El responsable coordina el desempeño global y las mejoras.
+
+8. ¿Qué debe hacerse antes de automatizar un recorrido problemático?
+   A) Digitalizar todos sus pasos sin análisis
+   B) Comprar primero la plataforma más grande
+   C) Eliminar la medición para avanzar más rápido
+   D) Comprenderlo y revisar sus fallos y propósito
+Correcta: D
+Retroalimentación: La automatización puede ampliar problemas que no se comprendieron.
+
+PUBLICACIÓN CON TU CUENTA AUTORIZADA
+1. Accede al sitio oficial https://www.educaplay.com/ e inicia sesión.
+2. Crea un cuestionario de opciones múltiples y copia título, objetivo e instrucciones. La interfaz y funciones pueden variar con la cuenta.
+3. Incorpora las ocho preguntas, sus opciones y su respuesta correcta. Añade retroalimentación si el formato lo permite.
+4. Configura español y las opciones de evaluación disponibles. El CSV adjunto es auxiliar, no un formato de importación verificado del servicio.
+5. Recorre una vista de prueba completa, revisando aciertos, errores y puntuación.
+6. Publica con la privacidad elegida y copia el enlace real de compartir. Verifica su acceso con permisos de estudiante.
+Enlace de actividad publicada: no disponible; no se accedió a una cuenta de Educaplay. No se inventa un enlace.
+Práctica local funcional: Actividad_Interactiva.html. Es independiente de Educaplay.

@@ -1,0 +1,17 @@
+# Explicación independiente
+
+Esta es una explicación para escuchar de manera independiente sobre generalidades del bpm. No necesitas consultar imágenes. Reconocer proceso, actividad, evento y flujo, y distinguir gestión por procesos, notación y software. Piensa en cómo resolverías una situación similar en una organización que conozcas; distinguiremos conceptos, decisiones y comprobaciones.
+
+Un proceso es un conjunto relacionado de actividades que transforma entradas en resultados para un destinatario. Tiene un propósito, un desencadenante y límites que permiten distinguirlo de otras operaciones. Puede atravesar varios departamentos. Analizar solo las tareas de un área deja fuera esperas y transferencias que influyen en el resultado que recibe el cliente.
+
+Una actividad representa trabajo realizado; una tarea es una unidad de trabajo dentro del nivel de detalle elegido. Un evento indica algo que ocurre y afecta el recorrido, como recibir una solicitud. El flujo expresa el orden o la relación entre elementos. Distinguir estos conceptos evita mezclar acciones, condiciones y resultados cuando se describe cómo funciona una organización.
+
+Describe qué inicia el proceso, qué trabajo transforma la entrada y qué resultado recibe el destinatario. Después pregunta si ese resultado satisface el propósito y cómo lo comprobarías. Si el recorrido atraviesa áreas, conserva una visión completa: el tiempo de cada tarea no explica por sí solo todas las esperas de una solicitud.
+
+Caso ficticio: una empresa recibe una solicitud de cotización, verifica requisitos, prepara una propuesta y la comunica al cliente. Ventas tarda una hora y revisión técnica otra, pero la respuesta llega tres días después por esperas entre áreas. El proceso no es solo redactar la propuesta. Para gestionarlo, necesita un responsable del recorrido, estados compartidos y una medida de tiempo desde la recepción hasta la respuesta.
+
+BPM es una disciplina de gestión orientada a comprender, ejecutar, medir y mejorar procesos de manera continua. Requiere responsables, acuerdos y evidencia sobre desempeño. Un diagrama puede apoyar esa disciplina, pero no reemplaza la gestión. Si nadie revisa el resultado ni decide mejoras, dibujar un proceso no basta para afirmar que se está gestionando por procesos.
+
+BPM es el enfoque de gestión; BPMN es una notación para representar procesos; una plataforma informática puede apoyar modelado, ejecución o seguimiento. No son sinónimos. Una organización puede empezar a mejorar un proceso con herramientas sencillas, siempre que defina propósito, responsabilidades y comprobaciones. Automatizar tareas sin entender el recorrido puede conservar o amplificar un problema existente.
+
+Antes de terminar, responde mentalmente: ¿Cuál es el proceso completo y por qué sumar las horas de trabajo no explica los tres días? Una orientación posible es la siguiente. El proceso va desde recibir la solicitud hasta comunicar la respuesta. Incluye actividades y esperas entre áreas; dos horas de trabajo no equivalen al tiempo transcurrido de tres días. Debe definirse responsable e indicador con inicio y fin consistentes. Recuerda: Un proceso entrega un resultado a alguien. Distingue trabajo, eventos y flujo. BPM, BPMN y software cumplen funciones distintas.

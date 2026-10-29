@@ -1,0 +1,27 @@
+{
+  "questions": 8,
+  "all_correct": "8/8",
+  "all_incorrect": "0/8",
+  "restart": true,
+  "keyboard": true,
+  "mobile_horizontal_overflow": false,
+  "javascript_errors": [],
+  "playback": {
+    "Video.mp4": {
+      "duration": 222.958333,
+      "currentTime": 0.568259,
+      "paused": false,
+      "error": null,
+      "width": 1920,
+      "height": 1080
+    },
+    "Audio.mp3": {
+      "duration": 219.541678,
+      "currentTime": 0.603241,
+      "paused": false,
+      "error": null,
+      "width": null,
+      "height": null
+    }
+  }
+}

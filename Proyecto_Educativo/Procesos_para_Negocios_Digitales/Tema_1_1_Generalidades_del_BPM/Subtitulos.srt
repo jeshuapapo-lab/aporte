@@ -1,0 +1,251 @@
+1
+00:00:00,250 --> 00:00:02,661
+Hoy estudiaremos generalidades del bpm.
+
+2
+00:00:02,881 --> 00:00:06,337
+El propósito es reconocer proceso, actividad, evento y flujo, y distinguir
+
+3
+00:00:06,337 --> 00:00:09,793
+gestión por procesos, notación y software.
+
+4
+00:00:10,013 --> 00:00:13,767
+Este contenido forma parte de procesos para negocios digitales.
+
+5
+00:00:13,987 --> 00:00:18,937
+Trabajaremos con conceptos y un caso ficticio para tomar decisiones justificadas.
+
+6
+00:00:19,667 --> 00:00:22,554
+Antes de proponer una solución, considera esta pregunta: ¿Cuál es el
+
+7
+00:00:22,554 --> 00:00:25,441
+proceso completo y por qué sumar las horas de trabajo no
+
+8
+00:00:25,441 --> 00:00:28,328
+explica los tres días?
+
+9
+00:00:28,548 --> 00:00:32,111
+Al terminar deberás explicar tu decisión, indicar cómo la comprobarías y
+
+10
+00:00:32,111 --> 00:00:35,673
+reconocer los límites de la evidencia utilizada.
+
+11
+00:00:36,417 --> 00:00:39,617
+Un proceso es un conjunto relacionado de actividades que transforma entradas
+
+12
+00:00:39,617 --> 00:00:42,817
+en resultados para un destinatario.
+
+13
+00:00:43,037 --> 00:00:45,757
+Tiene un propósito, un desencadenante y límites que permiten distinguirlo de
+
+14
+00:00:45,757 --> 00:00:48,477
+otras operaciones.
+
+15
+00:00:48,697 --> 00:00:50,937
+Puede atravesar varios departamentos.
+
+16
+00:00:51,157 --> 00:00:54,591
+Analizar solo las tareas de un área deja fuera esperas y
+
+17
+00:00:54,591 --> 00:00:58,026
+transferencias que influyen en el resultado que recibe el cliente.
+
+18
+00:00:58,750 --> 00:01:02,121
+Una actividad representa trabajo realizado; una tarea es una unidad de
+
+19
+00:01:02,121 --> 00:01:05,491
+trabajo dentro del nivel de detalle elegido.
+
+20
+00:01:05,711 --> 00:01:08,111
+Un evento indica algo que ocurre y afecta el recorrido, como
+
+21
+00:01:08,111 --> 00:01:10,511
+recibir una solicitud.
+
+22
+00:01:10,731 --> 00:01:14,059
+El flujo expresa el orden o la relación entre elementos.
+
+23
+00:01:14,279 --> 00:01:18,130
+Distinguir estos conceptos evita mezclar acciones, condiciones y resultados cuando se
+
+24
+00:01:18,130 --> 00:01:21,981
+describe cómo funciona una organización.
+
+25
+00:01:22,708 --> 00:01:25,759
+Describe qué inicia el proceso, qué trabajo transforma la entrada y
+
+26
+00:01:25,759 --> 00:01:28,810
+qué resultado recibe el destinatario.
+
+27
+00:01:29,030 --> 00:01:31,419
+Después pregunta si ese resultado satisface el propósito y cómo lo
+
+28
+00:01:31,419 --> 00:01:33,808
+comprobarías.
+
+29
+00:01:34,028 --> 00:01:36,859
+Si el recorrido atraviesa áreas, conserva una visión completa: el tiempo
+
+30
+00:01:36,859 --> 00:01:39,689
+de cada tarea no explica por sí solo todas las esperas
+
+31
+00:01:39,689 --> 00:01:42,519
+de una solicitud.
+
+32
+00:01:43,250 --> 00:01:47,207
+Caso ficticio: una empresa recibe una solicitud de cotización, verifica requisitos,
+
+33
+00:01:47,207 --> 00:01:51,165
+prepara una propuesta y la comunica al cliente.
+
+34
+00:01:51,385 --> 00:01:54,734
+Ventas tarda una hora y revisión técnica otra, pero la respuesta
+
+35
+00:01:54,734 --> 00:01:58,083
+llega tres días después por esperas entre áreas.
+
+36
+00:01:58,303 --> 00:02:00,927
+El proceso no es solo redactar la propuesta.
+
+37
+00:02:01,147 --> 00:02:05,083
+Para gestionarlo, necesita un responsable del recorrido, estados compartidos y una
+
+38
+00:02:05,083 --> 00:02:09,019
+medida de tiempo desde la recepción hasta la respuesta.
+
+39
+00:02:09,750 --> 00:02:13,099
+BPM es una disciplina de gestión orientada a comprender, ejecutar, medir
+
+40
+00:02:13,099 --> 00:02:16,449
+y mejorar procesos de manera continua.
+
+41
+00:02:16,669 --> 00:02:20,317
+Requiere responsables, acuerdos y evidencia sobre desempeño.
+
+42
+00:02:20,537 --> 00:02:24,569
+Un diagrama puede apoyar esa disciplina, pero no reemplaza la gestión.
+
+43
+00:02:24,789 --> 00:02:28,522
+Si nadie revisa el resultado ni decide mejoras, dibujar un proceso
+
+44
+00:02:28,522 --> 00:02:32,255
+no basta para afirmar que se está gestionando por procesos.
+
+45
+00:02:33,000 --> 00:02:37,917
+BPM es el enfoque de gestión; BPMN es una notación para
+
+46
+00:02:37,917 --> 00:02:42,835
+representar procesos; una plataforma informática puede apoyar modelado, ejecución o seguimiento.
+
+47
+00:02:43,055 --> 00:02:44,313
+No son sinónimos.
+
+48
+00:02:44,533 --> 00:02:48,747
+Una organización puede empezar a mejorar un proceso con herramientas sencillas,
+
+49
+00:02:48,747 --> 00:02:52,960
+siempre que defina propósito, responsabilidades y comprobaciones.
+
+50
+00:02:53,180 --> 00:02:55,975
+Automatizar tareas sin entender el recorrido puede conservar o amplificar un
+
+51
+00:02:55,975 --> 00:02:58,769
+problema existente.
+
+52
+00:02:59,500 --> 00:03:02,636
+Para aplicar lo aprendido, desarrolla la tarea editable.
+
+53
+00:03:02,856 --> 00:03:07,315
+Delimita el proceso con entrada, evento inicial, destinatario y resultado.
+
+54
+00:03:07,535 --> 00:03:11,567
+Después, representa el recorrido entre áreas y distingue trabajo de espera.
+
+55
+00:03:11,787 --> 00:03:15,211
+Justifica tus decisiones con los conceptos de esta explicación y comprueba
+
+56
+00:03:15,211 --> 00:03:18,635
+tus respuestas en la actividad interactiva.
+
+57
+00:03:19,375 --> 00:03:21,039
+Conserva estas ideas.
+
+58
+00:03:21,259 --> 00:03:23,968
+Un proceso entrega un resultado a alguien.
+
+59
+00:03:24,188 --> 00:03:26,492
+Distingue trabajo, eventos y flujo.
+
+60
+00:03:26,712 --> 00:03:30,190
+BPM, BPMN y software cumplen funciones distintas.
+
+61
+00:03:30,410 --> 00:03:32,586
+El caso y sus datos son ficticios.
+
+62
+00:03:32,806 --> 00:03:36,358
+Revisa las fuentes indicadas en los materiales y continúa con la
+
+63
+00:03:36,358 --> 00:03:39,910
+práctica para transferir estos criterios a otra situación.

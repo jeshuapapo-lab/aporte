@@ -1,0 +1,43 @@
+{
+  "folder": "Negocios_Electronicos/Tema_4_1_Internacionalizacion_de_los_negocios_electronicos",
+  "office_reopened": true,
+  "pdf_pages": {
+    "Presentacion.pdf": 10,
+    "Tarea.pdf": 3
+  },
+  "media": {
+    "Video.mp4": {
+      "duration": 224.667,
+      "bytes": 5867532,
+      "streams": [
+        {
+          "codec_type": "video",
+          "codec_name": "h264",
+          "width": 1920,
+          "height": 1080,
+          "pix_fmt": "yuv420p"
+        },
+        {
+          "codec_type": "audio",
+          "codec_name": "aac",
+          "sample_rate": "24000",
+          "channels": 1
+        }
+      ],
+      "decoded_entirely": true
+    },
+    "Audio.mp3": {
+      "duration": 211.800816,
+      "bytes": 2376518,
+      "streams": [
+        {
+          "codec_type": "audio",
+          "codec_name": "mp3",
+          "sample_rate": "44100",
+          "channels": 1
+        }
+      ],
+      "decoded_entirely": true
+    }
+  }
+}

@@ -1,0 +1,17 @@
+# Explicación independiente
+
+Esta es una explicación para escuchar de manera independiente sobre aplicaciones para negocios móviles. No necesitas consultar imágenes. Diseñar una solución para negocios móviles según tareas, contexto de uso y capacidad de mantener una experiencia segura. Piensa en cómo resolverías una situación similar en una organización que conozcas; distinguiremos conceptos, decisiones y comprobaciones.
+
+Un negocio móvil atiende actividades que las personas realizan con dispositivos portátiles y conectividad variable. Considera tamaño de pantalla, interrupciones, uso táctil y tiempo disponible. No toda tarea de escritorio debe trasladarse sin cambios. Identifica una necesidad frecuente y simplifica el recorrido, preservando información suficiente para que la persona pueda tomar decisiones y corregir errores.
+
+Una web adaptable puede cubrir muchos recorridos sin instalación. Una aplicación nativa puede aprovechar capacidades del dispositivo bajo condiciones y permisos específicos. Una aplicación web progresiva puede incorporar algunas capacidades según navegador y plataforma. Compara acceso, mantenimiento, distribución y necesidades reales; instalar una aplicación no es un objetivo de negocio por sí mismo.
+
+Selecciona una tarea frecuente, como repetir un pedido, y elimina pasos que no aporten. Decide qué capacidades móviles se necesitan y qué permisos son proporcionales. Después prueba interrupciones y cambios de conexión, verificando que el estado de la operación sea claro y que un reintento no produzca un segundo pedido.
+
+Caso ficticio: clientes de Minga Cacao quieren repetir compras desde el teléfono. El negocio propone una aplicación que exige ubicación y acceso a contactos antes de mostrar el catálogo. Una alternativa de web adaptable permite explorar sin esos permisos y pedir los datos de entrega solo cuando corresponde. El piloto debe comprobar el pedido y su recuperación tras una caída de conexión, no únicamente descargas.
+
+Solicita ubicación, cámara o notificaciones solo cuando la función lo necesite y explica la finalidad. Define qué ocurre si la persona no concede un permiso. Minimiza datos, protege sesiones y evita exponer información en notificaciones. El dispositivo puede perderse o compartirse, por lo que autenticación y cierre de sesión deben formar parte del recorrido y no añadirse únicamente al final.
+
+Informa si una operación está pendiente, falló o fue confirmada. La repetición tras una caída no debe duplicar compras. Si se permite trabajar sin conexión, define qué datos pueden consultarse y cómo se sincronizan cambios. Evalúa tareas completadas, errores y tiempos en condiciones representativas; una demostración con conexión excelente no refleja todos los contextos móviles.
+
+Antes de terminar, responde mentalmente: ¿Qué permisos resultan innecesarios en el caso y qué tarea debería demostrar el piloto? Una orientación posible es la siguiente. Los contactos no son necesarios para explorar o repetir pedidos, y la ubicación no debe ser obligatoria para ver catálogo si existe una alternativa de dirección. Probar selección, confirmación y recuperación sin duplicados con conectividad variable. Recuerda: Diseña para una tarea y contexto reales. Pide permisos proporcionales. Haz visibles los estados y controla reintentos.
