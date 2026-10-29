@@ -1,0 +1,79 @@
+ACTIVIDAD PREPARADA PARA EDUCAPLAY — SIN PUBLICAR
+Negocios Electrónicos · 3.1 · Diferentes sistemas para Mypes y Pymes
+Objetivo: Comparar sistemas para Mypes y Pymes según necesidades, capacidades y costo total de operación.
+Tipo propuesto: cuestionario de opción múltiple. Ocho preguntas, una respuesta correcta, un punto por acierto, sin descuento ni límite de tiempo. Referencia de práctica: seis de ocho. Estas son propuestas didácticas.
+Instrucciones: elige una respuesta y revisa la explicación. El caso y los datos son ficticios.
+
+1. ¿Qué debe hacerse antes de comparar marcas?
+   A) Definir procesos y requisitos prioritarios
+   B) Contar anuncios del proveedor
+   C) Elegir el mayor número de módulos
+   D) Comprar licencias para todos sin prueba
+Correcta: A
+Retroalimentación: La selección parte de necesidades y capacidad de operación.
+
+2. ¿Qué sistema suele integrar funciones empresariales?
+   A) Una fotografía de catálogo
+   B) ERP
+   C) Un editor de logotipos
+   D) Un navegador sin aplicaciones
+Correcta: B
+Retroalimentación: ERP agrupa e integra funciones, aunque sus capacidades deben comprobarse.
+
+3. ¿Qué forma parte del costo total?
+   A) Solo el pago inicial
+   B) Únicamente el precio de una pantalla
+   C) Migración, capacitación y soporte además de licencias
+   D) Solo el descuento comercial
+Correcta: C
+Retroalimentación: La implantación y operación generan costos que no siempre están en la licencia.
+
+4. ¿Qué riesgo debe evaluarse en una operación en la nube?
+   A) Ausencia garantizada de fallos
+   B) Eliminación automática de permisos
+   C) Imposibilidad de exportar cualquier dato por definición
+   D) Dependencia de conectividad y del servicio
+Correcta: D
+Retroalimentación: La arquitectura requiere revisar disponibilidad, acceso y continuidad.
+
+5. ¿Qué prueba responde al problema del caso?
+   A) Pedido, venta local y cancelación sobre el mismo inventario
+   B) Cambiar el logotipo
+   C) Abrir solo la página de inicio
+   D) Contar módulos sin usarlos
+Correcta: A
+Retroalimentación: La prueba debe demostrar sincronización y reserva en situaciones representativas.
+
+6. ¿Qué es un criterio de aceptación?
+   A) Una preferencia que no puede medirse
+   B) Una condición observable para aprobar el resultado
+   C) El nombre del vendedor
+   D) Una promesa sin procedimiento de prueba
+Correcta: B
+Retroalimentación: Permite decidir si la función satisface lo requerido.
+
+7. ¿Qué ventaja aporta una implantación gradual?
+   A) Evita cualquier necesidad de capacitación
+   B) Garantiza que nunca haya fallos
+   C) Permite aprender y controlar riesgos antes de ampliar
+   D) Elimina los requisitos iniciales
+Correcta: C
+Retroalimentación: El despliegue por etapas permite comprobar y ajustar.
+
+8. ¿Por qué revisar exportación de datos?
+   A) Para publicar información de clientes
+   B) Para duplicar ventas artificialmente
+   C) Para suprimir controles de acceso
+   D) Para conservar posibilidades de recuperación y cambio de proveedor
+Correcta: D
+Retroalimentación: La portabilidad ayuda a gestionar dependencia y continuidad.
+
+PUBLICACIÓN CON TU CUENTA AUTORIZADA
+1. Accede al sitio oficial https://www.educaplay.com/ e inicia sesión.
+2. Crea un cuestionario de opciones múltiples y copia título, objetivo e instrucciones. La interfaz y funciones pueden variar con la cuenta.
+3. Incorpora las ocho preguntas, sus opciones y su respuesta correcta. Añade retroalimentación si el formato lo permite.
+4. Configura español y las opciones de evaluación disponibles. El CSV adjunto es auxiliar, no un formato de importación verificado del servicio.
+5. Recorre una vista de prueba completa, revisando aciertos, errores y puntuación.
+6. Publica con la privacidad elegida y copia el enlace real de compartir. Verifica su acceso con permisos de estudiante.
+Enlace de actividad publicada: no disponible; no se accedió a una cuenta de Educaplay. No se inventa un enlace.
+Práctica local funcional: Actividad_Interactiva.html. Es independiente de Educaplay.

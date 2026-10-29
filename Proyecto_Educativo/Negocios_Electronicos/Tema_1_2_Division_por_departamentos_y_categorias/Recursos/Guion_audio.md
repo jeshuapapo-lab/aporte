@@ -1,0 +1,17 @@
+# Explicación independiente
+
+Esta es una explicación para escuchar de manera independiente sobre división por departamentos y categorías. No necesitas consultar imágenes. Diseñar una organización de catálogo que permita encontrar productos y distinguir categorías de filtros. Piensa en cómo resolverías una situación similar en una organización que conozcas; distinguiremos conceptos, decisiones y comprobaciones.
+
+Un departamento agrupa grandes familias de oferta; una categoría organiza productos con una característica o uso compartido. La estructura debe responder a cómo buscan las personas, no copiar automáticamente el organigrama interno. Antes de clasificar, identifica el vocabulario del público, el tamaño del catálogo y las tareas más frecuentes. Una taxonomía comprensible reduce decisiones innecesarias y ayuda a mantener el catálogo cuando crece.
+
+Una jerarquía establece relaciones entre niveles, como alimentos, chocolates y tabletas. Las facetas permiten limitar resultados por atributos, como precio, porcentaje de cacao o disponibilidad. No conviene convertir cada combinación de atributos en una categoría nueva. Un producto puede aparecer en varias rutas de navegación, pero debe conservar una identidad y una ficha consistentes para no duplicar inventario ni información.
+
+Comienza reuniendo búsquedas y tareas reales. Agrupa productos por semejanzas relevantes y asigna etiquetas comprensibles. Después comprueba si una persona puede encontrar un artículo concreto sin recibir instrucciones. Corrige los nombres o la estructura cuando el recorrido observado contradiga lo que el equipo esperaba.
+
+Caso ficticio: Minga Cacao vende tabletas, bombones, cajas para regalo y accesorios. Su menú separa premium, varios y línea dos; además, crea una categoría distinta para cada precio. Una cliente busca una caja sin azúcar para regalar y debe abrir cuatro secciones. Se propone organizar por tipo de producto y usar precio y composición como filtros, siempre con información verificable de ingredientes.
+
+El ordenamiento de tarjetas ayuda a explorar cómo las personas agruparían productos y qué nombres elegirían. Una prueba de árbol comprueba si pueden encontrar un artículo dentro de una estructura de etiquetas sin depender del diseño visual. Registra éxito, recorrido y dudas. Estas técnicas aportan evidencia sobre comprensión; una muestra pequeña sirve para detectar problemas, pero no representa automáticamente a todo el mercado.
+
+Define quién puede crear categorías, qué atributos son obligatorios y cómo se corrigen sinónimos o productos mal ubicados. Mantén nombres paralelos y evita etiquetas internas como varios o grupo B. La búsqueda y las rutas de navegación deben usar información coherente. Si cambias una estructura publicada, revisa enlaces y accesos existentes para evitar que una mejora de clasificación deje productos difíciles de encontrar.
+
+Antes de terminar, responde mentalmente: ¿Cómo separarías las categorías y los filtros sin duplicar el mismo producto? Una orientación posible es la siguiente. Categorías por tipo de producto; filtros por atributos pertinentes y comprobables. Una sola ficha e identificador por artículo. Validar una tarea de búsqueda y revisar etiquetas ambiguas. Recuerda: Clasifica para las tareas del público. Separa jerarquías de filtros. Valida y mantén el catálogo.

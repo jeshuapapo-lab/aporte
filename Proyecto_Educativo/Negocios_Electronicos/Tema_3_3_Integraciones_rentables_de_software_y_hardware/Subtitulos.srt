@@ -1,0 +1,259 @@
+1
+00:00:00,250 --> 00:00:03,749
+Hoy estudiaremos integraciones rentables de software y hardware.
+
+2
+00:00:03,969 --> 00:00:08,022
+El propósito es diseñar una integración rentable de hardware y software
+
+3
+00:00:08,022 --> 00:00:12,075
+con interoperabilidad, pruebas de datos y evaluación de costo total.
+
+4
+00:00:12,295 --> 00:00:15,389
+Este contenido forma parte de negocios electrónicos.
+
+5
+00:00:15,609 --> 00:00:20,558
+Trabajaremos con conceptos y un caso ficticio para tomar decisiones justificadas.
+
+6
+00:00:21,292 --> 00:00:24,442
+Antes de proponer una solución, considera esta pregunta: ¿Cuál es el
+
+7
+00:00:24,442 --> 00:00:27,592
+ahorro neto y qué pruebas impiden confundir una lectura exitosa con
+
+8
+00:00:27,592 --> 00:00:30,742
+una transacción correcta?
+
+9
+00:00:30,962 --> 00:00:34,525
+Al terminar deberás explicar tu decisión, indicar cómo la comprobarías y
+
+10
+00:00:34,525 --> 00:00:38,088
+reconocer los límites de la evidencia utilizada.
+
+11
+00:00:38,833 --> 00:00:43,228
+Integrar hardware y software conecta eventos físicos y registros digitales.
+
+12
+00:00:43,448 --> 00:00:46,627
+Un lector puede capturar un código, una aplicación validar el producto
+
+13
+00:00:46,627 --> 00:00:49,805
+y un sistema actualizar existencias.
+
+14
+00:00:50,025 --> 00:00:52,201
+La rentabilidad depende del problema resuelto, el volumen y el costo
+
+15
+00:00:52,201 --> 00:00:54,377
+total.
+
+16
+00:00:54,597 --> 00:00:58,267
+Comprar dispositivos sin revisar el proceso puede acelerar la captura de
+
+17
+00:00:58,267 --> 00:01:01,936
+información equivocada en lugar de reducir errores.
+
+18
+00:01:02,667 --> 00:01:05,077
+Define qué datos produce cada dispositivo, qué formato usa y quién
+
+19
+00:01:05,077 --> 00:01:07,488
+los interpreta.
+
+20
+00:01:07,708 --> 00:01:09,948
+Un código debe corresponder a un identificador único y vigente en
+
+21
+00:01:09,948 --> 00:01:12,188
+el catálogo.
+
+22
+00:01:12,408 --> 00:01:16,675
+Las interfaces y controladores necesitan compatibilidad comprobada.
+
+23
+00:01:16,895 --> 00:01:19,810
+Diferencia la lectura del código de la validación de la transacción:
+
+24
+00:01:19,810 --> 00:01:22,726
+que un lector emita una señal no demuestra que el inventario
+
+25
+00:01:22,726 --> 00:01:25,641
+haya cambiado correctamente.
+
+26
+00:01:26,375 --> 00:01:30,204
+El dispositivo captura un evento, la aplicación valida su identidad y
+
+27
+00:01:30,204 --> 00:01:34,034
+reglas, y el sistema registra la operación una sola vez.
+
+28
+00:01:34,254 --> 00:01:37,347
+Después informa su estado y conserva trazabilidad.
+
+29
+00:01:37,567 --> 00:01:41,748
+Prueba también qué ocurre cuando falla la comunicación justo después del
+
+30
+00:01:41,748 --> 00:01:45,930
+registro: repetir una petición no debe duplicar la misma transacción.
+
+31
+00:01:46,667 --> 00:01:49,184
+Caso hipotético: un negocio invierte mil doscientos dólares en lectores e
+
+32
+00:01:49,184 --> 00:01:51,701
+integración.
+
+33
+00:01:51,921 --> 00:01:54,791
+Estima un ahorro bruto de ciento ochenta dólares mensuales y sesenta
+
+34
+00:01:54,791 --> 00:01:57,660
+de costo recurrente adicional.
+
+35
+00:01:57,880 --> 00:02:00,024
+El ahorro neto esperado es ciento veinte y la recuperación simple,
+
+36
+00:02:00,024 --> 00:02:02,168
+diez meses.
+
+37
+00:02:02,388 --> 00:02:05,524
+Antes de aceptar esa estimación, prueba lectura duplicada, código desconocido y
+
+38
+00:02:05,524 --> 00:02:08,660
+pérdida de conexión, y comprueba que el ahorro medido corresponda al
+
+39
+00:02:08,660 --> 00:02:11,796
+volumen real.
+
+40
+00:02:12,542 --> 00:02:15,603
+La integración debe manejar lecturas repetidas, códigos desconocidos, conexión interrumpida y
+
+41
+00:02:15,603 --> 00:02:18,664
+reintentos.
+
+42
+00:02:18,884 --> 00:02:22,223
+Decide cuándo una operación se considera confirmada y cómo se evita
+
+43
+00:02:22,223 --> 00:02:25,562
+contabilizar dos veces el mismo evento.
+
+44
+00:02:25,782 --> 00:02:28,512
+Incluye permisos, respaldo y trazabilidad.
+
+45
+00:02:28,732 --> 00:02:32,978
+Una operación sin conexión requiere reglas de sincronización y resolución de
+
+46
+00:02:32,978 --> 00:02:37,223
+conflictos, no solamente almacenar datos hasta que vuelva internet.
+
+47
+00:02:37,958 --> 00:02:42,929
+Calcula adquisición, instalación, licencias, capacitación, soporte y reposición.
+
+48
+00:02:43,149 --> 00:02:47,586
+Compara ahorro neto esperado con inversión y analiza sensibilidad al volumen.
+
+49
+00:02:47,806 --> 00:02:50,985
+Un piloto debe probar tareas normales y fallos representativos, midiendo tiempo
+
+50
+00:02:50,985 --> 00:02:54,164
+y errores antes y después.
+
+51
+00:02:54,384 --> 00:02:58,106
+La recuperación simple de la inversión orienta, pero no refleja por
+
+52
+00:02:58,106 --> 00:03:01,829
+sí sola el valor temporal ni todos los riesgos del proyecto.
+
+53
+00:03:02,583 --> 00:03:05,719
+Para aplicar lo aprendido, desarrolla la tarea editable.
+
+54
+00:03:05,939 --> 00:03:08,339
+Dibuja los componentes y los datos entre lector, aplicación y sistema
+
+55
+00:03:08,339 --> 00:03:10,739
+de inventario.
+
+56
+00:03:10,959 --> 00:03:15,909
+Después, diseña tres pruebas: duplicado, código desconocido y pérdida de conexión.
+
+57
+00:03:16,129 --> 00:03:19,553
+Justifica tus decisiones con los conceptos de esta explicación y comprueba
+
+58
+00:03:19,553 --> 00:03:22,977
+tus respuestas en la actividad interactiva.
+
+59
+00:03:23,708 --> 00:03:25,372
+Conserva estas ideas.
+
+60
+00:03:25,592 --> 00:03:28,472
+Integra eventos y registros con reglas claras.
+
+61
+00:03:28,692 --> 00:03:30,527
+Prueba errores y reintentos.
+
+62
+00:03:30,747 --> 00:03:33,094
+Calcula rentabilidad con costo total.
+
+63
+00:03:33,314 --> 00:03:35,490
+El caso y sus datos son ficticios.
+
+64
+00:03:35,710 --> 00:03:39,262
+Revisa las fuentes indicadas en los materiales y continúa con la
+
+65
+00:03:39,262 --> 00:03:42,814
+práctica para transferir estos criterios a otra situación.

@@ -1,0 +1,79 @@
+ACTIVIDAD PREPARADA PARA EDUCAPLAY — SIN PUBLICAR
+Negocios Electrónicos · 1.4 · Aspectos institucionales
+Objetivo: Definir información institucional verificable que aporte identidad, transparencia y canales de atención al negocio electrónico.
+Tipo propuesto: cuestionario de opción múltiple. Ocho preguntas, una respuesta correcta, un punto por acierto, sin descuento ni límite de tiempo. Referencia de práctica: seis de ocho. Estas son propuestas didácticas.
+Instrucciones: elige una respuesta y revisa la explicación. El caso y los datos son ficticios.
+
+1. ¿Cuál es una función de la información institucional?
+   A) Identificar quién responde por el negocio
+   B) Sustituir toda condición de compra
+   C) Garantizar resultados por contar una historia
+   D) Eliminar la necesidad de atención
+Correcta: A
+Retroalimentación: La identidad y el contacto aportan transparencia sobre la organización.
+
+2. ¿Qué problema tiene copiar una política de otro negocio?
+   A) Garantiza adecuación legal en cualquier país
+   B) Puede describir condiciones y procedimientos que no se aplican
+   C) Actualiza automáticamente los procesos
+   D) Transfiere sus certificaciones
+Correcta: B
+Retroalimentación: Las políticas necesitan ajustarse a la operación y al marco aplicable.
+
+3. ¿Cuándo es apropiado publicar una certificación?
+   A) Cuando el sello se parezca al de un competidor
+   B) Si mejora la apariencia aunque no exista
+   C) Cuando sea auténtica y verificable
+   D) Antes de conocer sus requisitos
+Correcta: C
+Retroalimentación: Las señales de confianza requieren respaldo real.
+
+4. ¿Qué debe comprobarse en un formulario de contacto?
+   A) Solo que tenga campos bonitos
+   B) Únicamente el tamaño del botón
+   C) Que impida registrar consultas
+   D) Recepción, responsable y respuesta
+Correcta: D
+Retroalimentación: La existencia del formulario no garantiza atención efectiva.
+
+5. ¿Qué horario conviene anunciar?
+   A) El que la organización puede cumplir
+   B) Atención permanente sin personal disponible
+   C) El de otra empresa del sector
+   D) Uno que no figure en sus procedimientos
+Correcta: A
+Retroalimentación: Las expectativas deben corresponder a la capacidad real de respuesta.
+
+6. ¿Qué principio orienta pedir datos al usuario?
+   A) Acumular todos los datos posibles
+   B) Necesidad y finalidad explicada
+   C) Solicitar documentos sin propósito
+   D) Publicar datos de contacto sin revisión
+Correcta: B
+Retroalimentación: La minimización relaciona los datos pedidos con una finalidad legítima y clara.
+
+7. ¿Qué ayuda a mantener políticas vigentes?
+   A) Ocultar la fecha de todo cambio
+   B) Dejar la revisión a una cuenta inactiva
+   C) Responsables, versiones y revisiones periódicas
+   D) Suponer que nunca cambian las condiciones
+Correcta: C
+Retroalimentación: El mantenimiento requiere tareas y responsabilidades explícitas.
+
+8. ¿Qué debe hacerse con un sello sin respaldo?
+   A) Conservarlo porque ya fue publicado
+   B) Cambiarle el color y mantener la afirmación
+   C) Presentarlo como una garantía propia
+   D) Retirarlo hasta contar con evidencia válida
+Correcta: D
+Retroalimentación: Una apariencia institucional no justifica una afirmación no verificable.
+
+PUBLICACIÓN CON TU CUENTA AUTORIZADA
+1. Accede al sitio oficial https://www.educaplay.com/ e inicia sesión.
+2. Crea un cuestionario de opciones múltiples y copia título, objetivo e instrucciones. La interfaz y funciones pueden variar con la cuenta.
+3. Incorpora las ocho preguntas, sus opciones y su respuesta correcta. Añade retroalimentación si el formato lo permite.
+4. Configura español y las opciones de evaluación disponibles. El CSV adjunto es auxiliar, no un formato de importación verificado del servicio.
+5. Recorre una vista de prueba completa, revisando aciertos, errores y puntuación.
+6. Publica con la privacidad elegida y copia el enlace real de compartir. Verifica su acceso con permisos de estudiante.
+Enlace de actividad publicada: no disponible; no se accedió a una cuenta de Educaplay. No se inventa un enlace.
+Práctica local funcional: Actividad_Interactiva.html. Es independiente de Educaplay.

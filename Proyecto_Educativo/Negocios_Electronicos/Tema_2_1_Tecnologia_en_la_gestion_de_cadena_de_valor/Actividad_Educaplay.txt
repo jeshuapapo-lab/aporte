@@ -1,0 +1,79 @@
+ACTIVIDAD PREPARADA PARA EDUCAPLAY — SIN PUBLICAR
+Negocios Electrónicos · 2.1 · Tecnología en la gestión de cadena de valor
+Objetivo: Relacionar tecnologías con actividades de la cadena de valor y evaluar su efecto operativo sin confundir digitalización con creación automática de valor.
+Tipo propuesto: cuestionario de opción múltiple. Ocho preguntas, una respuesta correcta, un punto por acierto, sin descuento ni límite de tiempo. Referencia de práctica: seis de ocho. Estas son propuestas didácticas.
+Instrucciones: elige una respuesta y revisa la explicación. El caso y los datos son ficticios.
+
+1. ¿Cuándo aporta valor una tecnología?
+   A) Cuando mejora una capacidad relevante con costos y riesgos considerados
+   B) Siempre que reemplace papel por pantallas
+   C) Solo cuando sea la más costosa
+   D) Al aumentar datos sin uso definido
+Correcta: A
+Retroalimentación: La contribución depende del resultado para la actividad y el cliente.
+
+2. ¿Qué requisito favorece integrar pedidos e inventario?
+   A) Duplicar cada producto en cada sistema
+   B) Identificadores y reglas de actualización comunes
+   C) Actualizar solo el diseño visual
+   D) Eliminar a los responsables del dato
+Correcta: B
+Retroalimentación: Las aplicaciones necesitan referirse de forma coherente a los mismos objetos.
+
+3. ¿Qué es una línea base?
+   A) La meta anunciada después de instalar
+   B) El precio de la licencia
+   C) El resultado medido antes de la intervención
+   D) Una opinión sin datos
+Correcta: C
+Retroalimentación: La línea base permite comparar resultados con condiciones definidas.
+
+4. ¿Qué riesgo produce acelerar pedidos sin revisar producción?
+   A) Eliminar todas las restricciones
+   B) Garantizar entregas más rápidas
+   C) Aumentar automáticamente la capacidad
+   D) Trasladar el cuello de botella a otra etapa
+Correcta: D
+Retroalimentación: Una mejora local puede empeorar el desempeño global.
+
+5. Seis pedidos incumplidos de cien confirmados representan…
+   A) 6 %
+   B) 0,6 %
+   C) 60 %
+   D) 16 %
+Correcta: A
+Retroalimentación: Se calcula seis dividido para cien y multiplicado por cien.
+
+6. ¿Qué debe acompañar el costo de la licencia?
+   A) Únicamente la fotografía del proveedor
+   B) Integración, aprendizaje y mantenimiento
+   C) Solo el ahorro ideal anunciado
+   D) La eliminación del soporte
+Correcta: B
+Retroalimentación: El costo de una intervención incluye más que la compra inicial.
+
+7. ¿Qué muestra una pantalla con existencias desactualizadas?
+   A) Una reserva de inventario garantizada
+   B) Una certificación de exactitud
+   C) Un riesgo para la coordinación
+   D) Una venta conciliada
+Correcta: C
+Retroalimentación: Compartir información no garantiza que sea correcta o vigente.
+
+8. ¿Qué conviene revisar si baja el tiempo pero suben reclamos?
+   A) Solo el indicador que mejoró
+   B) La eliminación del registro de reclamos
+   C) Una declaración automática de éxito
+   D) El efecto global y posibles consecuencias ocultas
+Correcta: D
+Retroalimentación: El valor debe evaluarse con medidas relacionadas y no con una cifra aislada.
+
+PUBLICACIÓN CON TU CUENTA AUTORIZADA
+1. Accede al sitio oficial https://www.educaplay.com/ e inicia sesión.
+2. Crea un cuestionario de opciones múltiples y copia título, objetivo e instrucciones. La interfaz y funciones pueden variar con la cuenta.
+3. Incorpora las ocho preguntas, sus opciones y su respuesta correcta. Añade retroalimentación si el formato lo permite.
+4. Configura español y las opciones de evaluación disponibles. El CSV adjunto es auxiliar, no un formato de importación verificado del servicio.
+5. Recorre una vista de prueba completa, revisando aciertos, errores y puntuación.
+6. Publica con la privacidad elegida y copia el enlace real de compartir. Verifica su acceso con permisos de estudiante.
+Enlace de actividad publicada: no disponible; no se accedió a una cuenta de Educaplay. No se inventa un enlace.
+Práctica local funcional: Actividad_Interactiva.html. Es independiente de Educaplay.

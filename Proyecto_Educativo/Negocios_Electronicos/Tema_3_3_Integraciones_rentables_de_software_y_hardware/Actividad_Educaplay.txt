@@ -1,0 +1,79 @@
+ACTIVIDAD PREPARADA PARA EDUCAPLAY — SIN PUBLICAR
+Negocios Electrónicos · 3.3 · Integraciones rentables de software y hardware
+Objetivo: Diseñar una integración rentable de hardware y software con interoperabilidad, pruebas de datos y evaluación de costo total.
+Tipo propuesto: cuestionario de opción múltiple. Ocho preguntas, una respuesta correcta, un punto por acierto, sin descuento ni límite de tiempo. Referencia de práctica: seis de ocho. Estas son propuestas didácticas.
+Instrucciones: elige una respuesta y revisa la explicación. El caso y los datos son ficticios.
+
+1. ¿Qué debe validarse después de leer un código?
+   A) Que identifica un producto válido y una operación permitida
+   B) Solo que sonó el lector
+   C) Que la pantalla cambió de color
+   D) Que el proveedor es conocido
+Correcta: A
+Retroalimentación: La captura no equivale a validar la transacción.
+
+2. ¿Qué evita registrar dos veces un reintento de la misma operación?
+   A) Repetir siempre la venta
+   B) Un mecanismo de identificación y registro único
+   C) Eliminar toda trazabilidad
+   D) Asignar un código nuevo a cada petición sin relación
+Correcta: B
+Retroalimentación: La operación debe reconocerse aunque la comunicación se repita.
+
+3. Ahorro bruto 180 menos costo recurrente 60 da…
+   A) 240 dólares
+   B) 180 dólares netos
+   C) 120 dólares netos mensuales
+   D) 60 dólares de inversión
+Correcta: C
+Retroalimentación: El beneficio neto descuenta el costo adicional de operación.
+
+4. Inversión 1.200 y ahorro neto mensual 120 dan recuperación simple de…
+   A) 12 meses
+   B) 1 mes
+   C) 120 meses
+   D) 10 meses
+Correcta: D
+Retroalimentación: Se divide la inversión entre el ahorro neto por período.
+
+5. ¿Qué limitación tiene esa recuperación simple?
+   A) No descuenta el momento de los flujos ni cubre todos los riesgos
+   B) Garantiza el ahorro real
+   C) Incluye cualquier fallo posible
+   D) Sustituye el análisis de volumen
+Correcta: A
+Retroalimentación: Es una referencia simplificada, no una evaluación completa.
+
+6. ¿Qué debe probar un piloto de integración?
+   A) Solo el encendido del dispositivo
+   B) Casos normales y fallos representativos
+   C) Únicamente una lectura correcta
+   D) La interfaz sin registrar operaciones
+Correcta: B
+Retroalimentación: Los errores revelan problemas que una prueba ideal no detecta.
+
+7. ¿Qué necesita una operación sin conexión?
+   A) Suponer que no habrá duplicados
+   B) Eliminar identificadores
+   C) Reglas de sincronización y resolución de conflictos
+   D) Ignorar operaciones locales al reconectar
+Correcta: C
+Retroalimentación: Guardar datos no resuelve por sí solo cómo combinarlos después.
+
+8. ¿Qué costo suele olvidarse al comparar dispositivos?
+   A) Únicamente el precio de compra
+   B) El texto de la caja
+   C) La fecha del anuncio
+   D) Reposición y soporte
+Correcta: D
+Retroalimentación: La continuidad económica requiere considerar operación y mantenimiento.
+
+PUBLICACIÓN CON TU CUENTA AUTORIZADA
+1. Accede al sitio oficial https://www.educaplay.com/ e inicia sesión.
+2. Crea un cuestionario de opciones múltiples y copia título, objetivo e instrucciones. La interfaz y funciones pueden variar con la cuenta.
+3. Incorpora las ocho preguntas, sus opciones y su respuesta correcta. Añade retroalimentación si el formato lo permite.
+4. Configura español y las opciones de evaluación disponibles. El CSV adjunto es auxiliar, no un formato de importación verificado del servicio.
+5. Recorre una vista de prueba completa, revisando aciertos, errores y puntuación.
+6. Publica con la privacidad elegida y copia el enlace real de compartir. Verifica su acceso con permisos de estudiante.
+Enlace de actividad publicada: no disponible; no se accedió a una cuenta de Educaplay. No se inventa un enlace.
+Práctica local funcional: Actividad_Interactiva.html. Es independiente de Educaplay.

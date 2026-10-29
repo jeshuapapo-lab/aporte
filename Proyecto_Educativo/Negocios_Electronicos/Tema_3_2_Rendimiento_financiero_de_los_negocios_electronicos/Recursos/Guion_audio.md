@@ -1,0 +1,17 @@
+# Explicación independiente
+
+Esta es una explicación para escuchar de manera independiente sobre rendimiento financiero de los negocios electrónicos. No necesitas consultar imágenes. Calcular e interpretar indicadores financieros de un negocio electrónico considerando margen, inversión y limitaciones de los supuestos. Piensa en cómo resolverías una situación similar en una organización que conozcas; distinguiremos conceptos, decisiones y comprobaciones.
+
+Los ingresos no son equivalentes a utilidad ni a efectivo disponible. Distingue ventas, costos variables, costos fijos e inversión inicial. Los costos variables cambian con el volumen bajo los supuestos del análisis; los fijos permanecen dentro de un rango y período definidos. Clasificar adecuadamente permite comprender qué parte de una venta contribuye a cubrir estructura y generar resultado.
+
+El margen de contribución unitario es precio menos costo variable unitario. Si un producto cuesta veinte dólares y su costo variable es doce, contribuye ocho dólares. Con ochocientos dólares de costos fijos mensuales, el equilibrio simple es cien unidades. El cálculo supone precio y costo unitarios constantes y una oferta homogénea; varios productos requieren considerar la mezcla de ventas.
+
+Define primero el período y qué ingresos y costos pertenecen a él. Calcula la contribución por unidad y los costos fijos para estimar el equilibrio bajo supuestos explícitos. Después prueba escenarios. Si la inversión cambia la operación, revisa también los flujos y el momento de los cobros y pagos, no solo el total de ventas.
+
+Ejemplo hipotético: una caja se vende en veinte dólares y tiene doce dólares de costo variable; los costos fijos del mes son ochocientos. La contribución es ocho y el equilibrio es cien cajas. Con ciento cincuenta cajas, el resultado operativo simple es cuatrocientos dólares, antes de partidas no incluidas. Si el costo variable aumenta a catorce, la contribución baja a seis y se requieren al menos ciento treinta y cuatro cajas para no perder.
+
+Una inversión puede evaluarse con flujos de caja, horizonte y riesgo. Un retorno simple compara beneficio neto atribuible e inversión, pero puede ocultar cuándo se obtiene el dinero. El valor presente descuenta flujos futuros usando una tasa justificada. No combines utilidad contable con flujo de caja sin explicar ajustes, ni presentes proyecciones como resultados ya obtenidos.
+
+Prueba cómo cambian los resultados si varían ventas, devoluciones, publicidad o costos logísticos. Identifica los supuestos más sensibles y las fuentes de datos. Un escenario optimista no reemplaza un presupuesto de caja. La evaluación debe reconocer incertidumbre y comparar alternativas consistentes, incluyendo los costos de operación de la solución digital después de su puesta en marcha.
+
+Antes de terminar, responde mentalmente: ¿Cómo cambia el punto de equilibrio cuando aumenta el costo variable y qué supuestos debes declarar? Una orientación posible es la siguiente. Inicial: 800/(20−12)=100 unidades. Nuevo: 800/(20−14)=133,33; al vender unidades enteras, mínimo 134. Con 150 unidades originales: 150×8−800=400. Declarar período, homogeneidad, constancia de precio/costos y exclusiones como impuestos o financiamiento. Recuerda: Separa ventas, resultado y caja. Calcula con supuestos visibles. Decide comparando escenarios y riesgo.

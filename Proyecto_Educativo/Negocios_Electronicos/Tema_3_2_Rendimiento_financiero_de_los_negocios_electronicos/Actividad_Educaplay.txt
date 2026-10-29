@@ -1,0 +1,79 @@
+ACTIVIDAD PREPARADA PARA EDUCAPLAY — SIN PUBLICAR
+Negocios Electrónicos · 3.2 · Rendimiento financiero de los negocios electrónicos
+Objetivo: Calcular e interpretar indicadores financieros de un negocio electrónico considerando margen, inversión y limitaciones de los supuestos.
+Tipo propuesto: cuestionario de opción múltiple. Ocho preguntas, una respuesta correcta, un punto por acierto, sin descuento ni límite de tiempo. Referencia de práctica: seis de ocho. Estas son propuestas didácticas.
+Instrucciones: elige una respuesta y revisa la explicación. El caso y los datos son ficticios.
+
+1. Precio 20 y costo variable 12 producen contribución unitaria de…
+   A) 8 dólares
+   B) 32 dólares
+   C) 12 dólares
+   D) 20 dólares
+Correcta: A
+Retroalimentación: La contribución es precio menos costo variable.
+
+2. Costos fijos 800 y contribución 8 dan un equilibrio de…
+   A) 10 unidades
+   B) 100 unidades
+   C) 6.400 unidades
+   D) 800 unidades
+Correcta: B
+Retroalimentación: Se dividen costos fijos entre contribución unitaria.
+
+3. Con 150 unidades y contribución 8, menos 800 fijos, resulta…
+   A) 1.200 dólares de utilidad final garantizada
+   B) 800 dólares
+   C) 400 dólares
+   D) 3.000 dólares de resultado operativo
+Correcta: C
+Retroalimentación: 150 por ocho menos ochocientos equivale a cuatrocientos bajo los supuestos del ejemplo.
+
+4. Si la contribución baja a 6, ¿cuántas unidades enteras cubren 800 fijos?
+   A) 133
+   B) 100
+   C) 80
+   D) 134
+Correcta: D
+Retroalimentación: 800 entre seis es 133,33; se redondea hacia arriba para cubrir el costo.
+
+5. ¿Qué distingue al valor presente?
+   A) Considera el momento de los flujos mediante descuento
+   B) Suma ventas sin costos
+   C) Ignora el horizonte
+   D) Garantiza los resultados futuros
+Correcta: A
+Retroalimentación: El descuento relaciona flujos futuros con una tasa y un momento de valoración.
+
+6. ¿Qué debe reconocerse en una proyección?
+   A) Que ya ocurrió la venta futura
+   B) Supuestos e incertidumbre
+   C) Que la publicidad siempre tendrá costo cero
+   D) Que todos los clientes pagarán de inmediato
+Correcta: B
+Retroalimentación: Una proyección no constituye un resultado realizado.
+
+7. ¿Qué limitación tiene el equilibrio simple de un producto?
+   A) Incluye automáticamente cualquier mezcla de productos
+   B) Elimina costos fijos
+   C) Supone precio y costo unitarios constantes en el rango analizado
+   D) Mide todos los riesgos de caja
+Correcta: C
+Retroalimentación: Los supuestos delimitan la utilidad de la fórmula.
+
+8. ¿Por qué ventas y caja no son iguales?
+   A) Porque toda venta es una inversión
+   B) Porque no existen pagos diferidos
+   C) Porque la caja no registra cobros
+   D) Porque cobros y pagos pueden ocurrir en momentos distintos
+Correcta: D
+Retroalimentación: El momento del movimiento de efectivo puede diferir del registro de ventas.
+
+PUBLICACIÓN CON TU CUENTA AUTORIZADA
+1. Accede al sitio oficial https://www.educaplay.com/ e inicia sesión.
+2. Crea un cuestionario de opciones múltiples y copia título, objetivo e instrucciones. La interfaz y funciones pueden variar con la cuenta.
+3. Incorpora las ocho preguntas, sus opciones y su respuesta correcta. Añade retroalimentación si el formato lo permite.
+4. Configura español y las opciones de evaluación disponibles. El CSV adjunto es auxiliar, no un formato de importación verificado del servicio.
+5. Recorre una vista de prueba completa, revisando aciertos, errores y puntuación.
+6. Publica con la privacidad elegida y copia el enlace real de compartir. Verifica su acceso con permisos de estudiante.
+Enlace de actividad publicada: no disponible; no se accedió a una cuenta de Educaplay. No se inventa un enlace.
+Práctica local funcional: Actividad_Interactiva.html. Es independiente de Educaplay.
