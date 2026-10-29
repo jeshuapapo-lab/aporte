@@ -1,0 +1,79 @@
+ACTIVIDAD PREPARADA PARA EDUCAPLAY — SIN PUBLICAR
+Procesos para Negocios Digitales · 2.2 · Fases del ciclo de vida del BPM
+Objetivo: Definir entregables, decisiones de paso y trazabilidad entre las fases del ciclo de vida de BPM.
+Tipo propuesto: cuestionario de opción múltiple. Ocho preguntas, una respuesta correcta, un punto por acierto, sin descuento ni límite de tiempo. Referencia de práctica: seis de ocho. Estas son propuestas didácticas.
+Instrucciones: elige una respuesta y revisa la explicación. El caso y los datos son ficticios.
+
+1. ¿Qué debe producir una fase para orientar el avance?
+   A) Evidencia útil para una decisión
+   B) Solo una fecha en el calendario
+   C) Una reunión sin registro
+   D) Un nombre de herramienta
+Correcta: A
+Retroalimentación: Los entregables justifican decisiones y no solo cumplimiento de agenda.
+
+2. ¿Qué relación debe conservar el rediseño?
+   A) Solo proveedor y licencia
+   B) Problema, causa investigada, cambio y medida esperada
+   C) Únicamente apariencia del diagrama
+   D) Una solución sin hipótesis
+Correcta: B
+Retroalimentación: La trazabilidad ayuda a comprobar que se atiende el problema correcto.
+
+3. ¿Qué revela el caso sobre la demora?
+   A) Toda la demora es trabajo manual de aprobación
+   B) La herramienta ya resolvió el problema
+   C) Predomina la espera por datos incompletos
+   D) No es posible definir una causa
+Correcta: C
+Retroalimentación: La solución debe responder a la evidencia y no a la suposición inicial.
+
+4. ¿Qué se necesita antes de ampliar un piloto?
+   A) Solo una demostración ideal
+   B) La compra completa de licencias
+   C) Un anuncio de éxito anticipado
+   D) Resultados y criterios de aceptación cumplidos
+Correcta: D
+Retroalimentación: La ampliación requiere comprobar funcionamiento y resultado.
+
+5. ¿Instalar una herramienta equivale a aceptar el proceso?
+   A) No, deben probarse trabajo, reglas y excepciones
+   B) Sí, si se pagó la licencia
+   C) Sí, si existe un manual extenso
+   D) Sí, si el nombre incluye BPM
+Correcta: A
+Retroalimentación: La aceptación se refiere a capacidad operacional, no a instalación.
+
+6. ¿Qué conviene hacer si los resultados contradicen la hipótesis?
+   A) Ampliar sin cambios para recuperar inversión
+   B) Revisar el análisis y la alternativa
+   C) Eliminar el indicador desfavorable
+   D) Dar por cerrada toda revisión
+Correcta: B
+Retroalimentación: La retroalimentación permite corregir decisiones.
+
+7. ¿Qué diferencia proyecto y proceso?
+   A) Ambos terminan siempre el mismo día
+   B) El proceso solo existe durante reuniones
+   C) El proyecto puede cerrar entregables mientras el proceso sigue operando
+   D) Un proyecto no necesita responsables
+Correcta: C
+Retroalimentación: La operación y la mejora continúan más allá de un proyecto concreto.
+
+8. ¿Qué preserva contexto entre fases y equipos?
+   A) Una imagen sin fecha ni propósito
+   B) La eliminación de hipótesis anteriores
+   C) Un archivo privado que nadie conoce
+   D) Versiones, decisiones y evidencias registradas
+Correcta: D
+Retroalimentación: La trazabilidad reduce pérdida de conocimiento y decisiones inconsistentes.
+
+PUBLICACIÓN CON TU CUENTA AUTORIZADA
+1. Accede al sitio oficial https://www.educaplay.com/ e inicia sesión.
+2. Crea un cuestionario de opciones múltiples y copia título, objetivo e instrucciones. La interfaz y funciones pueden variar con la cuenta.
+3. Incorpora las ocho preguntas, sus opciones y su respuesta correcta. Añade retroalimentación si el formato lo permite.
+4. Configura español y las opciones de evaluación disponibles. El CSV adjunto es auxiliar, no un formato de importación verificado del servicio.
+5. Recorre una vista de prueba completa, revisando aciertos, errores y puntuación.
+6. Publica con la privacidad elegida y copia el enlace real de compartir. Verifica su acceso con permisos de estudiante.
+Enlace de actividad publicada: no disponible; no se accedió a una cuenta de Educaplay. No se inventa un enlace.
+Práctica local funcional: Actividad_Interactiva.html. Es independiente de Educaplay.

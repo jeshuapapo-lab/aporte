@@ -4,7 +4,7 @@ Se están desarrollando los **27 subtemas** de Negocios Electrónicos y Procesos
 
 ## Estado de esta subida
 
-**17 de 27 temas** tienen sus cinco entregables generados y comprobados en el entorno: presentación PowerPoint, video MP4 de 2–4 minutos, audio MP3, tarea Word y actividad preparada para Educaplay. Las siguientes subidas incorporarán el resto. El contenido de todos los subtemas ya está preparado; la síntesis de voz, exportación y validación se realizan por lotes.
+**21 de 27 temas** tienen sus cinco entregables generados y comprobados en el entorno: presentación PowerPoint, video MP4 de 2–4 minutos, audio MP3, tarea Word y actividad preparada para Educaplay. Las siguientes subidas incorporarán el resto. El contenido de todos los subtemas ya está preparado; la síntesis de voz, exportación y validación se realizan por lotes.
 
 Los PDF permiten revisar el diseño; los archivos PPTX y DOCX conservan contenido editable. Los videos incluyen voz neuronal configurada para español latinoamericano, música instrumental propia y subtítulos. Las actividades HTML permiten practicar sin una cuenta externa.
 
@@ -29,5 +29,9 @@ Educaplay: se entregan preguntas, respuestas, retroalimentación e instrucciones
 - PND_1_3: Certificaciones.
 - PND_1_4: Ciclo de vida general del BPM.
 - PND_2_1: Componentes clave del BPM.
+- PND_2_2: Fases del ciclo de vida del BPM.
+- PND_2_3: Rol del BPM en la mejora continua.
+- PND_3_1: Importancia del modelado en la gestión de procesos.
+- PND_3_2: Buenas prácticas de modelado.
 
 Los casos y datos son ficticios. Los modelos de voz, el entorno virtual y las cachés de trabajo se mantienen fuera del repositorio. La revisión técnica de reproducción no equivale a una evaluación auditiva humana de pronunciación y expresividad.

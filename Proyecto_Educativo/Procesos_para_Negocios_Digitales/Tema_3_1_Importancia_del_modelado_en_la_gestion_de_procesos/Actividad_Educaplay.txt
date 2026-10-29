@@ -1,0 +1,79 @@
+ACTIVIDAD PREPARADA PARA EDUCAPLAY — SIN PUBLICAR
+Procesos para Negocios Digitales · 3.1 · Importancia del modelado en la gestión de procesos
+Objetivo: Explicar para qué modelar un proceso y elegir un nivel de detalle que permita comunicar, analizar o preparar su ejecución.
+Tipo propuesto: cuestionario de opción múltiple. Ocho preguntas, una respuesta correcta, un punto por acierto, sin descuento ni límite de tiempo. Referencia de práctica: seis de ocho. Estas son propuestas didácticas.
+Instrucciones: elige una respuesta y revisa la explicación. El caso y los datos son ficticios.
+
+1. ¿Qué debe definirse antes de modelar?
+   A) Propósito, audiencia y límites
+   B) La mayor cantidad posible de símbolos
+   C) Una solución sin conocer el proceso
+   D) El color de todas las flechas
+Correcta: A
+Retroalimentación: El propósito orienta la representación y su detalle.
+
+2. ¿Qué problema tiene mezclar una empresa completa con clics individuales?
+   A) Exceso de evidencia verificable
+   B) Inconsistencia de nivel de abstracción
+   C) Mejora automática de comprensión
+   D) Ausencia de cualquier tarea
+Correcta: B
+Retroalimentación: Las vistas necesitan una escala coherente.
+
+3. ¿Qué describe el estado actual?
+   A) Lo que se desea implantar después
+   B) Una promesa comercial
+   C) La operación observada y validada
+   D) La alternativa preferida sin evidencia
+Correcta: C
+Retroalimentación: El modelo actual debe corresponder al funcionamiento real.
+
+4. ¿Cómo tratar una validación inicial que aún no existe?
+   A) Incluirla como hecho del presente
+   B) Suponer que siempre se ejecutó
+   C) Ocultar que es una propuesta
+   D) Marcarla como parte del estado futuro
+Correcta: D
+Retroalimentación: Las propuestas necesitan distinguirse de hechos observados.
+
+5. ¿Qué ayuda a manejar detalle sin saturar la vista general?
+   A) Usar subprocesos y vistas relacionadas
+   B) Eliminar todos los límites
+   C) Duplicar todo en una sola página
+   D) Mezclar etapas con cargos y productos
+Correcta: A
+Retroalimentación: Las vistas permiten conservar claridad y profundizar cuando hace falta.
+
+6. ¿Qué puede revelar un desacuerdo entre áreas?
+   A) Que toda entrevista carece de valor
+   B) Variantes reales que conviene investigar
+   C) Que no debe registrarse ninguna opinión
+   D) Que solo el primer modelo es correcto
+Correcta: B
+Retroalimentación: La discrepancia es evidencia para explorar el proceso.
+
+7. ¿Qué no demuestra por sí solo un diagrama?
+   A) Las relaciones que representa
+   B) El alcance que declara
+   C) La causa de una demora o su duración real
+   D) Las decisiones que documenta
+Correcta: C
+Retroalimentación: Los tiempos y causas requieren datos y análisis adicionales.
+
+8. ¿Qué favorece mantener útil el modelo?
+   A) Guardar una imagen sin contexto
+   B) Dar por definitivo cualquier dibujo
+   C) Eliminar el propósito para simplificar
+   D) Versión, responsable y revisión cuando cambia la operación
+Correcta: D
+Retroalimentación: El modelo necesita gobierno y actualización para sostener decisiones.
+
+PUBLICACIÓN CON TU CUENTA AUTORIZADA
+1. Accede al sitio oficial https://www.educaplay.com/ e inicia sesión.
+2. Crea un cuestionario de opciones múltiples y copia título, objetivo e instrucciones. La interfaz y funciones pueden variar con la cuenta.
+3. Incorpora las ocho preguntas, sus opciones y su respuesta correcta. Añade retroalimentación si el formato lo permite.
+4. Configura español y las opciones de evaluación disponibles. El CSV adjunto es auxiliar, no un formato de importación verificado del servicio.
+5. Recorre una vista de prueba completa, revisando aciertos, errores y puntuación.
+6. Publica con la privacidad elegida y copia el enlace real de compartir. Verifica su acceso con permisos de estudiante.
+Enlace de actividad publicada: no disponible; no se accedió a una cuenta de Educaplay. No se inventa un enlace.
+Práctica local funcional: Actividad_Interactiva.html. Es independiente de Educaplay.

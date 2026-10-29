@@ -1,0 +1,12 @@
+[
+  {
+    "file": "Estado_actual.bpmn",
+    "elements": 18,
+    "warnings": []
+  },
+  {
+    "file": "Estado_futuro.bpmn",
+    "elements": 18,
+    "warnings": []
+  }
+]
