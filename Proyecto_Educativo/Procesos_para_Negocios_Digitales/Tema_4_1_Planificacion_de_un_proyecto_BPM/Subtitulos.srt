@@ -1,0 +1,255 @@
+1
+00:00:00,250 --> 00:00:03,386
+Hoy estudiaremos planificación de un proyecto bpm.
+
+2
+00:00:03,606 --> 00:00:07,446
+El propósito es planificar un proyecto BPM con alcance, entregables, responsabilidades,
+
+3
+00:00:07,446 --> 00:00:11,286
+riesgos y criterios de aceptación.
+
+4
+00:00:11,506 --> 00:00:15,261
+Este contenido forma parte de procesos para negocios digitales.
+
+5
+00:00:15,481 --> 00:00:20,430
+Trabajaremos con conceptos y un caso ficticio para tomar decisiones justificadas.
+
+6
+00:00:21,167 --> 00:00:25,017
+Antes de proponer una solución, considera esta pregunta: ¿Qué compromisos deben
+
+7
+00:00:25,017 --> 00:00:28,868
+revisarse antes de aprobar el calendario del caso?
+
+8
+00:00:29,088 --> 00:00:32,651
+Al terminar deberás explicar tu decisión, indicar cómo la comprobarías y
+
+9
+00:00:32,651 --> 00:00:36,213
+reconocer los límites de la evidencia utilizada.
+
+10
+00:00:36,958 --> 00:00:40,030
+Un proyecto BPM organiza una intervención temporal para mejorar un proceso
+
+11
+00:00:40,030 --> 00:00:43,102
+con propósito definido.
+
+12
+00:00:43,322 --> 00:00:45,445
+Explica el problema, quién recibe el resultado, qué se incluye y
+
+13
+00:00:45,445 --> 00:00:47,568
+qué queda fuera.
+
+14
+00:00:47,788 --> 00:00:51,137
+Relaciona los beneficios esperados con evidencia inicial y evita prometer una
+
+15
+00:00:51,137 --> 00:00:54,486
+transformación total sin recursos.
+
+16
+00:00:54,706 --> 00:00:57,544
+El responsable del proyecto y el dueño del proceso cumplen funciones
+
+17
+00:00:57,544 --> 00:01:00,381
+relacionadas, pero distintas.
+
+18
+00:01:01,125 --> 00:01:04,901
+Descompón el trabajo en entregables verificables: alcance, modelo actual, diagnóstico, propuesta
+
+19
+00:01:04,901 --> 00:01:08,677
+futura, piloto y seguimiento.
+
+20
+00:01:08,897 --> 00:01:12,438
+Asigna responsable de ejecución y autoridad de aprobación.
+
+21
+00:01:12,658 --> 00:01:17,224
+Un cronograma útil representa dependencias y disponibilidad de participantes.
+
+22
+00:01:17,444 --> 00:01:21,796
+No programes una validación antes de disponer de evidencia suficiente ni
+
+23
+00:01:21,796 --> 00:01:26,148
+supongas que todas las personas estarán disponibles a tiempo completo.
+
+24
+00:01:26,875 --> 00:01:31,248
+La planificación conecta el problema con entregables, personas y decisiones.
+
+25
+00:01:31,468 --> 00:01:33,815
+Un modelo actual validado debe preceder al diagnóstico y a la
+
+26
+00:01:33,815 --> 00:01:36,162
+selección del cambio.
+
+27
+00:01:36,382 --> 00:01:40,798
+El piloto necesita preparación operacional y condiciones de aceptación.
+
+28
+00:01:41,018 --> 00:01:44,047
+Al concluir, la responsabilidad de seguimiento se transfiere de manera explícita
+
+29
+00:01:44,047 --> 00:01:47,076
+para que la mejora no dependa de mantener abierto el proyecto
+
+30
+00:01:47,076 --> 00:01:50,106
+indefinidamente.
+
+31
+00:01:50,833 --> 00:01:54,083
+Caso ficticio: una empresa propone mejorar soporte en cuatro semanas, pero
+
+32
+00:01:54,083 --> 00:01:57,333
+el analista solo puede participar dos días por semana y los
+
+33
+00:01:57,333 --> 00:02:00,583
+datos no están consolidados.
+
+34
+00:02:00,803 --> 00:02:04,195
+El plan debe ajustar alcance o plazo, asignar acceso a registros
+
+35
+00:02:04,195 --> 00:02:07,587
+y programar validación con atención al cliente.
+
+36
+00:02:07,807 --> 00:02:11,967
+Comprar una herramienta en la primera semana no sustituye el diagnóstico.
+
+37
+00:02:12,187 --> 00:02:16,645
+El piloto necesita responsables de incidentes y una decisión de continuidad.
+
+38
+00:02:17,375 --> 00:02:20,490
+Identifica riesgos de datos insuficientes, resistencia, dependencia técnica o interrupción de
+
+39
+00:02:20,490 --> 00:02:23,604
+operación.
+
+40
+00:02:23,824 --> 00:02:27,088
+Define señales tempranas, responsables y respuestas.
+
+41
+00:02:27,308 --> 00:02:31,319
+El cambio necesita comunicación sobre qué se modificará, formación para quienes
+
+42
+00:02:31,319 --> 00:02:35,330
+ejecutan el proceso y un canal para reportar excepciones.
+
+43
+00:02:35,550 --> 00:02:39,411
+Considera pruebas y transición para no usar a los clientes como
+
+44
+00:02:39,411 --> 00:02:43,272
+validadores involuntarios de una solución todavía no comprobada.
+
+45
+00:02:44,000 --> 00:02:46,603
+Define criterios observables para aceptar cada entregable y decidir si ampliar
+
+46
+00:02:46,603 --> 00:02:49,205
+el piloto.
+
+47
+00:02:49,425 --> 00:02:53,180
+Prevé soporte y transferencia al responsable de la operación.
+
+48
+00:02:53,400 --> 00:02:58,477
+El cierre del proyecto debe conservar modelos, decisiones, indicadores y aprendizajes.
+
+49
+00:02:58,697 --> 00:03:01,933
+La mejora del proceso continúa después del cierre administrativo; necesita una
+
+50
+00:03:01,933 --> 00:03:05,168
+revisión programada y capacidad de actuar cuando el resultado se aleja
+
+51
+00:03:05,168 --> 00:03:08,404
+del propósito.
+
+52
+00:03:09,125 --> 00:03:12,261
+Para aplicar lo aprendido, desarrolla la tarea editable.
+
+53
+00:03:12,481 --> 00:03:15,020
+Redacta una ficha de proyecto con problema, alcance, exclusiones y beneficio
+
+54
+00:03:15,020 --> 00:03:17,558
+esperado.
+
+55
+00:03:17,778 --> 00:03:22,280
+Después, elabora tres riesgos con señal temprana, responsable y respuesta.
+
+56
+00:03:22,500 --> 00:03:25,924
+Justifica tus decisiones con los conceptos de esta explicación y comprueba
+
+57
+00:03:25,924 --> 00:03:29,348
+tus respuestas en la actividad interactiva.
+
+58
+00:03:30,083 --> 00:03:31,747
+Conserva estas ideas.
+
+59
+00:03:31,967 --> 00:03:34,485
+Planifica alcance y capacidad reales.
+
+60
+00:03:34,705 --> 00:03:37,521
+Organiza entregables con aceptación y riesgos.
+
+61
+00:03:37,741 --> 00:03:39,959
+Transfiere la mejora a la operación.
+
+62
+00:03:40,179 --> 00:03:42,355
+El caso y sus datos son ficticios.
+
+63
+00:03:42,575 --> 00:03:46,127
+Revisa las fuentes indicadas en los materiales y continúa con la
+
+64
+00:03:46,127 --> 00:03:49,679
+práctica para transferir estos criterios a otra situación.

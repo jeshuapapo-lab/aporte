@@ -1,0 +1,131 @@
+{
+  "id": "PND_1_1",
+  "code": "PND",
+  "num": "1.1",
+  "materia": "Procesos para Negocios Digitales",
+  "unidad": "Introducción del BPM",
+  "title": "Generalidades del BPM",
+  "objective": "Reconocer proceso, actividad, evento y flujo, y distinguir gestión por procesos, notación y software.",
+  "sections": [
+    [
+      "Qué es un proceso",
+      "Un proceso es un conjunto relacionado de actividades que transforma entradas en resultados para un destinatario. Tiene un propósito, un desencadenante y límites que permiten distinguirlo de otras operaciones. Puede atravesar varios departamentos. Analizar solo las tareas de un área deja fuera esperas y transferencias que influyen en el resultado que recibe el cliente."
+    ],
+    [
+      "Vocabulario fundamental",
+      "Una actividad representa trabajo realizado; una tarea es una unidad de trabajo dentro del nivel de detalle elegido. Un evento indica algo que ocurre y afecta el recorrido, como recibir una solicitud. El flujo expresa el orden o la relación entre elementos. Distinguir estos conceptos evita mezclar acciones, condiciones y resultados cuando se describe cómo funciona una organización."
+    ],
+    [
+      "Gestión por procesos",
+      "BPM es una disciplina de gestión orientada a comprender, ejecutar, medir y mejorar procesos de manera continua. Requiere responsables, acuerdos y evidencia sobre desempeño. Un diagrama puede apoyar esa disciplina, pero no reemplaza la gestión. Si nadie revisa el resultado ni decide mejoras, dibujar un proceso no basta para afirmar que se está gestionando por procesos."
+    ],
+    [
+      "Disciplina, notación y herramienta",
+      "BPM es el enfoque de gestión; BPMN es una notación para representar procesos; una plataforma informática puede apoyar modelado, ejecución o seguimiento. No son sinónimos. Una organización puede empezar a mejorar un proceso con herramientas sencillas, siempre que defina propósito, responsabilidades y comprobaciones. Automatizar tareas sin entender el recorrido puede conservar o amplificar un problema existente."
+    ]
+  ],
+  "flow": [
+    "Recibir entrada",
+    "Realizar trabajo",
+    "Entregar resultado",
+    "Evaluar propósito"
+  ],
+  "flowtext": "Describe qué inicia el proceso, qué trabajo transforma la entrada y qué resultado recibe el destinatario. Después pregunta si ese resultado satisface el propósito y cómo lo comprobarías. Si el recorrido atraviesa áreas, conserva una visión completa: el tiempo de cada tarea no explica por sí solo todas las esperas de una solicitud.",
+  "case": "Caso ficticio: una empresa recibe una solicitud de cotización, verifica requisitos, prepara una propuesta y la comunica al cliente. Ventas tarda una hora y revisión técnica otra, pero la respuesta llega tres días después por esperas entre áreas. El proceso no es solo redactar la propuesta. Para gestionarlo, necesita un responsable del recorrido, estados compartidos y una medida de tiempo desde la recepción hasta la respuesta.",
+  "problem": "¿Cuál es el proceso completo y por qué sumar las horas de trabajo no explica los tres días?",
+  "solution": "El proceso va desde recibir la solicitud hasta comunicar la respuesta. Incluye actividades y esperas entre áreas; dos horas de trabajo no equivalen al tiempo transcurrido de tres días. Debe definirse responsable e indicador con inicio y fin consistentes.",
+  "tasks": [
+    "Delimita el proceso con entrada, evento inicial, destinatario y resultado.",
+    "Identifica dos actividades, un evento y una relación de flujo del caso.",
+    "Representa el recorrido entre áreas y distingue trabajo de espera.",
+    "Explica qué decisiones pertenecen a BPM, qué representa BPMN y qué podría apoyar una herramienta."
+  ],
+  "summary": [
+    "Un proceso entrega un resultado a alguien.",
+    "Distingue trabajo, eventos y flujo.",
+    "BPM, BPMN y software cumplen funciones distintas."
+  ],
+  "source": "Dumas, La Rosa, Mendling y Reijers (2018), Fundamentals of Business Process Management, 2.ª ed. Springer.",
+  "questions": [
+    {
+      "q": "¿Qué caracteriza a un proceso?",
+      "correct": "Transformar entradas en resultados mediante actividades relacionadas",
+      "distractors": [
+        "Ser siempre una tarea de un departamento",
+        "Existir solo si está automatizado",
+        "Consistir únicamente en una lista de cargos"
+      ],
+      "feedback": "El propósito y la transformación delimitan el proceso."
+    },
+    {
+      "q": "¿Qué representa un evento?",
+      "correct": "Algo que ocurre y afecta el recorrido",
+      "distractors": [
+        "Un cargo jerárquico",
+        "Una licencia de software",
+        "Cualquier instrucción de trabajo por definición"
+      ],
+      "feedback": "Un evento, como recibir una solicitud, se distingue del trabajo realizado."
+    },
+    {
+      "q": "¿Qué expresa un flujo?",
+      "correct": "La relación u orden entre elementos",
+      "distractors": [
+        "Solo una persona responsable",
+        "El costo de una herramienta",
+        "La certificación del negocio"
+      ],
+      "feedback": "El flujo ayuda a comprender cómo se conectan los elementos."
+    },
+    {
+      "q": "¿Qué es BPM?",
+      "correct": "Una disciplina de gestión y mejora de procesos",
+      "distractors": [
+        "Una única notación gráfica",
+        "Un producto comercial específico",
+        "Una tarea aislada de programación"
+      ],
+      "feedback": "BPM requiere gestión continua y no se reduce a una herramienta."
+    },
+    {
+      "q": "¿Qué es BPMN?",
+      "correct": "Una notación para modelar procesos",
+      "distractors": [
+        "Un sinónimo exacto de toda la disciplina BPM",
+        "Un indicador financiero",
+        "Una garantía de automatización"
+      ],
+      "feedback": "La notación representa; no sustituye la gestión del proceso."
+    },
+    {
+      "q": "Dos horas de trabajo y tres días hasta responder indican…",
+      "correct": "Que existen tiempos transcurridos adicionales como esperas",
+      "distractors": [
+        "Que el proceso duró exactamente dos horas",
+        "Que no puede medirse",
+        "Que necesariamente se trabajó tres días completos"
+      ],
+      "feedback": "Trabajo y tiempo de ciclo no son la misma medida."
+    },
+    {
+      "q": "¿Qué aporta un responsable del proceso?",
+      "correct": "Coordinación del resultado de extremo a extremo",
+      "distractors": [
+        "Eliminar toda función de las áreas",
+        "Garantizar éxito sin indicadores",
+        "Sustituir a todos los participantes"
+      ],
+      "feedback": "El responsable coordina el desempeño global y las mejoras."
+    },
+    {
+      "q": "¿Qué debe hacerse antes de automatizar un recorrido problemático?",
+      "correct": "Comprenderlo y revisar sus fallos y propósito",
+      "distractors": [
+        "Digitalizar todos sus pasos sin análisis",
+        "Comprar primero la plataforma más grande",
+        "Eliminar la medición para avanzar más rápido"
+      ],
+      "feedback": "La automatización puede ampliar problemas que no se comprendieron."
+    }
+  ]
+}

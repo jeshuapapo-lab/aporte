@@ -1,0 +1,131 @@
+{
+  "id": "NE_1_4",
+  "code": "NE",
+  "num": "1.4",
+  "materia": "Negocios Electrónicos",
+  "unidad": "Estructura del negocio electrónico",
+  "title": "Aspectos institucionales",
+  "objective": "Definir información institucional verificable que aporte identidad, transparencia y canales de atención al negocio electrónico.",
+  "sections": [
+    [
+      "Identidad y legitimidad",
+      "Los aspectos institucionales permiten reconocer quién está detrás del negocio y cómo puede contactarse. Incluyen identidad comercial, propósito, trayectoria comprobable y canales de atención. Su función es reducir incertidumbre sobre la organización, sin convertir una historia atractiva en prueba de calidad por sí sola. Una empresa debe mantener consistencia entre lo que afirma en su sitio y sus prácticas reales."
+    ],
+    [
+      "Políticas comprensibles",
+      "Las condiciones de compra, atención, cambios, devoluciones y tratamiento de datos deben ser localizables y expresarse con claridad. Una política copiada de otro país o negocio puede describir procedimientos que la organización no aplica. La redacción necesita revisión de responsables de operación y, cuando corresponda, asesoramiento jurídico competente. Este material educativo no determina obligaciones legales concretas para todos los negocios."
+    ],
+    [
+      "Confianza con evidencia",
+      "Muestra certificaciones, alianzas y testimonios solo cuando sean auténticos y exista autorización para publicarlos. Una dirección o un formulario no bastan si los mensajes no llegan a un responsable. Define tiempos de respuesta que puedan cumplirse y procedimientos para escalar reclamos. La información institucional debe ayudar a resolver dudas, no limitarse a decorar una sección de quiénes somos."
+    ],
+    [
+      "Datos y mantenimiento",
+      "Solicita únicamente los datos necesarios para cada finalidad y explica su uso. Controla quién puede acceder a formularios y documentos, y establece revisiones periódicas de contactos y políticas. Si cambian las condiciones, registra versiones y fechas pertinentes. Una política desactualizada puede generar expectativas equivocadas incluso cuando el sitio funciona técnicamente y sus páginas cargan sin errores."
+    ]
+  ],
+  "flow": [
+    "Identificar",
+    "Informar",
+    "Atender",
+    "Actualizar"
+  ],
+  "flowtext": "La información institucional comienza identificando al responsable del negocio. Después comunica condiciones de relación y abre canales que realmente atiendan consultas. El ciclo termina revisando vigencia, responsables y cambios. Conviene comprobar cada enlace de contacto y seguir una consulta de prueba hasta su respuesta, en lugar de limitarse a verificar que existe un formulario.",
+  "case": "Caso ficticio: Minga Cacao anuncia atención permanente, pero su equipo responde solo en horario laboral. Copió una política de devoluciones que menciona otra empresa y publica un sello sin respaldo. El rediseño institucional debe corregir las afirmaciones, publicar condiciones que la operación pueda cumplir y asignar a una persona responsable de consultas y revisiones. Antes de publicar datos personales de empleados debe comprobarse la autorización y necesidad.",
+  "problem": "¿Cuáles son las tres correcciones prioritarias y cómo verificarías que se mantienen vigentes?",
+  "solution": "Ajustar horario a la atención real, sustituir la política ajena por una revisada y retirar el sello sin respaldo. Registrar responsable, versión y revisión; enviar una consulta de prueba y comprobar respuesta.",
+  "tasks": [
+    "Elabora una ficha institucional con identidad y tres evidencias verificables.",
+    "Diseña una política breve de atención diferenciando propuesta educativa y revisión jurídica.",
+    "Audita las tres afirmaciones del caso y establece qué evidencia exigirías.",
+    "Propón una revisión trimestral con responsables, registros y pruebas del contacto."
+  ],
+  "summary": [
+    "La identidad debe poder comprobarse.",
+    "Las políticas deben corresponder a la operación.",
+    "Atender y actualizar también genera confianza."
+  ],
+  "source": "OECD (2016), Consumer Protection in E-commerce. Complemento contextual: revisar normativa y asesoramiento jurídico aplicables en Ecuador.",
+  "questions": [
+    {
+      "q": "¿Cuál es una función de la información institucional?",
+      "correct": "Identificar quién responde por el negocio",
+      "distractors": [
+        "Sustituir toda condición de compra",
+        "Garantizar resultados por contar una historia",
+        "Eliminar la necesidad de atención"
+      ],
+      "feedback": "La identidad y el contacto aportan transparencia sobre la organización."
+    },
+    {
+      "q": "¿Qué problema tiene copiar una política de otro negocio?",
+      "correct": "Puede describir condiciones y procedimientos que no se aplican",
+      "distractors": [
+        "Garantiza adecuación legal en cualquier país",
+        "Actualiza automáticamente los procesos",
+        "Transfiere sus certificaciones"
+      ],
+      "feedback": "Las políticas necesitan ajustarse a la operación y al marco aplicable."
+    },
+    {
+      "q": "¿Cuándo es apropiado publicar una certificación?",
+      "correct": "Cuando sea auténtica y verificable",
+      "distractors": [
+        "Cuando el sello se parezca al de un competidor",
+        "Si mejora la apariencia aunque no exista",
+        "Antes de conocer sus requisitos"
+      ],
+      "feedback": "Las señales de confianza requieren respaldo real."
+    },
+    {
+      "q": "¿Qué debe comprobarse en un formulario de contacto?",
+      "correct": "Recepción, responsable y respuesta",
+      "distractors": [
+        "Solo que tenga campos bonitos",
+        "Únicamente el tamaño del botón",
+        "Que impida registrar consultas"
+      ],
+      "feedback": "La existencia del formulario no garantiza atención efectiva."
+    },
+    {
+      "q": "¿Qué horario conviene anunciar?",
+      "correct": "El que la organización puede cumplir",
+      "distractors": [
+        "Atención permanente sin personal disponible",
+        "El de otra empresa del sector",
+        "Uno que no figure en sus procedimientos"
+      ],
+      "feedback": "Las expectativas deben corresponder a la capacidad real de respuesta."
+    },
+    {
+      "q": "¿Qué principio orienta pedir datos al usuario?",
+      "correct": "Necesidad y finalidad explicada",
+      "distractors": [
+        "Acumular todos los datos posibles",
+        "Solicitar documentos sin propósito",
+        "Publicar datos de contacto sin revisión"
+      ],
+      "feedback": "La minimización relaciona los datos pedidos con una finalidad legítima y clara."
+    },
+    {
+      "q": "¿Qué ayuda a mantener políticas vigentes?",
+      "correct": "Responsables, versiones y revisiones periódicas",
+      "distractors": [
+        "Ocultar la fecha de todo cambio",
+        "Dejar la revisión a una cuenta inactiva",
+        "Suponer que nunca cambian las condiciones"
+      ],
+      "feedback": "El mantenimiento requiere tareas y responsabilidades explícitas."
+    },
+    {
+      "q": "¿Qué debe hacerse con un sello sin respaldo?",
+      "correct": "Retirarlo hasta contar con evidencia válida",
+      "distractors": [
+        "Conservarlo porque ya fue publicado",
+        "Cambiarle el color y mantener la afirmación",
+        "Presentarlo como una garantía propia"
+      ],
+      "feedback": "Una apariencia institucional no justifica una afirmación no verificable."
+    }
+  ]
+}

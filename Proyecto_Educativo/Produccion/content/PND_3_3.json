@@ -1,0 +1,131 @@
+{
+  "id": "PND_3_3",
+  "code": "PND",
+  "num": "3.3",
+  "materia": "Procesos para Negocios Digitales",
+  "unidad": "Técnicas de modelado de procesos",
+  "title": "Herramientas digitales para modelado de procesos",
+  "objective": "Comparar herramientas de modelado por propósito, interoperabilidad y colaboración, comprobando sus límites con una prueba práctica.",
+  "sections": [
+    [
+      "Propósito de la herramienta",
+      "Una herramienta puede ayudar a dibujar, validar, documentar, simular o ejecutar procesos, pero no todas hacen lo mismo. Un editor de diagramas generales puede comunicar una idea sin comprobar semántica BPMN. Un modelador especializado puede validar aspectos formales, mientras un motor necesita una especificación ejecutable. Define primero qué trabajo apoyará la herramienta y quién la utilizará."
+    ],
+    [
+      "Criterios de comparación",
+      "Evalúa soporte de notación y versión, facilidad de revisión, colaboración, control de versiones, exportación e importación. Considera también sistema operativo, permisos, almacenamiento y costos del plan real. Los nombres Bizagi Modeler, Camunda Modeler y editores basados en bpmn.io son ejemplos para investigar, no una afirmación de equivalencia ni de gratuidad permanente de todas sus funciones."
+    ],
+    [
+      "Interoperabilidad y archivos",
+      "Una imagen permite visualizar, pero no conserva necesariamente elementos editables ni sus relaciones. Un archivo BPMN en XML puede transportar estructura bajo el estándar, aunque extensiones de proveedor o detalles de diagramación pueden cambiar entre herramientas. Prueba exportar e importar un modelo y revisar elementos, condiciones y distribución antes de afirmar que existe interoperabilidad suficiente."
+    ],
+    [
+      "Colaboración y evidencia",
+      "La colaboración necesita acuerdos sobre responsables, versiones, revisión y publicación. Un enlace compartido no impide que varias personas modifiquen reglas contradictorias. Para seleccionar, realiza una prueba con un modelo representativo y un cambio solicitado por otra persona. Registra errores, diferencias de importación y condiciones de acceso; evita cargar datos confidenciales en servicios sin autorización y revisión de condiciones."
+    ]
+  ],
+  "flow": [
+    "Definir uso",
+    "Comparar requisitos",
+    "Probar intercambio",
+    "Acordar colaboración"
+  ],
+  "flowtext": "Define la tarea que necesita apoyo y qué condiciones son obligatorias. Compara alternativas con los mismos criterios. Después prueba crear, exportar, importar y revisar un modelo de ejemplo. Finalmente acuerda cómo se aprueban y comparten versiones, porque la elección técnica no resuelve por sí sola el trabajo colaborativo ni los permisos.",
+  "case": "Caso ficticio: un equipo entrega capturas de pantalla de sus procesos y nadie puede corregirlos sin redibujar. Propone adoptar un modelador que exporte BPMN. La prueba debe verificar que otro integrante importe el archivo, cambie una condición y conserve las relaciones. También debe revisar la compatibilidad con sus equipos y el acceso a funciones de colaboración disponibles en la versión y plan elegidos.",
+  "problem": "¿Qué prueba distinguiría una entrega visual de una entrega realmente editable e interoperable?",
+  "solution": "Exportar un modelo como BPMN XML, importarlo en otra instancia o herramienta y modificar una condición conservando eventos, tareas y flujos. Comparar estructura y diagrama; registrar extensiones o pérdidas. La captura sola no cumple esa prueba.",
+  "tasks": [
+    "Define seis criterios de selección y separa obligatorios de deseables.",
+    "Compara dos herramientas investigables sin suponer funciones no verificadas.",
+    "Diseña una prueba de exportación, importación y modificación de condición.",
+    "Propón reglas de revisión, permisos y publicación de versiones del modelo."
+  ],
+  "summary": [
+    "Selecciona por propósito y requisitos.",
+    "Prueba el intercambio de estructura editable.",
+    "Acuerda versiones, permisos y revisión."
+  ],
+  "source": "OMG, BPMN 2.0.2. Fuentes de herramientas para verificar versiones: https://www.bizagi.com/ · https://camunda.com/ · https://bpmn.io/ .",
+  "questions": [
+    {
+      "q": "¿Qué debe definirse antes de elegir un modelador?",
+      "correct": "Propósito, usuarios y requisitos",
+      "distractors": [
+        "La herramienta más anunciada",
+        "La gratuidad eterna de cualquier plan",
+        "La cantidad máxima de iconos"
+      ],
+      "feedback": "La selección depende del trabajo que debe apoyar."
+    },
+    {
+      "q": "¿Qué limitación tiene entregar solo una imagen?",
+      "correct": "Puede perderse la estructura editable del modelo",
+      "distractors": [
+        "Garantiza ejecutar el proceso",
+        "Conserva siempre todas las condiciones formales",
+        "Resuelve automáticamente versiones"
+      ],
+      "feedback": "Visualización y estructura editable son cosas distintas."
+    },
+    {
+      "q": "¿Qué archivo puede conservar elementos y relaciones BPMN?",
+      "correct": "XML conforme al estándar BPMN",
+      "distractors": [
+        "Solo una captura JPEG",
+        "Un audio sin metadatos del modelo",
+        "Una fotografía del monitor"
+      ],
+      "feedback": "El intercambio estructurado necesita más que una vista rasterizada."
+    },
+    {
+      "q": "¿Por qué debe probarse la importación?",
+      "correct": "Por posibles diferencias y extensiones entre herramientas",
+      "distractors": [
+        "Porque el estándar garantiza idéntica apariencia siempre",
+        "Porque todas las funciones son equivalentes",
+        "Porque importar elimina las condiciones"
+      ],
+      "feedback": "La interoperabilidad debe comprobarse con el modelo concreto."
+    },
+    {
+      "q": "¿Qué necesita una especificación ejecutable?",
+      "correct": "Reglas y datos suficientes para el motor elegido",
+      "distractors": [
+        "Solo una imagen con flechas",
+        "Únicamente una lista de participantes",
+        "Un archivo grande sin estructura"
+      ],
+      "feedback": "La ejecución exige detalle y compatibilidad adicionales."
+    },
+    {
+      "q": "¿Qué debe revisarse respecto del costo?",
+      "correct": "Las funciones disponibles en la versión y plan reales",
+      "distractors": [
+        "Suponer que todo será gratuito para siempre",
+        "Solo el precio de un anuncio antiguo",
+        "Ignorar condiciones de almacenamiento"
+      ],
+      "feedback": "Funciones y licencias pueden variar y requieren verificación."
+    },
+    {
+      "q": "¿Qué no resuelve por sí solo un enlace compartido?",
+      "correct": "Aprobación de cambios y control de versiones",
+      "distractors": [
+        "La posibilidad de acceder si hay permisos",
+        "La existencia de una dirección de recurso",
+        "La necesidad de revisar quién lo usa"
+      ],
+      "feedback": "Colaborar requiere reglas, no solo acceso técnico."
+    },
+    {
+      "q": "¿Qué datos son apropiados para una prueba no autorizada en un servicio externo?",
+      "correct": "Datos ficticios sin información confidencial",
+      "distractors": [
+        "Datos personales reales de clientes",
+        "Contraseñas de producción",
+        "Documentos internos sin permiso"
+      ],
+      "feedback": "La prueba no debe exponer información que no se autorizó compartir."
+    }
+  ]
+}

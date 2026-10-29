@@ -1,0 +1,79 @@
+ACTIVIDAD PREPARADA PARA EDUCAPLAY — SIN PUBLICAR
+Procesos para Negocios Digitales · 4.1 · Planificación de un proyecto BPM
+Objetivo: Planificar un proyecto BPM con alcance, entregables, responsabilidades, riesgos y criterios de aceptación.
+Tipo propuesto: cuestionario de opción múltiple. Ocho preguntas, una respuesta correcta, un punto por acierto, sin descuento ni límite de tiempo. Referencia de práctica: seis de ocho. Estas son propuestas didácticas.
+Instrucciones: elige una respuesta y revisa la explicación. El caso y los datos son ficticios.
+
+1. ¿Qué debe explicar el alcance?
+   A) Qué se incluye y qué queda fuera
+   B) Solo el nombre del proveedor
+   C) Una promesa de cambiar toda la empresa
+   D) Únicamente la fecha de cierre
+Correcta: A
+Retroalimentación: Los límites permiten planificar y evaluar lo comprometido.
+
+2. ¿Qué diferencia dueño del proceso y responsable del proyecto?
+   A) Son necesariamente el mismo cargo en toda empresa
+   B) Uno sostiene la operación; el otro coordina la intervención temporal
+   C) El dueño solo compra tecnología
+   D) El proyecto no necesita coordinación
+Correcta: B
+Retroalimentación: Pueden coincidir en una persona, pero sus funciones no son equivalentes.
+
+3. ¿Qué condiciona un cronograma realista?
+   A) Suponer dedicación total sin acuerdo
+   B) La fecha del anuncio comercial
+   C) Dependencias y disponibilidad de participantes
+   D) Solo la duración de instalación
+Correcta: C
+Retroalimentación: La capacidad disponible debe corresponder al trabajo planificado.
+
+4. ¿Qué conviene validar antes del diagnóstico?
+   A) La compra completa del sistema
+   B) La celebración del cierre
+   C) Solo el logotipo del proyecto
+   D) La descripción y evidencia del estado actual
+Correcta: D
+Retroalimentación: El diagnóstico necesita una base confiable.
+
+5. ¿Qué debe contener un riesgo gestionable?
+   A) Señal, responsable y respuesta
+   B) Solo una frase genérica de preocupación
+   C) Una garantía de que nunca ocurrirá
+   D) Un número sin interpretación
+Correcta: A
+Retroalimentación: El registro debe orientar acciones concretas.
+
+6. ¿Qué es un criterio de aceptación?
+   A) Una opinión que nunca puede comprobarse
+   B) Condición observable para aprobar un entregable o resultado
+   C) El entusiasmo de la reunión
+   D) La cantidad de archivos guardados
+Correcta: B
+Retroalimentación: La aceptación necesita evidencia definida previamente.
+
+7. ¿Qué evita usar clientes como probadores involuntarios?
+   A) Lanzar sin revisar excepciones
+   B) Ocultar todos los incidentes
+   C) Preparación, pruebas y transición controlada
+   D) Cambiar producción sin responsable
+Correcta: C
+Retroalimentación: La puesta en marcha debe cuidar continuidad y servicio.
+
+8. ¿Qué debe ocurrir al cerrar el proyecto?
+   A) Eliminar indicadores y modelos
+   B) Suponer que el proceso ya no cambiará
+   C) Dejar toda responsabilidad sin asignar
+   D) Transferir seguimiento, soporte y conocimiento
+Correcta: D
+Retroalimentación: El proceso continúa operando y requiere gestión posterior.
+
+PUBLICACIÓN CON TU CUENTA AUTORIZADA
+1. Accede al sitio oficial https://www.educaplay.com/ e inicia sesión.
+2. Crea un cuestionario de opciones múltiples y copia título, objetivo e instrucciones. La interfaz y funciones pueden variar con la cuenta.
+3. Incorpora las ocho preguntas, sus opciones y su respuesta correcta. Añade retroalimentación si el formato lo permite.
+4. Configura español y las opciones de evaluación disponibles. El CSV adjunto es auxiliar, no un formato de importación verificado del servicio.
+5. Recorre una vista de prueba completa, revisando aciertos, errores y puntuación.
+6. Publica con la privacidad elegida y copia el enlace real de compartir. Verifica su acceso con permisos de estudiante.
+Enlace de actividad publicada: no disponible; no se accedió a una cuenta de Educaplay. No se inventa un enlace.
+Práctica local funcional: Actividad_Interactiva.html. Es independiente de Educaplay.

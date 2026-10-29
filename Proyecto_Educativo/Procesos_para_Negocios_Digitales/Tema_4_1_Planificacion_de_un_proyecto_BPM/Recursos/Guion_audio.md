@@ -1,0 +1,17 @@
+# Explicación independiente
+
+Esta es una explicación para escuchar de manera independiente sobre planificación de un proyecto bpm. No necesitas consultar imágenes. Planificar un proyecto BPM con alcance, entregables, responsabilidades, riesgos y criterios de aceptación. Piensa en cómo resolverías una situación similar en una organización que conozcas; distinguiremos conceptos, decisiones y comprobaciones.
+
+Un proyecto BPM organiza una intervención temporal para mejorar un proceso con propósito definido. Explica el problema, quién recibe el resultado, qué se incluye y qué queda fuera. Relaciona los beneficios esperados con evidencia inicial y evita prometer una transformación total sin recursos. El responsable del proyecto y el dueño del proceso cumplen funciones relacionadas, pero distintas.
+
+Descompón el trabajo en entregables verificables: alcance, modelo actual, diagnóstico, propuesta futura, piloto y seguimiento. Asigna responsable de ejecución y autoridad de aprobación. Un cronograma útil representa dependencias y disponibilidad de participantes. No programes una validación antes de disponer de evidencia suficiente ni supongas que todas las personas estarán disponibles a tiempo completo.
+
+La planificación conecta el problema con entregables, personas y decisiones. Un modelo actual validado debe preceder al diagnóstico y a la selección del cambio. El piloto necesita preparación operacional y condiciones de aceptación. Al concluir, la responsabilidad de seguimiento se transfiere de manera explícita para que la mejora no dependa de mantener abierto el proyecto indefinidamente.
+
+Caso ficticio: una empresa propone mejorar soporte en cuatro semanas, pero el analista solo puede participar dos días por semana y los datos no están consolidados. El plan debe ajustar alcance o plazo, asignar acceso a registros y programar validación con atención al cliente. Comprar una herramienta en la primera semana no sustituye el diagnóstico. El piloto necesita responsables de incidentes y una decisión de continuidad.
+
+Identifica riesgos de datos insuficientes, resistencia, dependencia técnica o interrupción de operación. Define señales tempranas, responsables y respuestas. El cambio necesita comunicación sobre qué se modificará, formación para quienes ejecutan el proceso y un canal para reportar excepciones. Considera pruebas y transición para no usar a los clientes como validadores involuntarios de una solución todavía no comprobada.
+
+Define criterios observables para aceptar cada entregable y decidir si ampliar el piloto. Prevé soporte y transferencia al responsable de la operación. El cierre del proyecto debe conservar modelos, decisiones, indicadores y aprendizajes. La mejora del proceso continúa después del cierre administrativo; necesita una revisión programada y capacidad de actuar cuando el resultado se aleja del propósito.
+
+Antes de terminar, responde mentalmente: ¿Qué compromisos deben revisarse antes de aprobar el calendario del caso? Una orientación posible es la siguiente. Comprobar disponibilidad real, acceso y calidad de datos, dependencias, alcance y criterios de aceptación. Ajustar plazo o alcance con responsables; no equiparar compra de herramienta a diagnóstico o capacidad de implantar. Recuerda: Planifica alcance y capacidad reales. Organiza entregables con aceptación y riesgos. Transfiere la mejora a la operación.

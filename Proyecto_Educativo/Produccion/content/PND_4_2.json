@@ -1,0 +1,131 @@
+{
+  "id": "PND_4_2",
+  "code": "PND",
+  "num": "4.2",
+  "materia": "Procesos para Negocios Digitales",
+  "unidad": "Implementación del BPM",
+  "title": "Indicadores para evaluar la implementación",
+  "objective": "Definir KPI de implementación con fórmulas, poblaciones y acciones de revisión que permitan interpretar el desempeño.",
+  "sections": [
+    [
+      "Indicador y objetivo",
+      "Un indicador expresa una medida definida; un KPI se selecciona por su relación con un objetivo relevante. No toda cifra disponible es un indicador clave. Define qué decisión apoyará y qué resultado representa. Medir cantidad de sesiones de capacitación puede informar una actividad de implementación, pero no demuestra por sí solo que mejoró el tiempo o la calidad del proceso."
+    ],
+    [
+      "Ficha de definición",
+      "Documenta nombre, propósito, fórmula, unidad, población, período, fuente, responsable y frecuencia. Si mides tiempo, especifica eventos de inicio y fin y el calendario utilizado. Si mides una tasa, aclara numerador, denominador y exclusiones. Definiciones estables permiten comparar períodos y evitan que dos equipos reporten cifras distintas usando el mismo nombre de indicador."
+    ],
+    [
+      "Calidad y equilibrio",
+      "Comprueba integridad, duplicados y casos abiertos antes de calcular. Distingue promedio de distribución y acompaña la velocidad con calidad, carga o satisfacción cuando corresponda. Un indicador puede incentivar comportamientos no deseados si se premia solo su número. Por ejemplo, cerrar solicitudes sin resolverlas reduce una medida aparente de tiempo, pero deteriora el servicio y aumenta reaperturas."
+    ],
+    [
+      "Interpretación y respuesta",
+      "Relaciona resultados con meta, línea base y condiciones observadas. Define umbrales y qué acción se tomará ante desviaciones. No inventes metas universales: deben responder al contexto y compromisos de la organización. La mejora temporal de una cifra no demuestra causalidad por sí sola; conserva evidencia sobre cambios de demanda, mezcla de casos y modificaciones en la forma de registrar."
+    ]
+  ],
+  "flow": [
+    "Elegir objetivo",
+    "Definir fórmula",
+    "Validar datos",
+    "Decidir acción"
+  ],
+  "flowtext": "El objetivo orienta qué resultado debe medirse. La ficha convierte la intención en una fórmula reproducible. La revisión de datos comprueba que los casos están correctamente incluidos. Finalmente, el resultado se interpreta con su contexto y genera una decisión; un tablero sin responsables ni respuesta ante desviaciones no completa la función de gestión.",
+  "case": "Ejemplo hipotético: de veinte solicitudes cuyo plazo de respuesta ya es evaluable, dieciocho recibieron respuesta útil dentro de cuarenta y ocho horas. El cumplimiento es 90 %. Otras dos solicitudes recién abiertas aún no tienen el plazo vencido y no deben mezclarse sin una regla explícita. En otro grupo de cincuenta casos completados, cuatro requieren corrección: la tasa de corrección es 8 %, una dimensión distinta de calidad.",
+  "problem": "¿Qué fórmulas corresponden a los dos indicadores y cómo tratarías los casos todavía no evaluables?",
+  "solution": "Cumplimiento: 18/20×100=90 %. Corrección: 4/50×100=8 %. Declarar la regla para cohortes y casos abiertos; no excluir los vencidos por estar abiertos ni mezclar casos aún no evaluables sin definición. Mantener fuentes y unidades de cada indicador.",
+  "tasks": [
+    "Elabora fichas de un KPI de tiempo y otro de calidad con todos sus campos.",
+    "Calcula cumplimiento y corrección con los denominadores del ejemplo.",
+    "Define reglas para casos abiertos, duplicados y eventos faltantes.",
+    "Propón meta contextual, frecuencia, responsable y respuesta ante desviación."
+  ],
+  "summary": [
+    "Selecciona indicadores ligados a decisiones.",
+    "Define fórmulas, cohortes y calidad de datos.",
+    "Interpreta y actúa con medidas equilibradas."
+  ],
+  "source": "Dumas et al. (2018), Fundamentals of Business Process Management. Weske (2012), Business Process Management: Concepts, Languages, Architectures.",
+  "questions": [
+    {
+      "q": "¿Qué convierte una medida en KPI?",
+      "correct": "Su relación seleccionada con un objetivo relevante",
+      "distractors": [
+        "Que aparezca en un tablero de colores",
+        "Que sea fácil de contar aunque no importe",
+        "Que tenga un nombre en inglés"
+      ],
+      "feedback": "La importancia proviene de la decisión y el objetivo que apoya."
+    },
+    {
+      "q": "18 respuestas dentro de plazo de 20 evaluables equivalen a…",
+      "correct": "90 %",
+      "distractors": [
+        "18 %",
+        "95 %",
+        "9 %"
+      ],
+      "feedback": "La tasa usa dieciocho dividido para veinte y multiplicado por cien."
+    },
+    {
+      "q": "Cuatro correcciones entre 50 casos completados equivalen a…",
+      "correct": "8 %",
+      "distractors": [
+        "4 %",
+        "12,5 %",
+        "46 %"
+      ],
+      "feedback": "La fórmula requiere conservar el denominador del grupo definido."
+    },
+    {
+      "q": "¿Qué debe precisar una medida de tiempo?",
+      "correct": "Inicio, fin y calendario de medición",
+      "distractors": [
+        "Solo el promedio final",
+        "Únicamente el nombre del sistema",
+        "La meta sin unidad"
+      ],
+      "feedback": "Sin eventos y calendario el tiempo puede significar cosas distintas."
+    },
+    {
+      "q": "¿Qué debe hacerse con casos abiertos?",
+      "correct": "Aplicar una regla explícita y revisar si su plazo ya es evaluable",
+      "distractors": [
+        "Excluirlos siempre aunque estén vencidos",
+        "Contarlos siempre como resueltos",
+        "Mezclarlos sin conocer fechas"
+      ],
+      "feedback": "El tratamiento afecta el denominador y puede sesgar resultados."
+    },
+    {
+      "q": "¿Qué riesgo tiene premiar solo cierres rápidos?",
+      "correct": "Cerrar sin resolver y aumentar reaperturas",
+      "distractors": [
+        "Garantizar calidad en todos los casos",
+        "Eliminar toda variación de demanda",
+        "Hacer innecesarias medidas de calidad"
+      ],
+      "feedback": "Los incentivos deben revisarse con medidas de equilibrio."
+    },
+    {
+      "q": "¿Qué debe acompañar un umbral de alerta?",
+      "correct": "Responsable y acción de revisión",
+      "distractors": [
+        "Solo una celda roja sin explicación",
+        "La eliminación de datos adversos",
+        "Una meta universal inventada"
+      ],
+      "feedback": "La medición sirve para actuar con responsabilidades claras."
+    },
+    {
+      "q": "¿Qué puede romper la comparabilidad de períodos?",
+      "correct": "Cambiar definición o mezcla de casos sin explicarlo",
+      "distractors": [
+        "Conservar eventos de inicio y fin",
+        "Documentar las exclusiones",
+        "Mantener el origen del dato"
+      ],
+      "feedback": "Las condiciones y definiciones deben considerarse al interpretar variaciones."
+    }
+  ]
+}

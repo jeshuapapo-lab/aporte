@@ -1,0 +1,131 @@
+{
+  "id": "PND_1_3",
+  "code": "PND",
+  "num": "1.3",
+  "materia": "Procesos para Negocios Digitales",
+  "unidad": "Introducción del BPM",
+  "title": "Certificaciones",
+  "objective": "Distinguir certificaciones de personas, acreditaciones formativas y certificaciones organizacionales relacionadas con gestión por procesos.",
+  "sections": [
+    [
+      "Qué se certifica",
+      "Una certificación declara que una persona, producto, sistema u organización cumple criterios de un esquema definido. En BPM importa identificar quién emite la credencial, qué competencias evalúa y a quién corresponde. Un certificado de asistencia demuestra participación bajo sus condiciones, pero no equivale automáticamente a una certificación profesional basada en evaluación de competencias."
+    ],
+    [
+      "Esquemas y alcance",
+      "ABPMP publica certificaciones profesionales relacionadas con BPM, como CBPA, CBPP y CBPL, con alcances y requisitos propios. Los requisitos, disponibilidad y condiciones deben comprobarse en su fuente vigente. También existen credenciales de proveedores sobre herramientas específicas. Dominio de una plataforma no demuestra por sí solo competencia integral en análisis, cambio y gestión de procesos."
+    ],
+    [
+      "Personas y organizaciones",
+      "Una certificación profesional pertenece a la persona que cumple su esquema. Una certificación organizacional, como la de un sistema de gestión bajo un estándar aplicable, tiene otro objeto y alcance. No debe presentarse una credencial de un empleado como certificación de toda la empresa, ni confundir una formación en BPM con una autorización legal para cualquier servicio profesional."
+    ],
+    [
+      "Elegir y verificar",
+      "Relaciona la credencial con un objetivo y revisa entidad emisora, requisitos, examen, experiencia requerida, vigencia, renovación y costos en la información oficial actual. Comprueba autenticidad y alcance antes de usar un logotipo o afirmación comercial. La certificación puede apoyar desarrollo profesional, pero no garantiza empleo ni resultados de proyectos sin práctica, ética y actualización continua."
+    ]
+  ],
+  "flow": [
+    "Definir objetivo",
+    "Revisar esquema",
+    "Comprobar evidencia",
+    "Mantener vigencia"
+  ],
+  "flowtext": "Define primero qué competencia o reconocimiento necesitas. Revisa el esquema en la fuente oficial y distingue formación previa, evaluación y requisitos de experiencia. Verifica que la credencial emitida pueda comprobarse y que la afirmación que haces respete su alcance. Después considera las condiciones de mantenimiento y actualización, sin asumir que una credencial es indefinida.",
+  "case": "Caso ficticio: una analista termina un curso de ocho horas y recibe un certificado de participación. Su empresa quiere anunciar que está certificada internacionalmente en BPM. Antes de publicar, debe distinguir la formación de la analista de una certificación profesional y de una certificación organizacional. Si decide preparar una credencial profesional, necesita revisar requisitos actuales y un plan realista de aprendizaje y evidencia.",
+  "problem": "¿Qué afirmación sería verificable y qué información falta para hablar de certificación profesional?",
+  "solution": "Puede afirmarse que la analista participó en el curso según la evidencia disponible. No que la empresa está certificada. Falta identificar esquema y emisor, evaluación, requisitos, vigencia y verificación de una credencial profesional concreta.",
+  "tasks": [
+    "Clasifica tres evidencias ficticias: asistencia, credencial profesional y certificación organizacional.",
+    "Compara dos esquemas usando requisitos y alcances que consultarías en fuentes oficiales.",
+    "Corrige el anuncio del caso para que respete la evidencia disponible.",
+    "Diseña un plan de preparación y comprobación de vigencia sin inventar requisitos actuales."
+  ],
+  "summary": [
+    "Distingue asistencia, competencia y organización.",
+    "Comprueba emisor, alcance y requisitos vigentes.",
+    "Comunica solo lo que la evidencia acredita."
+  ],
+  "source": "ABPMP International, información oficial de certificación: https://www.abpmp.org/ . Los requisitos deben consultarse en su versión vigente; no se atribuye equivalencia universal entre credenciales.",
+  "questions": [
+    {
+      "q": "¿Qué demuestra un certificado de asistencia?",
+      "correct": "Participación bajo las condiciones del curso",
+      "distractors": [
+        "Certificación automática de competencias profesionales",
+        "Certificación de toda la empresa",
+        "Garantía de empleo"
+      ],
+      "feedback": "La asistencia tiene un alcance distinto de una evaluación profesional."
+    },
+    {
+      "q": "¿Qué debe identificarse en una credencial?",
+      "correct": "Emisor, objeto, alcance y criterios",
+      "distractors": [
+        "Solo el diseño del diploma",
+        "Únicamente la duración del video",
+        "El número de anuncios del curso"
+      ],
+      "feedback": "La utilidad depende de qué certifica y con qué evidencia."
+    },
+    {
+      "q": "¿Dónde se comprueban requisitos actuales de CBPP?",
+      "correct": "En la fuente oficial del esquema de ABPMP",
+      "distractors": [
+        "En una cifra de experiencia inventada",
+        "En el logotipo de un curso no relacionado",
+        "Solo en el relato de un compañero"
+      ],
+      "feedback": "Los requisitos pueden cambiar y deben verificarse en su origen."
+    },
+    {
+      "q": "¿Qué acredita principalmente una credencial de una herramienta?",
+      "correct": "Competencia dentro del alcance de esa herramienta o esquema",
+      "distractors": [
+        "Gestión integral de todos los procesos por definición",
+        "Certificación automática de la empresa",
+        "Autorización legal universal"
+      ],
+      "feedback": "El alcance específico no debe ampliarse sin evidencia."
+    },
+    {
+      "q": "¿A quién pertenece una certificación profesional individual?",
+      "correct": "A la persona que cumple su esquema",
+      "distractors": [
+        "A toda organización donde trabaje",
+        "A todos sus clientes",
+        "A cualquier integrante del departamento"
+      ],
+      "feedback": "La credencial individual no certifica automáticamente a otras personas."
+    },
+    {
+      "q": "¿Qué anuncio respeta el caso?",
+      "correct": "Una analista completó el curso indicado",
+      "distractors": [
+        "La empresa está certificada internacionalmente en BPM",
+        "Todos sus proyectos tienen éxito garantizado",
+        "El curso equivale a cualquier examen profesional"
+      ],
+      "feedback": "La afirmación debe corresponder a la evidencia real."
+    },
+    {
+      "q": "¿Qué debe revisarse además del examen?",
+      "correct": "Vigencia, renovación, costos y requisitos pertinentes",
+      "distractors": [
+        "Solo el color del sello",
+        "La promesa de empleo garantizado",
+        "La cantidad de seguidores del instructor"
+      ],
+      "feedback": "La decisión requiere comprender el ciclo completo de la credencial."
+    },
+    {
+      "q": "¿Qué no garantiza por sí sola una certificación?",
+      "correct": "El empleo o el éxito de todos los proyectos",
+      "distractors": [
+        "Que existe un esquema con criterios",
+        "Que puede verificarse su alcance",
+        "Que conviene seguir actualizándose"
+      ],
+      "feedback": "La práctica y los resultados dependen de más factores que una credencial."
+    }
+  ]
+}

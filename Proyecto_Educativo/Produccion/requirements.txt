@@ -8,3 +8,5 @@ kokoro-onnx==0.4.9
 soundfile==0.13.1
 onnxruntime==1.31.1
 playwright==1.62.0
+matplotlib==3.10.8
+lxml==6.1.1

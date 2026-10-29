@@ -1,0 +1,17 @@
+# Explicación independiente
+
+Esta es una explicación para escuchar de manera independiente sobre herramientas digitales para modelado de procesos. No necesitas consultar imágenes. Comparar herramientas de modelado por propósito, interoperabilidad y colaboración, comprobando sus límites con una prueba práctica. Piensa en cómo resolverías una situación similar en una organización que conozcas; distinguiremos conceptos, decisiones y comprobaciones.
+
+Una herramienta puede ayudar a dibujar, validar, documentar, simular o ejecutar procesos, pero no todas hacen lo mismo. Un editor de diagramas generales puede comunicar una idea sin comprobar semántica BPMN. Un modelador especializado puede validar aspectos formales, mientras un motor necesita una especificación ejecutable. Define primero qué trabajo apoyará la herramienta y quién la utilizará.
+
+Evalúa soporte de notación y versión, facilidad de revisión, colaboración, control de versiones, exportación e importación. Considera también sistema operativo, permisos, almacenamiento y costos del plan real. Los nombres Bizagi Modeler, Camunda Modeler y editores basados en bpmn.io son ejemplos para investigar, no una afirmación de equivalencia ni de gratuidad permanente de todas sus funciones.
+
+Define la tarea que necesita apoyo y qué condiciones son obligatorias. Compara alternativas con los mismos criterios. Después prueba crear, exportar, importar y revisar un modelo de ejemplo. Finalmente acuerda cómo se aprueban y comparten versiones, porque la elección técnica no resuelve por sí sola el trabajo colaborativo ni los permisos.
+
+Caso ficticio: un equipo entrega capturas de pantalla de sus procesos y nadie puede corregirlos sin redibujar. Propone adoptar un modelador que exporte BPMN. La prueba debe verificar que otro integrante importe el archivo, cambie una condición y conserve las relaciones. También debe revisar la compatibilidad con sus equipos y el acceso a funciones de colaboración disponibles en la versión y plan elegidos.
+
+Una imagen permite visualizar, pero no conserva necesariamente elementos editables ni sus relaciones. Un archivo BPMN en XML puede transportar estructura bajo el estándar, aunque extensiones de proveedor o detalles de diagramación pueden cambiar entre herramientas. Prueba exportar e importar un modelo y revisar elementos, condiciones y distribución antes de afirmar que existe interoperabilidad suficiente.
+
+La colaboración necesita acuerdos sobre responsables, versiones, revisión y publicación. Un enlace compartido no impide que varias personas modifiquen reglas contradictorias. Para seleccionar, realiza una prueba con un modelo representativo y un cambio solicitado por otra persona. Registra errores, diferencias de importación y condiciones de acceso; evita cargar datos confidenciales en servicios sin autorización y revisión de condiciones.
+
+Antes de terminar, responde mentalmente: ¿Qué prueba distinguiría una entrega visual de una entrega realmente editable e interoperable? Una orientación posible es la siguiente. Exportar un modelo como BPMN XML, importarlo en otra instancia o herramienta y modificar una condición conservando eventos, tareas y flujos. Comparar estructura y diagrama; registrar extensiones o pérdidas. La captura sola no cumple esa prueba. Recuerda: Selecciona por propósito y requisitos. Prueba el intercambio de estructura editable. Acuerda versiones, permisos y revisión.

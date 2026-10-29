@@ -1,0 +1,131 @@
+{
+  "id": "PND_4_4",
+  "code": "PND",
+  "num": "4.4",
+  "materia": "Procesos para Negocios Digitales",
+  "unidad": "Implementación del BPM",
+  "title": "Estudio de caso",
+  "objective": "Integrar diagnóstico, modelado, rediseño y KPI en un estudio de caso BPM con datos simulados y conclusiones limitadas a la evidencia.",
+  "sections": [
+    [
+      "Caso y delimitación",
+      "El estudio integra un proceso de solicitudes de soporte desde recepción hasta respuesta útil. El destinatario es quien necesita una solución o una orientación suficiente para continuar. Se define responsable, población y condiciones de atención. Los registros de enseñanza son simulados: permiten practicar cálculos y análisis, pero no constituyen evidencia de una empresa real ni prueban que una intervención funcionará en otra organización."
+    ],
+    [
+      "Diagnóstico y propuesta",
+      "El modelo actual incluye esperas por datos incompletos y reasignaciones. La propuesta valida requisitos al recibir y asigna un responsable de seguimiento. La hipótesis es reducir espera sin deteriorar calidad. Debe contrastarse con participantes y casos; el diagrama representa la lógica propuesta, no demuestra por sí solo que todas las demoras tengan la misma causa."
+    ],
+    [
+      "Resultados calculables",
+      "El conjunto simulado contiene cien casos por período. El ciclo promedio pasa de cuarenta a veinticuatro horas y la proporción de casos con corrección, de doce a cinco por ciento. La reducción del promedio es 40 %; la calidad mejora siete puntos porcentuales según esa medida. El cumplimiento de respuesta en cuarenta y ocho horas pasa de 80 % a 95 %, con la definición de casos completados del ejercicio."
+    ],
+    [
+      "Interpretación y continuidad",
+      "Los resultados agregados requieren mirar excepciones. En los datos simulados futuros hay cinco casos de cien horas: mejorar el promedio no elimina demoras importantes. La conclusión debe distinguir resultados calculados, hipótesis causal y condiciones pendientes de validar en una operación real. El siguiente ciclo revisaría esas excepciones, capacidad, carga de trabajo y estabilidad del registro antes de escalar."
+    ]
+  ],
+  "flow": [
+    "Delimitar y observar",
+    "Modelar y diagnosticar",
+    "Rediseñar y probar",
+    "Medir y revisar"
+  ],
+  "flowtext": "Conecta el alcance con un modelo actual y los datos de casos. Explica el diagnóstico y la lógica del cambio. Modela la propuesta, prepara una prueba y calcula resultados con la misma definición en ambos períodos. Finalmente investiga excepciones y formula una decisión de continuidad, dejando claro qué se aprendió de datos simulados y qué requeriría una validación real.",
+  "case": "Ejemplo de enseñanza: en el período inicial, ochenta casos duran treinta horas y veinte duran ochenta; el promedio es cuarenta. En el futuro simulado, noventa y cinco duran veinte y cinco duran cien; el promedio es veinticuatro. Los casos con corrección son doce y cinco, respectivamente. Los archivos de apoyo permiten repetir los cálculos y revisar por qué la mejora global convive con excepciones más tardías.",
+  "problem": "¿Qué conclusiones apoyan los datos simulados y por qué no bastan para atribuir causalidad en una empresa real?",
+  "solution": "Se calculan media 40 y 24 horas, reducción 40 %, corrección 12 % y 5 %, y cumplimiento 80 % y 95 %. El futuro mantiene cinco casos de 100 horas. Son datos simulados, no evidencia causal real; requieren validar mecanismo, comparabilidad, calidad y condiciones de operación.",
+  "tasks": [
+    "Delimita el proceso y representa estado actual y futuro con responsabilidades.",
+    "Relaciona problemas, hipótesis de causa, cambio propuesto y evidencia necesaria.",
+    "Calcula promedio, corrección y cumplimiento usando el CSV de apoyo y muestra fórmulas.",
+    "Redacta una conclusión con mejoras agregadas, excepciones, límites causales y próximo ciclo de revisión."
+  ],
+  "summary": [
+    "Integra alcance, modelo y evidencia.",
+    "Calcula y examina también las excepciones.",
+    "Distingue simulación, hipótesis y resultado real."
+  ],
+  "source": "Dumas et al. (2018), Fundamentals of Business Process Management. OMG, BPMN 2.0.2. Conjunto de datos sintético propio incluido en Recursos/.",
+  "questions": [
+    {
+      "q": "¿Cuál es el alcance del proceso del caso?",
+      "correct": "Desde recibir la solicitud hasta comunicar una respuesta útil",
+      "distractors": [
+        "Solo instalar un sistema",
+        "Desde contratar al equipo hasta cerrar la empresa",
+        "Únicamente pulsar enviar"
+      ],
+      "feedback": "Los límites deben corresponder al resultado definido para el destinatario."
+    },
+    {
+      "q": "80 casos de 30 horas y 20 de 80 dan promedio de…",
+      "correct": "40 horas",
+      "distractors": [
+        "55 horas",
+        "30 horas",
+        "80 horas"
+      ],
+      "feedback": "La media ponderada es (80×30+20×80)/100."
+    },
+    {
+      "q": "95 casos de 20 horas y cinco de 100 dan promedio de…",
+      "correct": "24 horas",
+      "distractors": [
+        "60 horas",
+        "20 horas",
+        "95 horas"
+      ],
+      "feedback": "La media ponderada es (95×20+5×100)/100."
+    },
+    {
+      "q": "El promedio de 40 a 24 horas baja relativamente…",
+      "correct": "40 %",
+      "distractors": [
+        "16 %",
+        "24 %",
+        "60 %"
+      ],
+      "feedback": "La disminución de dieciséis se divide para cuarenta."
+    },
+    {
+      "q": "La corrección de 12 % a 5 % disminuye…",
+      "correct": "Siete puntos porcentuales",
+      "distractors": [
+        "Siete por ciento relativo",
+        "Doce puntos porcentuales",
+        "Cincuenta puntos porcentuales"
+      ],
+      "feedback": "La diferencia directa entre tasas es siete puntos porcentuales."
+    },
+    {
+      "q": "¿Qué cumplimiento de 48 horas tiene el período futuro simulado?",
+      "correct": "95 %",
+      "distractors": [
+        "100 %",
+        "80 %",
+        "24 %"
+      ],
+      "feedback": "Noventa y cinco casos duran veinte horas y cinco superan el plazo."
+    },
+    {
+      "q": "¿Qué demuestra que el promedio no cuenta toda la historia?",
+      "correct": "Cinco casos futuros llegan a cien horas",
+      "distractors": [
+        "Que todos los casos futuros son iguales",
+        "Que no existen datos de tiempo",
+        "Que la media es imposible de calcular"
+      ],
+      "feedback": "Las excepciones permanecen relevantes aunque mejore el resultado agregado."
+    },
+    {
+      "q": "¿Qué límite debe declararse?",
+      "correct": "Los datos simulados no prueban causalidad en una empresa real",
+      "distractors": [
+        "La simulación garantiza éxito universal",
+        "Los KPI eliminan toda incertidumbre",
+        "El diagrama confirma cualquier hipótesis"
+      ],
+      "feedback": "La evidencia del ejercicio permite practicar, no atribuir resultados reales."
+    }
+  ]
+}

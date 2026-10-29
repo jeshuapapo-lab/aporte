@@ -1,0 +1,79 @@
+ACTIVIDAD PREPARADA PARA EDUCAPLAY — SIN PUBLICAR
+Procesos para Negocios Digitales · 3.4 · Análisis y diagnóstico de procesos existentes y rediseño de procesos
+Objetivo: Analizar un proceso existente, contrastar causas y justificar un rediseño con evidencia y comparación de alternativas.
+Tipo propuesto: cuestionario de opción múltiple. Ocho preguntas, una respuesta correcta, un punto por acierto, sin descuento ni límite de tiempo. Referencia de práctica: seis de ocho. Estas son propuestas didácticas.
+Instrucciones: elige una respuesta y revisa la explicación. El caso y los datos son ficticios.
+
+1. ¿Qué necesita un diagnóstico además de decir lento?
+   A) Ubicación, efecto y evidencia del problema
+   B) Una plataforma ya elegida
+   C) Una opinión sin casos
+   D) Un único responsable culpable por defecto
+Correcta: A
+Retroalimentación: El análisis debe precisar qué ocurre y con qué magnitud.
+
+2. Cuatro horas de trabajo y 36 de espera dan un ciclo de…
+   A) 36 horas de ciclo total
+   B) 40 horas
+   C) 4 horas de ciclo total
+   D) 9 horas
+Correcta: B
+Retroalimentación: El tiempo transcurrido incluye trabajo y espera dentro de los límites definidos.
+
+3. Pasar de 40 a 24 horas supone reducción prevista de…
+   A) 16 %
+   B) 60 %
+   C) 40 %
+   D) 24 %
+Correcta: C
+Retroalimentación: La disminución de dieciséis se divide para la base de cuarenta.
+
+4. ¿Qué parte cambia en el ejemplo?
+   A) El trabajo, de cuatro a cero
+   B) Todas las actividades desaparecen
+   C) El período medido deja de existir
+   D) La espera, de 36 a 20 horas
+Correcta: D
+Retroalimentación: El mecanismo propuesto reduce espera, no elimina el trabajo.
+
+5. ¿Qué debe hacerse con una hipótesis de causa?
+   A) Contrastar con observación y datos
+   B) Tratarla siempre como hecho
+   C) Descartar toda evidencia contraria
+   D) Confundirla con una solución elegida
+Correcta: A
+Retroalimentación: Las hipótesis orientan investigación y pueden ser refutadas.
+
+6. ¿Qué relación tiene automatización con rediseño?
+   A) Son sinónimos exactos
+   B) Es una alternativa posible, no su definición
+   C) Siempre es la única opción válida
+   D) Nunca puede formar parte de una mejora
+Correcta: B
+Retroalimentación: Rediseñar puede modificar reglas, coordinación y tareas sin automatizar todo.
+
+7. ¿Qué distingue resultado esperado y observado?
+   A) Ambos son iguales antes del piloto
+   B) El esperado demuestra causalidad
+   C) El observado procede de la operación medida
+   D) El observado no necesita condiciones
+Correcta: C
+Retroalimentación: Una previsión debe comprobarse antes de presentarse como logro.
+
+8. ¿Qué debe acompañar reducir tiempo?
+   A) Eliminar indicadores de error
+   B) Contar solo casos fáciles
+   C) Omitir condiciones del período
+   D) Revisión de calidad, carga y efectos en otras etapas
+Correcta: D
+Retroalimentación: Una mejora parcial puede desplazar o empeorar el problema.
+
+PUBLICACIÓN CON TU CUENTA AUTORIZADA
+1. Accede al sitio oficial https://www.educaplay.com/ e inicia sesión.
+2. Crea un cuestionario de opciones múltiples y copia título, objetivo e instrucciones. La interfaz y funciones pueden variar con la cuenta.
+3. Incorpora las ocho preguntas, sus opciones y su respuesta correcta. Añade retroalimentación si el formato lo permite.
+4. Configura español y las opciones de evaluación disponibles. El CSV adjunto es auxiliar, no un formato de importación verificado del servicio.
+5. Recorre una vista de prueba completa, revisando aciertos, errores y puntuación.
+6. Publica con la privacidad elegida y copia el enlace real de compartir. Verifica su acceso con permisos de estudiante.
+Enlace de actividad publicada: no disponible; no se accedió a una cuenta de Educaplay. No se inventa un enlace.
+Práctica local funcional: Actividad_Interactiva.html. Es independiente de Educaplay.

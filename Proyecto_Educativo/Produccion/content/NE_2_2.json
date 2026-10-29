@@ -1,0 +1,131 @@
+{
+  "id": "NE_2_2",
+  "code": "NE",
+  "num": "2.2",
+  "materia": "Negocios Electrónicos",
+  "unidad": "Sistemas empresariales electrónicos integrales",
+  "title": "Metodología CRM",
+  "objective": "Aplicar CRM como metodología de relación con clientes, conectando información, procesos y seguimiento responsable.",
+  "sections": [
+    [
+      "Una metodología de relación",
+      "CRM significa gestión de relaciones con clientes. Es una forma de coordinar conocimiento, procesos y decisiones alrededor de esa relación; el software es un apoyo. Definir etapas, responsabilidades y criterios de atención es anterior a elegir una plataforma. Una base con muchos contactos no demuestra por sí sola que la organización comprenda necesidades o atienda bien."
+    ],
+    [
+      "Ciclo y datos pertinentes",
+      "La relación puede pasar por captación, calificación, propuesta, compra y servicio posterior. Las etapas deben tener condiciones claras de entrada y salida. Registra solo datos necesarios y explica su finalidad, cuidando permisos y calidad. Distingue una persona interesada, una oportunidad comercial y una operación cerrada: mezclar esos estados distorsiona el seguimiento y las expectativas de ingresos."
+    ],
+    [
+      "Coordinación del seguimiento",
+      "Cada oportunidad o caso necesita un responsable, una próxima acción y una fecha pertinente. La continuidad permite que otra persona entienda qué se ofreció y qué falta. Automatizar recordatorios puede evitar olvidos, pero enviar mensajes repetidos sin contexto deteriora la experiencia. Las reglas deben contemplar preferencias de contacto y mecanismos para corregir información o detener comunicaciones."
+    ],
+    [
+      "Medir calidad y resultado",
+      "Selecciona indicadores de la etapa que deseas mejorar: tiempo de respuesta, proporción de oportunidades que avanza o resolución de solicitudes. Delimita período y población. Una tasa de cierre alta puede ocultar que solo se registran casos fáciles. Revisa también reclamos, calidad de información y cumplimiento de compromisos para evaluar la relación de manera equilibrada."
+    ]
+  ],
+  "flow": [
+    "Conocer",
+    "Acordar acción",
+    "Dar seguimiento",
+    "Aprender"
+  ],
+  "flowtext": "El recorrido comienza identificando una necesidad y registrando la información pertinente. Se acuerda una acción con un responsable, se da seguimiento y se recoge el resultado. Ese resultado permite ajustar la relación y el proceso. El ciclo pierde utilidad cuando se registran contactos sin propósito o tareas que nadie revisa.",
+  "case": "Caso ficticio: Minga Cacao recibe diez consultas empresariales. Cada vendedor usa su propio archivo y tres clientes reciben propuestas duplicadas. El equipo define estados comunes, asigna un responsable por oportunidad y registra la próxima acción. De ocho oportunidades calificadas, dos se cierran en el período observado. La tasa de cierre de ese grupo es 25 %, sin confundirla con todas las consultas recibidas.",
+  "problem": "¿Cómo impedirías propuestas duplicadas y qué denominador usarías para la tasa de cierre del caso?",
+  "solution": "Identificación compartida y control de duplicados, responsable de oportunidad y registro de propuesta y siguiente acción. Dos cierres sobre ocho oportunidades calificadas dan 25 %; usar diez consultas cambia la definición y produciría 20 % para otra población.",
+  "tasks": [
+    "Diseña cinco estados de una relación con condiciones de avance.",
+    "Define los campos mínimos, el responsable y la próxima acción para una oportunidad.",
+    "Calcula e interpreta dos tasas con los denominadores del caso.",
+    "Propón controles sobre duplicados, preferencias de contacto y calidad de datos."
+  ],
+  "summary": [
+    "CRM organiza relaciones, no solo contactos.",
+    "Cada caso requiere continuidad y responsable.",
+    "Mide con estados y denominadores claros."
+  ],
+  "source": "Buttle y Maklan (2019), Customer Relationship Management: Concepts and Technologies, 4.ª ed. Routledge.",
+  "questions": [
+    {
+      "q": "¿Qué describe mejor CRM?",
+      "correct": "Una metodología apoyada por procesos, datos y tecnología",
+      "distractors": [
+        "Una lista de correos sin responsables",
+        "Solo una licencia de software",
+        "Una campaña idéntica para todo contacto"
+      ],
+      "feedback": "La metodología organiza la relación; el software por sí solo no la define."
+    },
+    {
+      "q": "¿Qué debe quedar en una oportunidad activa?",
+      "correct": "Responsable, próxima acción y fecha pertinente",
+      "distractors": [
+        "Solo el color del estado",
+        "Una fecha de cierre garantizada sin evidencia",
+        "El mismo mensaje para todos los casos"
+      ],
+      "feedback": "El seguimiento requiere continuidad y responsabilidad."
+    },
+    {
+      "q": "Dos cierres entre ocho oportunidades calificadas equivalen a…",
+      "correct": "25 %",
+      "distractors": [
+        "20 %",
+        "40 %",
+        "4 %"
+      ],
+      "feedback": "El denominador debe ser el grupo definido: ocho oportunidades."
+    },
+    {
+      "q": "¿Por qué no deben mezclarse consultas y ventas cerradas?",
+      "correct": "Porque representan estados y compromisos diferentes",
+      "distractors": [
+        "Porque las consultas siempre valen cero",
+        "Porque toda consulta garantiza un ingreso",
+        "Porque los clientes no pueden cambiar de estado"
+      ],
+      "feedback": "Confundir estados distorsiona seguimiento y resultados."
+    },
+    {
+      "q": "¿Qué ayuda a evitar propuestas duplicadas?",
+      "correct": "Registro compartido e identificación de la oportunidad",
+      "distractors": [
+        "Archivos privados sin coordinación",
+        "Tres identificadores para la misma consulta",
+        "Eliminar el historial de propuestas"
+      ],
+      "feedback": "La coordinación necesita una visión consistente del caso."
+    },
+    {
+      "q": "¿Qué riesgo tiene una automatización sin contexto?",
+      "correct": "Enviar comunicaciones repetidas o contrarias a preferencias",
+      "distractors": [
+        "Garantizar atención personalizada",
+        "Eliminar toda información incorrecta",
+        "Resolver automáticamente cualquier reclamo"
+      ],
+      "feedback": "La automatización debe responder a reglas y necesidades reales."
+    },
+    {
+      "q": "¿Qué debe explicarse al recopilar datos?",
+      "correct": "Su finalidad y el uso pertinente",
+      "distractors": [
+        "Que podrán usarse para cualquier fin futuro",
+        "Que no existen responsables",
+        "Que no podrán corregirse"
+      ],
+      "feedback": "La relación requiere un tratamiento responsable de la información."
+    },
+    {
+      "q": "¿Qué puede sesgar una tasa de cierre?",
+      "correct": "Registrar solo oportunidades fáciles",
+      "distractors": [
+        "Definir claramente el período",
+        "Conservar los casos que no cerraron",
+        "Usar una población explícita"
+      ],
+      "feedback": "La selección del registro puede ocultar parte del trabajo y alterar la interpretación."
+    }
+  ]
+}

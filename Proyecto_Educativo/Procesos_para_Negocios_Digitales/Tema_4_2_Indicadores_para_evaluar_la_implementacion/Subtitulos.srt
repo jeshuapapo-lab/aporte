@@ -1,0 +1,251 @@
+1
+00:00:00,250 --> 00:00:03,535
+Hoy estudiaremos indicadores para evaluar la implementación.
+
+2
+00:00:03,755 --> 00:00:07,894
+El propósito es definir KPI de implementación con fórmulas, poblaciones y
+
+3
+00:00:07,894 --> 00:00:12,033
+acciones de revisión que permitan interpretar el desempeño.
+
+4
+00:00:12,253 --> 00:00:16,007
+Este contenido forma parte de procesos para negocios digitales.
+
+5
+00:00:16,227 --> 00:00:21,177
+Trabajaremos con conceptos y un caso ficticio para tomar decisiones justificadas.
+
+6
+00:00:21,917 --> 00:00:24,982
+Antes de proponer una solución, considera esta pregunta: ¿Qué fórmulas corresponden
+
+7
+00:00:24,982 --> 00:00:28,046
+a los dos indicadores y cómo tratarías los casos todavía no
+
+8
+00:00:28,046 --> 00:00:31,111
+evaluables?
+
+9
+00:00:31,331 --> 00:00:34,894
+Al terminar deberás explicar tu decisión, indicar cómo la comprobarías y
+
+10
+00:00:34,894 --> 00:00:38,457
+reconocer los límites de la evidencia utilizada.
+
+11
+00:00:39,208 --> 00:00:42,504
+Un indicador expresa una medida definida; un KPI se selecciona por
+
+12
+00:00:42,504 --> 00:00:45,800
+su relación con un objetivo relevante.
+
+13
+00:00:46,020 --> 00:00:48,900
+No toda cifra disponible es un indicador clave.
+
+14
+00:00:49,120 --> 00:00:52,427
+Define qué decisión apoyará y qué resultado representa.
+
+15
+00:00:52,647 --> 00:00:55,897
+Medir cantidad de sesiones de capacitación puede informar una actividad de
+
+16
+00:00:55,897 --> 00:00:59,147
+implementación, pero no demuestra por sí solo que mejoró el tiempo
+
+17
+00:00:59,147 --> 00:01:02,396
+o la calidad del proceso.
+
+18
+00:01:03,125 --> 00:01:09,141
+Documenta nombre, propósito, fórmula, unidad, población, período, fuente, responsable y frecuencia.
+
+19
+00:01:09,361 --> 00:01:11,633
+Si mides tiempo, especifica eventos de inicio y fin y el
+
+20
+00:01:11,633 --> 00:01:13,905
+calendario utilizado.
+
+21
+00:01:14,125 --> 00:01:17,965
+Si mides una tasa, aclara numerador, denominador y exclusiones.
+
+22
+00:01:18,185 --> 00:01:22,281
+Definiciones estables permiten comparar períodos y evitan que dos equipos reporten
+
+23
+00:01:22,281 --> 00:01:26,377
+cifras distintas usando el mismo nombre de indicador.
+
+24
+00:01:27,125 --> 00:01:30,026
+El objetivo orienta qué resultado debe medirse.
+
+25
+00:01:30,246 --> 00:01:33,766
+La ficha convierte la intención en una fórmula reproducible.
+
+26
+00:01:33,986 --> 00:01:38,125
+La revisión de datos comprueba que los casos están correctamente incluidos.
+
+27
+00:01:38,345 --> 00:01:41,744
+Finalmente, el resultado se interpreta con su contexto y genera una
+
+28
+00:01:41,744 --> 00:01:45,143
+decisión; un tablero sin responsables ni respuesta ante desviaciones no completa
+
+29
+00:01:45,143 --> 00:01:48,542
+la función de gestión.
+
+30
+00:01:49,292 --> 00:01:53,889
+Ejemplo hipotético: de veinte solicitudes cuyo plazo de respuesta ya es
+
+31
+00:01:53,889 --> 00:01:58,486
+evaluable, dieciocho recibieron respuesta útil dentro de cuarenta y ocho horas.
+
+32
+00:01:58,706 --> 00:02:01,117
+El cumplimiento es 90 %.
+
+33
+00:02:01,337 --> 00:02:04,761
+Otras dos solicitudes recién abiertas aún no tienen el plazo vencido
+
+34
+00:02:04,761 --> 00:02:08,185
+y no deben mezclarse sin una regla explícita.
+
+35
+00:02:08,405 --> 00:02:12,629
+En otro grupo de cincuenta casos completados, cuatro requieren corrección: la
+
+36
+00:02:12,629 --> 00:02:16,853
+tasa de corrección es 8 %, una dimensión distinta de calidad.
+
+37
+00:02:17,583 --> 00:02:21,679
+Comprueba integridad, duplicados y casos abiertos antes de calcular.
+
+38
+00:02:21,899 --> 00:02:25,195
+Distingue promedio de distribución y acompaña la velocidad con calidad, carga
+
+39
+00:02:25,195 --> 00:02:28,491
+o satisfacción cuando corresponda.
+
+40
+00:02:28,711 --> 00:02:31,186
+Un indicador puede incentivar comportamientos no deseados si se premia solo
+
+41
+00:02:31,186 --> 00:02:33,661
+su número.
+
+42
+00:02:33,881 --> 00:02:37,838
+Por ejemplo, cerrar solicitudes sin resolverlas reduce una medida aparente de
+
+43
+00:02:37,838 --> 00:02:41,795
+tiempo, pero deteriora el servicio y aumenta reaperturas.
+
+44
+00:02:42,542 --> 00:02:46,702
+Relaciona resultados con meta, línea base y condiciones observadas.
+
+45
+00:02:46,922 --> 00:02:50,228
+Define umbrales y qué acción se tomará ante desviaciones.
+
+46
+00:02:50,448 --> 00:02:53,200
+No inventes metas universales: deben responder al contexto y compromisos de
+
+47
+00:02:53,200 --> 00:02:55,952
+la organización.
+
+48
+00:02:56,172 --> 00:02:59,564
+La mejora temporal de una cifra no demuestra causalidad por sí
+
+49
+00:02:59,564 --> 00:03:02,956
+sola; conserva evidencia sobre cambios de demanda, mezcla de casos y
+
+50
+00:03:02,956 --> 00:03:06,348
+modificaciones en la forma de registrar.
+
+51
+00:03:07,083 --> 00:03:10,219
+Para aplicar lo aprendido, desarrolla la tarea editable.
+
+52
+00:03:10,439 --> 00:03:12,562
+Elabora fichas de un KPI de tiempo y otro de calidad
+
+53
+00:03:12,562 --> 00:03:14,685
+con todos sus campos.
+
+54
+00:03:14,905 --> 00:03:19,449
+Después, define reglas para casos abiertos, duplicados y eventos faltantes.
+
+55
+00:03:19,669 --> 00:03:23,093
+Justifica tus decisiones con los conceptos de esta explicación y comprueba
+
+56
+00:03:23,093 --> 00:03:26,517
+tus respuestas en la actividad interactiva.
+
+57
+00:03:27,250 --> 00:03:28,914
+Conserva estas ideas.
+
+58
+00:03:29,134 --> 00:03:31,929
+Selecciona indicadores ligados a decisiones.
+
+59
+00:03:32,149 --> 00:03:34,858
+Define fórmulas, cohortes y calidad de datos.
+
+60
+00:03:35,078 --> 00:03:37,809
+Interpreta y actúa con medidas equilibradas.
+
+61
+00:03:38,029 --> 00:03:40,205
+El caso y sus datos son ficticios.
+
+62
+00:03:40,425 --> 00:03:43,977
+Revisa las fuentes indicadas en los materiales y continúa con la
+
+63
+00:03:43,977 --> 00:03:47,529
+práctica para transferir estos criterios a otra situación.

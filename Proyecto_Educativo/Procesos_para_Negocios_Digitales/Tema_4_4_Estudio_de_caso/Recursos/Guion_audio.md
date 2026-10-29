@@ -1,0 +1,17 @@
+# Explicación independiente
+
+Esta es una explicación para escuchar de manera independiente sobre estudio de caso. No necesitas consultar imágenes. Integrar diagnóstico, modelado, rediseño y KPI en un estudio de caso BPM con datos simulados y conclusiones limitadas a la evidencia. Piensa en cómo resolverías una situación similar en una organización que conozcas; distinguiremos conceptos, decisiones y comprobaciones.
+
+El estudio integra un proceso de solicitudes de soporte desde recepción hasta respuesta útil. El destinatario es quien necesita una solución o una orientación suficiente para continuar. Se define responsable, población y condiciones de atención. Los registros de enseñanza son simulados: permiten practicar cálculos y análisis, pero no constituyen evidencia de una empresa real ni prueban que una intervención funcionará en otra organización.
+
+El modelo actual incluye esperas por datos incompletos y reasignaciones. La propuesta valida requisitos al recibir y asigna un responsable de seguimiento. La hipótesis es reducir espera sin deteriorar calidad. Debe contrastarse con participantes y casos; el diagrama representa la lógica propuesta, no demuestra por sí solo que todas las demoras tengan la misma causa.
+
+Conecta el alcance con un modelo actual y los datos de casos. Explica el diagnóstico y la lógica del cambio. Modela la propuesta, prepara una prueba y calcula resultados con la misma definición en ambos períodos. Finalmente investiga excepciones y formula una decisión de continuidad, dejando claro qué se aprendió de datos simulados y qué requeriría una validación real.
+
+Ejemplo de enseñanza: en el período inicial, ochenta casos duran treinta horas y veinte duran ochenta; el promedio es cuarenta. En el futuro simulado, noventa y cinco duran veinte y cinco duran cien; el promedio es veinticuatro. Los casos con corrección son doce y cinco, respectivamente. Los archivos de apoyo permiten repetir los cálculos y revisar por qué la mejora global convive con excepciones más tardías.
+
+El conjunto simulado contiene cien casos por período. El ciclo promedio pasa de cuarenta a veinticuatro horas y la proporción de casos con corrección, de doce a cinco por ciento. La reducción del promedio es 40 %; la calidad mejora siete puntos porcentuales según esa medida. El cumplimiento de respuesta en cuarenta y ocho horas pasa de 80 % a 95 %, con la definición de casos completados del ejercicio.
+
+Los resultados agregados requieren mirar excepciones. En los datos simulados futuros hay cinco casos de cien horas: mejorar el promedio no elimina demoras importantes. La conclusión debe distinguir resultados calculados, hipótesis causal y condiciones pendientes de validar en una operación real. El siguiente ciclo revisaría esas excepciones, capacidad, carga de trabajo y estabilidad del registro antes de escalar.
+
+Antes de terminar, responde mentalmente: ¿Qué conclusiones apoyan los datos simulados y por qué no bastan para atribuir causalidad en una empresa real? Una orientación posible es la siguiente. Se calculan media 40 y 24 horas, reducción 40 %, corrección 12 % y 5 %, y cumplimiento 80 % y 95 %. El futuro mantiene cinco casos de 100 horas. Son datos simulados, no evidencia causal real; requieren validar mecanismo, comparabilidad, calidad y condiciones de operación. Recuerda: Integra alcance, modelo y evidencia. Calcula y examina también las excepciones. Distingue simulación, hipótesis y resultado real.

@@ -1,0 +1,131 @@
+{
+  "id": "PND_2_3",
+  "code": "PND",
+  "num": "2.3",
+  "materia": "Procesos para Negocios Digitales",
+  "unidad": "Estructura del BPM",
+  "title": "Rol del BPM en la mejora continua",
+  "objective": "Aplicar una revisión continua de procesos con hipótesis, pruebas, medidas equilibradas y decisiones de ajuste.",
+  "sections": [
+    [
+      "Mejora como práctica",
+      "La mejora continua consiste en revisar de manera sistemática cómo se realiza el trabajo y qué resultados produce. BPM aporta límites, responsables y visibilidad para que las mejoras no dependan solo de iniciativas aisladas. Una solución necesita seguimiento: los cambios de demanda, personal o reglas pueden hacer que una práctica antes útil deje de responder al propósito."
+    ],
+    [
+      "Hipótesis y prueba",
+      "Formula una hipótesis que conecte un cambio con un mecanismo y un resultado esperado. Por ejemplo, validar requisitos al recibir una solicitud podría reducir devoluciones por datos incompletos. Define cómo probarla y qué evidencia la contradiría. Una prueba limitada ayuda a aprender sin comprometer toda la operación; no consiste en confirmar obligatoriamente una idea que ya se decidió imponer."
+    ],
+    [
+      "Medidas y equilibrio",
+      "Compara línea base y resultados con definiciones consistentes. Acompaña el indicador principal con medidas de calidad, carga o experiencia para detectar efectos secundarios. Si baja el tiempo porque se excluyen casos complejos, la aparente mejora puede ser un cambio de población. Revisa distribución, condiciones y datos faltantes antes de atribuir un resultado al cambio aplicado."
+    ],
+    [
+      "Estandarizar y volver a revisar",
+      "Cuando la evidencia justifica el cambio, actualiza reglas, formación y documentación. Asigna responsable y fecha de revisión. Si la prueba no funciona, conserva el aprendizaje y ajusta o abandona la hipótesis. La mejora continua combina estabilidad de lo que sirve con capacidad de adaptación; repetir experimentos sin registrar decisiones impide construir conocimiento sobre el proceso."
+    ]
+  ],
+  "flow": [
+    "Planear hipótesis",
+    "Probar cambio",
+    "Verificar evidencia",
+    "Actuar y revisar"
+  ],
+  "flowtext": "El ciclo de planear, hacer, verificar y actuar ayuda a organizar la revisión. Planear define problema, hipótesis y medidas; hacer ejecuta una prueba controlada; verificar contrasta resultados y efectos; actuar decide si estandarizar, ajustar o descartar. Este ciclo se integra con BPM y no reemplaza la necesidad de delimitar proceso y responsabilidades.",
+  "case": "Caso hipotético: una validación inicial reduce solicitudes devueltas de veinte a diez en grupos de cien casos comparables. La tasa baja de 20 % a 10 %: diez puntos porcentuales y una reducción relativa de 50 %. El equipo también debe comprobar si creció el abandono del formulario o la carga de quien valida, para evitar interpretar una mejora parcial como éxito sin condiciones.",
+  "problem": "¿Qué dos formas de expresar la reducción son correctas y qué medida de equilibrio añadirías?",
+  "solution": "La reducción es de diez puntos porcentuales y 50 % relativa a la base de 20 %. Añadir abandono, tiempo de validación o carga operacional con población y período definidos; mantener seguimiento y no afirmar causalidad únicamente por la coincidencia temporal.",
+  "tasks": [
+    "Formula una hipótesis del caso con mecanismo y resultado esperado.",
+    "Calcula la reducción absoluta en puntos y la reducción relativa.",
+    "Diseña una prueba con indicador principal, medida de equilibrio y evidencia que podría refutarla.",
+    "Propón decisiones de estandarizar, ajustar o descartar y cómo registrar el aprendizaje."
+  ],
+  "summary": [
+    "Mejora con hipótesis que puedan contrastarse.",
+    "Compara con medidas principales y de equilibrio.",
+    "Registra decisiones y revisa lo estandarizado."
+  ],
+  "source": "Dumas et al. (2018), Fundamentals of Business Process Management. Deming (1986), Out of the Crisis. MIT Press.",
+  "questions": [
+    {
+      "q": "¿Qué debe conectar una hipótesis de mejora?",
+      "correct": "Cambio, mecanismo y resultado esperado",
+      "distractors": [
+        "Solo una meta sin intervención",
+        "Una licencia con su logotipo",
+        "Una conclusión decidida antes de medir"
+      ],
+      "feedback": "La hipótesis necesita una relación comprobable."
+    },
+    {
+      "q": "De 20 % a 10 % hay una reducción de…",
+      "correct": "Diez puntos porcentuales",
+      "distractors": [
+        "Diez por ciento relativo",
+        "Cincuenta puntos porcentuales",
+        "Veinte puntos porcentuales"
+      ],
+      "feedback": "La diferencia directa entre tasas se expresa en puntos porcentuales."
+    },
+    {
+      "q": "La reducción relativa de 20 % a 10 % es…",
+      "correct": "50 %",
+      "distractors": [
+        "10 %",
+        "100 %",
+        "Dos por ciento"
+      ],
+      "feedback": "La disminución de diez se divide para el valor inicial de veinte."
+    },
+    {
+      "q": "¿Qué función tiene una medida de equilibrio?",
+      "correct": "Detectar efectos secundarios de una mejora",
+      "distractors": [
+        "Sustituir toda medida principal",
+        "Garantizar que el cambio tendrá éxito",
+        "Eliminar casos difíciles"
+      ],
+      "feedback": "Permite revisar consecuencias en otras dimensiones."
+    },
+    {
+      "q": "¿Qué puede falsear una comparación?",
+      "correct": "Excluir casos complejos en el período posterior",
+      "distractors": [
+        "Conservar las definiciones del indicador",
+        "Registrar condiciones y fechas",
+        "Revisar casos abandonados"
+      ],
+      "feedback": "Cambiar la población puede producir una mejora aparente."
+    },
+    {
+      "q": "¿Qué debe hacerse si el cambio no mejora el resultado?",
+      "correct": "Registrar aprendizaje y revisar o descartar la hipótesis",
+      "distractors": [
+        "Eliminar la evidencia desfavorable",
+        "Declarar éxito por haber probado",
+        "Imponerlo sin más revisión"
+      ],
+      "feedback": "La prueba debe permitir aprender, incluso si refuta la idea."
+    },
+    {
+      "q": "¿Qué acompaña estandarizar una mejora?",
+      "correct": "Actualizar reglas, formación y revisión futura",
+      "distractors": [
+        "Guardar la idea sin comunicarla",
+        "Suprimir al responsable del proceso",
+        "Dejar todas las versiones vigentes a la vez"
+      ],
+      "feedback": "La operación necesita acuerdos coherentes con el cambio aceptado."
+    },
+    {
+      "q": "¿Cómo se relaciona el ciclo de mejora con BPM?",
+      "correct": "Lo complementa dentro de una gestión con alcance y responsables",
+      "distractors": [
+        "Reemplaza toda delimitación",
+        "Elimina el monitoreo",
+        "Impide revisar procesos existentes"
+      ],
+      "feedback": "La revisión iterativa necesita un proceso y una gestión que sostengan el aprendizaje."
+    }
+  ]
+}

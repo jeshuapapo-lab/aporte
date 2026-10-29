@@ -1,0 +1,131 @@
+{
+  "id": "PND_3_1",
+  "code": "PND",
+  "num": "3.1",
+  "materia": "Procesos para Negocios Digitales",
+  "unidad": "Técnicas de modelado de procesos",
+  "title": "Importancia del modelado en la gestión de procesos",
+  "objective": "Explicar para qué modelar un proceso y elegir un nivel de detalle que permita comunicar, analizar o preparar su ejecución.",
+  "sections": [
+    [
+      "Hacer visible el trabajo",
+      "Modelar un proceso representa actividades, decisiones, participantes y resultados para comprender cómo se relacionan. Permite descubrir transferencias y esperas que una lista de tareas puede ocultar. Su valor depende del propósito: una conversación con responsables puede necesitar una vista general; investigar una excepción requiere detalle adicional. Más símbolos no significan automáticamente mejor comprensión."
+    ],
+    [
+      "Propósito y nivel de detalle",
+      "Define audiencia, pregunta que se quiere responder y límites antes de dibujar. Separa una vista general de subprocesos detallados cuando sea necesario. Mantén un nivel de abstracción consistente dentro de cada vista. Si mezclas aprobar una solicitud con pulsar un botón y gestionar toda la empresa, el modelo reúne escalas distintas y se vuelve difícil de interpretar."
+    ],
+    [
+      "Estado actual y futuro",
+      "El modelo actual describe la operación observada; el futuro representa una propuesta. Rotula versiones y supuestos para no presentar deseos como hechos. Valida el estado actual con participantes y evidencia de casos. El desacuerdo entre áreas puede revelar variantes reales, por lo que debe investigarse antes de imponer una única secuencia que nadie reconoce completamente."
+    ],
+    [
+      "Modelo como evidencia revisable",
+      "Un modelo facilita preguntas sobre responsables, condiciones, entradas y salidas, pero no demuestra por sí solo tiempos, causas ni cumplimiento. Conecta el diagrama con datos y reglas documentadas. Revisa si una persona puede recorrer casos normales y excepcionales sin contradicciones. Mantener versión, propósito y responsable convierte el modelo en conocimiento compartido, en lugar de una imagen que pierde vigencia."
+    ]
+  ],
+  "flow": [
+    "Definir pregunta",
+    "Representar recorrido",
+    "Validar casos",
+    "Usar evidencia"
+  ],
+  "flowtext": "Define qué decisión apoyará el modelo. Representa el recorrido con límites y detalle consistentes. Valídalo recorriendo casos concretos con sus participantes y registra desacuerdos o supuestos. Después úsalo para formular preguntas y relacionar evidencia; revisa la representación cuando la operación o el propósito del análisis cambien.",
+  "case": "Caso ficticio: ventas dibuja cotizar como una sola tarea, mientras revisión técnica enumera cuarenta clics. Ambos creen describir el mismo proceso. El equipo acuerda una vista de extremo a extremo desde solicitud hasta respuesta, con un subproceso para revisar requisitos. Marca como propuesta futura la validación inicial que todavía no existe. Esa separación permite discutir responsabilidades sin confundir escalas ni hechos con intenciones.",
+  "problem": "¿Qué vistas prepararías y cómo evitarías confundir el proceso observado con la propuesta?",
+  "solution": "Vista general del recorrido y un subproceso detallado de revisión; propósito y escala de cada vista explícitos. Versiones separadas de estado actual y futuro, con evidencia para el actual y supuestos de la propuesta identificados.",
+  "tasks": [
+    "Define dos preguntas de análisis y la audiencia de cada modelo.",
+    "Construye una vista general y delimita un subproceso con detalle coherente.",
+    "Identifica qué elementos del caso son observados y cuáles propuestos.",
+    "Diseña una validación con participantes, casos y registro de discrepancias."
+  ],
+  "summary": [
+    "Modela para una pregunta y una audiencia.",
+    "Mantén escalas y versiones claras.",
+    "Valida recorridos y conecta datos."
+  ],
+  "source": "Dumas et al. (2018), Fundamentals of Business Process Management. OMG, BPMN 2.0.2: https://www.omg.org/spec/BPMN/2.0.2/",
+  "questions": [
+    {
+      "q": "¿Qué debe definirse antes de modelar?",
+      "correct": "Propósito, audiencia y límites",
+      "distractors": [
+        "La mayor cantidad posible de símbolos",
+        "Una solución sin conocer el proceso",
+        "El color de todas las flechas"
+      ],
+      "feedback": "El propósito orienta la representación y su detalle."
+    },
+    {
+      "q": "¿Qué problema tiene mezclar una empresa completa con clics individuales?",
+      "correct": "Inconsistencia de nivel de abstracción",
+      "distractors": [
+        "Exceso de evidencia verificable",
+        "Mejora automática de comprensión",
+        "Ausencia de cualquier tarea"
+      ],
+      "feedback": "Las vistas necesitan una escala coherente."
+    },
+    {
+      "q": "¿Qué describe el estado actual?",
+      "correct": "La operación observada y validada",
+      "distractors": [
+        "Lo que se desea implantar después",
+        "Una promesa comercial",
+        "La alternativa preferida sin evidencia"
+      ],
+      "feedback": "El modelo actual debe corresponder al funcionamiento real."
+    },
+    {
+      "q": "¿Cómo tratar una validación inicial que aún no existe?",
+      "correct": "Marcarla como parte del estado futuro",
+      "distractors": [
+        "Incluirla como hecho del presente",
+        "Suponer que siempre se ejecutó",
+        "Ocultar que es una propuesta"
+      ],
+      "feedback": "Las propuestas necesitan distinguirse de hechos observados."
+    },
+    {
+      "q": "¿Qué ayuda a manejar detalle sin saturar la vista general?",
+      "correct": "Usar subprocesos y vistas relacionadas",
+      "distractors": [
+        "Eliminar todos los límites",
+        "Duplicar todo en una sola página",
+        "Mezclar etapas con cargos y productos"
+      ],
+      "feedback": "Las vistas permiten conservar claridad y profundizar cuando hace falta."
+    },
+    {
+      "q": "¿Qué puede revelar un desacuerdo entre áreas?",
+      "correct": "Variantes reales que conviene investigar",
+      "distractors": [
+        "Que toda entrevista carece de valor",
+        "Que no debe registrarse ninguna opinión",
+        "Que solo el primer modelo es correcto"
+      ],
+      "feedback": "La discrepancia es evidencia para explorar el proceso."
+    },
+    {
+      "q": "¿Qué no demuestra por sí solo un diagrama?",
+      "correct": "La causa de una demora o su duración real",
+      "distractors": [
+        "Las relaciones que representa",
+        "El alcance que declara",
+        "Las decisiones que documenta"
+      ],
+      "feedback": "Los tiempos y causas requieren datos y análisis adicionales."
+    },
+    {
+      "q": "¿Qué favorece mantener útil el modelo?",
+      "correct": "Versión, responsable y revisión cuando cambia la operación",
+      "distractors": [
+        "Guardar una imagen sin contexto",
+        "Dar por definitivo cualquier dibujo",
+        "Eliminar el propósito para simplificar"
+      ],
+      "feedback": "El modelo necesita gobierno y actualización para sostener decisiones."
+    }
+  ]
+}

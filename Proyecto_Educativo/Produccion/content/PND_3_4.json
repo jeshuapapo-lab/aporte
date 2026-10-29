@@ -1,0 +1,131 @@
+{
+  "id": "PND_3_4",
+  "code": "PND",
+  "num": "3.4",
+  "materia": "Procesos para Negocios Digitales",
+  "unidad": "Técnicas de modelado de procesos",
+  "title": "Análisis y diagnóstico de procesos existentes y rediseño de procesos",
+  "objective": "Analizar un proceso existente, contrastar causas y justificar un rediseño con evidencia y comparación de alternativas.",
+  "sections": [
+    [
+      "Diagnóstico del estado actual",
+      "Delimita el proceso, recoge casos y representa su funcionamiento observado. Distingue trabajo, espera, transferencia y repetición. Busca variantes y datos faltantes. Un diagnóstico no consiste en escribir que el proceso es lento: necesita localizar dónde ocurre el problema, a quién afecta y con qué evidencia se conoce su frecuencia o magnitud."
+    ],
+    [
+      "Causas e hipótesis",
+      "Una demora puede relacionarse con requisitos incompletos, capacidad, reglas, errores o coordinación. Usa preguntas de causa, observación y datos para contrastar hipótesis. Que dos eventos coincidan no demuestra una relación causal. Evita culpar a una persona sin examinar el sistema de trabajo y revisa si el registro representa también casos difíciles, cancelados o no resueltos."
+    ],
+    [
+      "Diseño del estado futuro",
+      "Compara cambios como eliminar duplicaciones, validar antes, reducir transferencias o atender tareas en paralelo cuando sea viable. Explica el mecanismo, los riesgos y las condiciones de cada alternativa. Automatizar es una opción, no la definición del rediseño. Mantén trazabilidad entre problema investigado, cambio propuesto y resultado que se espera comprobar."
+    ],
+    [
+      "Evaluación y transición",
+      "Revisa el modelo futuro con escenarios y participantes antes de implantar. Define piloto, responsables y medidas de calidad y tiempo. Compara condiciones para evitar atribuir a la propuesta un cambio de volumen o composición de casos. Documenta diferencias entre lo simulado, lo esperado y lo observado, y establece cómo se volverá al análisis si aparecen fallos."
+    ]
+  ],
+  "flow": [
+    "Descubrir estado actual",
+    "Contrastar causas",
+    "Diseñar alternativa",
+    "Comprobar resultado"
+  ],
+  "flowtext": "Describe primero el recorrido real y separa sus componentes de tiempo. Investiga causas en lugar de seleccionar una herramienta por anticipado. Diseña una alternativa que explique cómo disminuirá el problema. Finalmente recorre escenarios y mide un piloto, conservando comparabilidad y controles que detecten deterioros de calidad o trabajo desplazado.",
+  "case": "Ejemplo hipotético: una solicitud tiene cuatro horas de trabajo y treinta y seis de espera, para un ciclo total de cuarenta. El rediseño mantiene cuatro de trabajo y reduce la espera esperada a veinte, dando veinticuatro horas. La reducción prevista del ciclo es 40 %. Todavía no es un resultado observado: debe probarse con casos comparables y comprobar que no aumenten errores o carga en otra etapa.",
+  "problem": "¿Qué parte del tiempo cambia y por qué el ahorro previsto no equivale a una mejora ya demostrada?",
+  "solution": "La espera pasa de 36 a 20 horas; el trabajo permanece en 4. Ciclo de 40 a 24: (40−24)/40=40 %. Es una previsión del diseño y exige piloto, medición, calidad y comparabilidad antes de afirmarla como resultado real.",
+  "tasks": [
+    "Representa el estado actual con actividades, esperas y transferencias.",
+    "Formula dos hipótesis de causa y evidencia que permitiría contrastarlas.",
+    "Diseña dos alternativas y calcula la reducción prevista del ejemplo.",
+    "Define un piloto con comparabilidad, calidad y criterio para aceptar o revisar la propuesta."
+  ],
+  "summary": [
+    "Diagnostica con casos y límites claros.",
+    "Contrasta causas y compara alternativas.",
+    "Distingue previsión, piloto y resultado observado."
+  ],
+  "source": "Dumas et al. (2018), Fundamentals of Business Process Management. Van der Aalst (2016), Process Mining: Data Science in Action, 2.ª ed. Springer.",
+  "questions": [
+    {
+      "q": "¿Qué necesita un diagnóstico además de decir lento?",
+      "correct": "Ubicación, efecto y evidencia del problema",
+      "distractors": [
+        "Una plataforma ya elegida",
+        "Una opinión sin casos",
+        "Un único responsable culpable por defecto"
+      ],
+      "feedback": "El análisis debe precisar qué ocurre y con qué magnitud."
+    },
+    {
+      "q": "Cuatro horas de trabajo y 36 de espera dan un ciclo de…",
+      "correct": "40 horas",
+      "distractors": [
+        "36 horas de ciclo total",
+        "4 horas de ciclo total",
+        "9 horas"
+      ],
+      "feedback": "El tiempo transcurrido incluye trabajo y espera dentro de los límites definidos."
+    },
+    {
+      "q": "Pasar de 40 a 24 horas supone reducción prevista de…",
+      "correct": "40 %",
+      "distractors": [
+        "16 %",
+        "60 %",
+        "24 %"
+      ],
+      "feedback": "La disminución de dieciséis se divide para la base de cuarenta."
+    },
+    {
+      "q": "¿Qué parte cambia en el ejemplo?",
+      "correct": "La espera, de 36 a 20 horas",
+      "distractors": [
+        "El trabajo, de cuatro a cero",
+        "Todas las actividades desaparecen",
+        "El período medido deja de existir"
+      ],
+      "feedback": "El mecanismo propuesto reduce espera, no elimina el trabajo."
+    },
+    {
+      "q": "¿Qué debe hacerse con una hipótesis de causa?",
+      "correct": "Contrastar con observación y datos",
+      "distractors": [
+        "Tratarla siempre como hecho",
+        "Descartar toda evidencia contraria",
+        "Confundirla con una solución elegida"
+      ],
+      "feedback": "Las hipótesis orientan investigación y pueden ser refutadas."
+    },
+    {
+      "q": "¿Qué relación tiene automatización con rediseño?",
+      "correct": "Es una alternativa posible, no su definición",
+      "distractors": [
+        "Son sinónimos exactos",
+        "Siempre es la única opción válida",
+        "Nunca puede formar parte de una mejora"
+      ],
+      "feedback": "Rediseñar puede modificar reglas, coordinación y tareas sin automatizar todo."
+    },
+    {
+      "q": "¿Qué distingue resultado esperado y observado?",
+      "correct": "El observado procede de la operación medida",
+      "distractors": [
+        "Ambos son iguales antes del piloto",
+        "El esperado demuestra causalidad",
+        "El observado no necesita condiciones"
+      ],
+      "feedback": "Una previsión debe comprobarse antes de presentarse como logro."
+    },
+    {
+      "q": "¿Qué debe acompañar reducir tiempo?",
+      "correct": "Revisión de calidad, carga y efectos en otras etapas",
+      "distractors": [
+        "Eliminar indicadores de error",
+        "Contar solo casos fáciles",
+        "Omitir condiciones del período"
+      ],
+      "feedback": "Una mejora parcial puede desplazar o empeorar el problema."
+    }
+  ]
+}

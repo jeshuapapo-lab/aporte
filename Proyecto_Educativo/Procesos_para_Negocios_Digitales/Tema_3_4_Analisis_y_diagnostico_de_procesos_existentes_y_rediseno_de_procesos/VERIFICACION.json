@@ -1,0 +1,43 @@
+{
+  "folder": "Procesos_para_Negocios_Digitales/Tema_3_4_Analisis_y_diagnostico_de_procesos_existentes_y_rediseno_de_procesos",
+  "office_reopened": true,
+  "pdf_pages": {
+    "Presentacion.pdf": 10,
+    "Tarea.pdf": 3
+  },
+  "media": {
+    "Video.mp4": {
+      "duration": 219.292,
+      "bytes": 5742357,
+      "streams": [
+        {
+          "codec_type": "video",
+          "codec_name": "h264",
+          "width": 1920,
+          "height": 1080,
+          "pix_fmt": "yuv420p"
+        },
+        {
+          "codec_type": "audio",
+          "codec_name": "aac",
+          "sample_rate": "24000",
+          "channels": 1
+        }
+      ],
+      "decoded_entirely": true
+    },
+    "Audio.mp3": {
+      "duration": 207.621224,
+      "bytes": 2329977,
+      "streams": [
+        {
+          "codec_type": "audio",
+          "codec_name": "mp3",
+          "sample_rate": "44100",
+          "channels": 1
+        }
+      ],
+      "decoded_entirely": true
+    }
+  }
+}

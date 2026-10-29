@@ -1,0 +1,239 @@
+1
+00:00:00,250 --> 00:00:02,874
+Hoy estudiaremos análisis y diagnóstico de procesos existentes y rediseño de
+
+2
+00:00:02,874 --> 00:00:05,498
+procesos.
+
+3
+00:00:05,718 --> 00:00:09,793
+El propósito es analizar un proceso existente, contrastar causas y justificar
+
+4
+00:00:09,793 --> 00:00:13,867
+un rediseño con evidencia y comparación de alternativas.
+
+5
+00:00:14,087 --> 00:00:17,842
+Este contenido forma parte de procesos para negocios digitales.
+
+6
+00:00:18,062 --> 00:00:23,011
+Trabajaremos con conceptos y un caso ficticio para tomar decisiones justificadas.
+
+7
+00:00:23,750 --> 00:00:26,630
+Antes de proponer una solución, considera esta pregunta: ¿Qué parte del
+
+8
+00:00:26,630 --> 00:00:29,510
+tiempo cambia y por qué el ahorro previsto no equivale a
+
+9
+00:00:29,510 --> 00:00:32,390
+una mejora ya demostrada?
+
+10
+00:00:32,610 --> 00:00:36,173
+Al terminar deberás explicar tu decisión, indicar cómo la comprobarías y
+
+11
+00:00:36,173 --> 00:00:39,735
+reconocer los límites de la evidencia utilizada.
+
+12
+00:00:40,458 --> 00:00:45,088
+Delimita el proceso, recoge casos y representa su funcionamiento observado.
+
+13
+00:00:45,308 --> 00:00:48,593
+Distingue trabajo, espera, transferencia y repetición.
+
+14
+00:00:48,813 --> 00:00:51,074
+Busca variantes y datos faltantes.
+
+15
+00:00:51,294 --> 00:00:54,750
+Un diagnóstico no consiste en escribir que el proceso es lento:
+
+16
+00:00:54,750 --> 00:00:58,206
+necesita localizar dónde ocurre el problema, a quién afecta y con
+
+17
+00:00:58,206 --> 00:01:01,662
+qué evidencia se conoce su frecuencia o magnitud.
+
+18
+00:01:02,417 --> 00:01:05,403
+Una demora puede relacionarse con requisitos incompletos, capacidad, reglas, errores o
+
+19
+00:01:05,403 --> 00:01:08,390
+coordinación.
+
+20
+00:01:08,610 --> 00:01:13,026
+Usa preguntas de causa, observación y datos para contrastar hipótesis.
+
+21
+00:01:13,246 --> 00:01:16,787
+Que dos eventos coincidan no demuestra una relación causal.
+
+22
+00:01:17,007 --> 00:01:19,980
+Evita culpar a una persona sin examinar el sistema de trabajo
+
+23
+00:01:19,980 --> 00:01:22,952
+y revisa si el registro representa también casos difíciles, cancelados o
+
+24
+00:01:22,952 --> 00:01:25,925
+no resueltos.
+
+25
+00:01:26,667 --> 00:01:30,741
+Describe primero el recorrido real y separa sus componentes de tiempo.
+
+26
+00:01:30,961 --> 00:01:35,100
+Investiga causas en lugar de seleccionar una herramienta por anticipado.
+
+27
+00:01:35,320 --> 00:01:38,989
+Diseña una alternativa que explique cómo disminuirá el problema.
+
+28
+00:01:39,209 --> 00:01:43,380
+Finalmente recorre escenarios y mide un piloto, conservando comparabilidad y controles
+
+29
+00:01:43,380 --> 00:01:47,551
+que detecten deterioros de calidad o trabajo desplazado.
+
+30
+00:01:48,292 --> 00:01:51,801
+Ejemplo hipotético: una solicitud tiene cuatro horas de trabajo y treinta
+
+31
+00:01:51,801 --> 00:01:55,310
+y seis de espera, para un ciclo total de cuarenta.
+
+32
+00:01:55,530 --> 00:01:58,378
+El rediseño mantiene cuatro de trabajo y reduce la espera esperada
+
+33
+00:01:58,378 --> 00:02:01,226
+a veinte, dando veinticuatro horas.
+
+34
+00:02:01,446 --> 00:02:04,646
+La reducción prevista del ciclo es 40 %.
+
+35
+00:02:04,866 --> 00:02:08,834
+Todavía no es un resultado observado: debe probarse con casos comparables
+
+36
+00:02:08,834 --> 00:02:12,802
+y comprobar que no aumenten errores o carga en otra etapa.
+
+37
+00:02:13,542 --> 00:02:17,307
+Compara cambios como eliminar duplicaciones, validar antes, reducir transferencias o atender
+
+38
+00:02:17,307 --> 00:02:21,072
+tareas en paralelo cuando sea viable.
+
+39
+00:02:21,292 --> 00:02:25,388
+Explica el mecanismo, los riesgos y las condiciones de cada alternativa.
+
+40
+00:02:25,608 --> 00:02:29,000
+Automatizar es una opción, no la definición del rediseño.
+
+41
+00:02:29,220 --> 00:02:32,164
+Mantén trazabilidad entre problema investigado, cambio propuesto y resultado que se
+
+42
+00:02:32,164 --> 00:02:35,108
+espera comprobar.
+
+43
+00:02:35,833 --> 00:02:40,313
+Revisa el modelo futuro con escenarios y participantes antes de implantar.
+
+44
+00:02:40,533 --> 00:02:44,203
+Define piloto, responsables y medidas de calidad y tiempo.
+
+45
+00:02:44,423 --> 00:02:47,271
+Compara condiciones para evitar atribuir a la propuesta un cambio de
+
+46
+00:02:47,271 --> 00:02:50,119
+volumen o composición de casos.
+
+47
+00:02:50,339 --> 00:02:54,072
+Documenta diferencias entre lo simulado, lo esperado y lo observado, y
+
+48
+00:02:54,072 --> 00:02:57,805
+establece cómo se volverá al análisis si aparecen fallos.
+
+49
+00:02:58,542 --> 00:03:01,678
+Para aplicar lo aprendido, desarrolla la tarea editable.
+
+50
+00:03:01,898 --> 00:03:05,887
+Representa el estado actual con actividades, esperas y transferencias.
+
+51
+00:03:06,107 --> 00:03:10,715
+Después, diseña dos alternativas y calcula la reducción prevista del ejemplo.
+
+52
+00:03:10,935 --> 00:03:14,359
+Justifica tus decisiones con los conceptos de esta explicación y comprueba
+
+53
+00:03:14,359 --> 00:03:17,783
+tus respuestas en la actividad interactiva.
+
+54
+00:03:18,542 --> 00:03:20,206
+Conserva estas ideas.
+
+55
+00:03:20,426 --> 00:03:23,028
+Diagnostica con casos y límites claros.
+
+56
+00:03:23,248 --> 00:03:25,830
+Contrasta causas y compara alternativas.
+
+57
+00:03:26,050 --> 00:03:29,100
+Distingue previsión, piloto y resultado observado.
+
+58
+00:03:29,320 --> 00:03:31,496
+El caso y sus datos son ficticios.
+
+59
+00:03:31,716 --> 00:03:35,268
+Revisa las fuentes indicadas en los materiales y continúa con la
+
+60
+00:03:35,268 --> 00:03:38,820
+práctica para transferir estos criterios a otra situación.

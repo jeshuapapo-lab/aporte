@@ -1,0 +1,131 @@
+{
+  "id": "NE_1_2",
+  "code": "NE",
+  "num": "1.2",
+  "materia": "Negocios Electrónicos",
+  "unidad": "Estructura del negocio electrónico",
+  "title": "División por departamentos y categorías",
+  "objective": "Diseñar una organización de catálogo que permita encontrar productos y distinguir categorías de filtros.",
+  "sections": [
+    [
+      "Categorías orientadas al público",
+      "Un departamento agrupa grandes familias de oferta; una categoría organiza productos con una característica o uso compartido. La estructura debe responder a cómo buscan las personas, no copiar automáticamente el organigrama interno. Antes de clasificar, identifica el vocabulario del público, el tamaño del catálogo y las tareas más frecuentes. Una taxonomía comprensible reduce decisiones innecesarias y ayuda a mantener el catálogo cuando crece."
+    ],
+    [
+      "Jerarquía y facetas",
+      "Una jerarquía establece relaciones entre niveles, como alimentos, chocolates y tabletas. Las facetas permiten limitar resultados por atributos, como precio, porcentaje de cacao o disponibilidad. No conviene convertir cada combinación de atributos en una categoría nueva. Un producto puede aparecer en varias rutas de navegación, pero debe conservar una identidad y una ficha consistentes para no duplicar inventario ni información."
+    ],
+    [
+      "Validar con personas",
+      "El ordenamiento de tarjetas ayuda a explorar cómo las personas agruparían productos y qué nombres elegirían. Una prueba de árbol comprueba si pueden encontrar un artículo dentro de una estructura de etiquetas sin depender del diseño visual. Registra éxito, recorrido y dudas. Estas técnicas aportan evidencia sobre comprensión; una muestra pequeña sirve para detectar problemas, pero no representa automáticamente a todo el mercado."
+    ],
+    [
+      "Gobierno del catálogo",
+      "Define quién puede crear categorías, qué atributos son obligatorios y cómo se corrigen sinónimos o productos mal ubicados. Mantén nombres paralelos y evita etiquetas internas como varios o grupo B. La búsqueda y las rutas de navegación deben usar información coherente. Si cambias una estructura publicada, revisa enlaces y accesos existentes para evitar que una mejora de clasificación deje productos difíciles de encontrar."
+    ]
+  ],
+  "flow": [
+    "Investigar",
+    "Agrupar",
+    "Nombrar",
+    "Comprobar"
+  ],
+  "flowtext": "Comienza reuniendo búsquedas y tareas reales. Agrupa productos por semejanzas relevantes y asigna etiquetas comprensibles. Después comprueba si una persona puede encontrar un artículo concreto sin recibir instrucciones. Corrige los nombres o la estructura cuando el recorrido observado contradiga lo que el equipo esperaba.",
+  "case": "Caso ficticio: Minga Cacao vende tabletas, bombones, cajas para regalo y accesorios. Su menú separa premium, varios y línea dos; además, crea una categoría distinta para cada precio. Una cliente busca una caja sin azúcar para regalar y debe abrir cuatro secciones. Se propone organizar por tipo de producto y usar precio y composición como filtros, siempre con información verificable de ingredientes.",
+  "problem": "¿Cómo separarías las categorías y los filtros sin duplicar el mismo producto?",
+  "solution": "Categorías por tipo de producto; filtros por atributos pertinentes y comprobables. Una sola ficha e identificador por artículo. Validar una tarea de búsqueda y revisar etiquetas ambiguas.",
+  "tasks": [
+    "Clasifica doce productos propuestos por ti y justifica dos niveles de categorías.",
+    "Define tres filtros con valores coherentes y explica por qué no son nuevas categorías.",
+    "Diseña una prueba de árbol con dos tareas y criterios observables de éxito.",
+    "Propón responsables y reglas para mantener nombres, atributos y productos sin duplicados."
+  ],
+  "summary": [
+    "Clasifica para las tareas del público.",
+    "Separa jerarquías de filtros.",
+    "Valida y mantén el catálogo."
+  ],
+  "source": "Rosenfeld, Morville y Arango (2015), Information Architecture: For the Web and Beyond, 4.ª ed. O’Reilly.",
+  "questions": [
+    {
+      "q": "¿Qué criterio debe orientar la clasificación del catálogo?",
+      "correct": "Las tareas y el vocabulario del público",
+      "distractors": [
+        "La jerarquía de cargos internos",
+        "El orden en que se cargaron los productos",
+        "El código contable como única etiqueta"
+      ],
+      "feedback": "La navegación debe facilitar la búsqueda de las personas; los códigos internos pueden conservarse como datos de gestión."
+    },
+    {
+      "q": "¿Cuál es una faceta apropiada para tabletas de chocolate?",
+      "correct": "Porcentaje de cacao",
+      "distractors": [
+        "La página institucional",
+        "El proceso de contratación",
+        "El nombre de la base de datos"
+      ],
+      "feedback": "Una faceta limita resultados por un atributo del producto."
+    },
+    {
+      "q": "¿Qué problema produce crear una categoría para cada combinación de precio y tamaño?",
+      "correct": "Una proliferación difícil de mantener y navegar",
+      "distractors": [
+        "La eliminación automática de filtros",
+        "La unificación garantizada de fichas",
+        "Un aumento seguro de la disponibilidad"
+      ],
+      "feedback": "Las combinaciones se gestionan mejor como atributos y filtros cuando corresponda."
+    },
+    {
+      "q": "¿Qué evalúa una prueba de árbol?",
+      "correct": "Si las etiquetas y su jerarquía permiten encontrar un contenido",
+      "distractors": [
+        "La velocidad de la pasarela de pagos",
+        "El acabado visual de una fotografía",
+        "La duración de una campaña publicitaria"
+      ],
+      "feedback": "Se comprueba la estructura de navegación sin depender de la presentación gráfica."
+    },
+    {
+      "q": "¿Qué técnica explora cómo agrupa y nombra productos el público?",
+      "correct": "Ordenamiento de tarjetas",
+      "distractors": [
+        "Conciliación bancaria",
+        "Prueba de carga del servidor",
+        "Cálculo del valor presente"
+      ],
+      "feedback": "El agrupamiento de tarjetas aporta ideas para la taxonomía y su vocabulario."
+    },
+    {
+      "q": "Un artículo aparece en dos rutas. ¿Cómo debe gestionarse?",
+      "correct": "Con identidad y ficha consistentes",
+      "distractors": [
+        "Duplicando el inventario de cada ruta",
+        "Creando precios distintos sin explicación",
+        "Eliminando su identificador original"
+      ],
+      "feedback": "Varios accesos no deben producir registros contradictorios del mismo artículo."
+    },
+    {
+      "q": "¿Qué etiqueta merece revisión por ser poco informativa?",
+      "correct": "Varios",
+      "distractors": [
+        "Bombones",
+        "Tabletas",
+        "Cajas para regalo"
+      ],
+      "feedback": "Varios no anticipa con claridad qué encontrará una persona."
+    },
+    {
+      "q": "¿Qué debe revisarse al cambiar categorías publicadas?",
+      "correct": "Enlaces, accesos y productos afectados",
+      "distractors": [
+        "Solo el color del encabezado",
+        "Únicamente el salario del editor",
+        "La eliminación de toda búsqueda"
+      ],
+      "feedback": "Los cambios de clasificación pueden romper recorridos o dejar artículos difíciles de localizar."
+    }
+  ]
+}

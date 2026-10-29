@@ -1,0 +1,79 @@
+ACTIVIDAD PREPARADA PARA EDUCAPLAY — SIN PUBLICAR
+Procesos para Negocios Digitales · 4.2 · Indicadores para evaluar la implementación
+Objetivo: Definir KPI de implementación con fórmulas, poblaciones y acciones de revisión que permitan interpretar el desempeño.
+Tipo propuesto: cuestionario de opción múltiple. Ocho preguntas, una respuesta correcta, un punto por acierto, sin descuento ni límite de tiempo. Referencia de práctica: seis de ocho. Estas son propuestas didácticas.
+Instrucciones: elige una respuesta y revisa la explicación. El caso y los datos son ficticios.
+
+1. ¿Qué convierte una medida en KPI?
+   A) Su relación seleccionada con un objetivo relevante
+   B) Que aparezca en un tablero de colores
+   C) Que sea fácil de contar aunque no importe
+   D) Que tenga un nombre en inglés
+Correcta: A
+Retroalimentación: La importancia proviene de la decisión y el objetivo que apoya.
+
+2. 18 respuestas dentro de plazo de 20 evaluables equivalen a…
+   A) 18 %
+   B) 90 %
+   C) 95 %
+   D) 9 %
+Correcta: B
+Retroalimentación: La tasa usa dieciocho dividido para veinte y multiplicado por cien.
+
+3. Cuatro correcciones entre 50 casos completados equivalen a…
+   A) 4 %
+   B) 12,5 %
+   C) 8 %
+   D) 46 %
+Correcta: C
+Retroalimentación: La fórmula requiere conservar el denominador del grupo definido.
+
+4. ¿Qué debe precisar una medida de tiempo?
+   A) Solo el promedio final
+   B) Únicamente el nombre del sistema
+   C) La meta sin unidad
+   D) Inicio, fin y calendario de medición
+Correcta: D
+Retroalimentación: Sin eventos y calendario el tiempo puede significar cosas distintas.
+
+5. ¿Qué debe hacerse con casos abiertos?
+   A) Aplicar una regla explícita y revisar si su plazo ya es evaluable
+   B) Excluirlos siempre aunque estén vencidos
+   C) Contarlos siempre como resueltos
+   D) Mezclarlos sin conocer fechas
+Correcta: A
+Retroalimentación: El tratamiento afecta el denominador y puede sesgar resultados.
+
+6. ¿Qué riesgo tiene premiar solo cierres rápidos?
+   A) Garantizar calidad en todos los casos
+   B) Cerrar sin resolver y aumentar reaperturas
+   C) Eliminar toda variación de demanda
+   D) Hacer innecesarias medidas de calidad
+Correcta: B
+Retroalimentación: Los incentivos deben revisarse con medidas de equilibrio.
+
+7. ¿Qué debe acompañar un umbral de alerta?
+   A) Solo una celda roja sin explicación
+   B) La eliminación de datos adversos
+   C) Responsable y acción de revisión
+   D) Una meta universal inventada
+Correcta: C
+Retroalimentación: La medición sirve para actuar con responsabilidades claras.
+
+8. ¿Qué puede romper la comparabilidad de períodos?
+   A) Conservar eventos de inicio y fin
+   B) Documentar las exclusiones
+   C) Mantener el origen del dato
+   D) Cambiar definición o mezcla de casos sin explicarlo
+Correcta: D
+Retroalimentación: Las condiciones y definiciones deben considerarse al interpretar variaciones.
+
+PUBLICACIÓN CON TU CUENTA AUTORIZADA
+1. Accede al sitio oficial https://www.educaplay.com/ e inicia sesión.
+2. Crea un cuestionario de opciones múltiples y copia título, objetivo e instrucciones. La interfaz y funciones pueden variar con la cuenta.
+3. Incorpora las ocho preguntas, sus opciones y su respuesta correcta. Añade retroalimentación si el formato lo permite.
+4. Configura español y las opciones de evaluación disponibles. El CSV adjunto es auxiliar, no un formato de importación verificado del servicio.
+5. Recorre una vista de prueba completa, revisando aciertos, errores y puntuación.
+6. Publica con la privacidad elegida y copia el enlace real de compartir. Verifica su acceso con permisos de estudiante.
+Enlace de actividad publicada: no disponible; no se accedió a una cuenta de Educaplay. No se inventa un enlace.
+Práctica local funcional: Actividad_Interactiva.html. Es independiente de Educaplay.

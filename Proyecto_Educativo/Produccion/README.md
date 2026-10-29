@@ -1,23 +1,15 @@
-# Regeneración de los materiales
+# Código de producción utilizado
 
-Estos scripts generaron los archivos reales entregados. Requieren Python 3.12, FFmpeg con libx264/libmp3lame/AAC/libass, fuentes Noto Sans y, para las comprobaciones indicadas, Chromium y LibreOffice. Los nombres y rutas de binarios pueden requerir adaptación en otro sistema operativo. No hay llamadas a un servicio de voz remoto: la síntesis funciona localmente una vez descargado el modelo.
+El contenido autoral de los 26 temas adicionales se conserva en content/. El piloto tiene sus fuentes en base_piloto/. catalogo.py y unidad_*.py construyen el catálogo; producir.py genera documentos, voz y video; verificar_lotes.py abre documentos y decodifica medios; verificar_navegador.py ejecuta las pruebas de cuestionario y reproducción; modelos_bpmn.py y recursos_adicionales.py construyen modelos y datos; preparar_entrega.py organiza la colección y el ZIP.
 
-1. Crea un entorno virtual e instala `requirements.txt` con pip, conservando TLS y las verificaciones del gestor de paquetes. FFmpeg, Noto Sans, Chromium y LibreOffice son dependencias del sistema, no se distribuyen en el ZIP.
-2. Descarga por HTTPS, desde las publicaciones oficiales, `kokoro-v1.0.onnx` y `voices-v1.0.bin`:
-   - https://github.com/thewh1teagle/kokoro-onnx/releases/download/model-files-v1.1/kokoro-v1.0.onnx
-   - https://github.com/thewh1teagle/kokoro-onnx/releases/download/model-files-v1.1/voices-v1.0.bin
-   El origen oficial documenta el modelo como Apache 2.0 y el adaptador kokoro-onnx como MIT: https://github.com/thewh1teagle/kokoro-onnx . Los modelos no se redistribuyen en este proyecto.
-3. Define `EDU_MODEL_DIR` con la carpeta de esos dos archivos. Para no sobrescribir los entregables o tus ediciones, define `EDU_PROJECT_DIR` con una **carpeta nueva** de salida y `EDU_BUILD_DIR` con una carpeta nueva de trabajo. `EDU_SOURCES_DIR` debe señalar a la carpeta Fuentes de esta entrega. Conserva el proxy y las autoridades de confianza de tu entorno.
-4. Ejecuta, en este orden, con el Python del entorno virtual:
-   ```sh
-   python generar_documentos.py
-   python generar_audio.py
-   python montar_media.py
-   ```
-   Los dos primeros scripts escriben documentos, gráficos, guiones y narraciones; el tercero compone música original, normaliza la voz, crea escenas, añade subtítulos y monta el MP4 y el MP3 final. La velocidad efectiva empleada en esta entrega fue 1.0 y la fonetización, es-419. El adaptador de sesión corrige el tipo de entrada `speed` según el esquema float del modelo; no desactiva verificaciones.
-5. Opcionalmente ejecuta `validar_interactivo.py` y `validar_multimedia.py` para pruebas reales de navegador. Usan un servidor temporal en loopback y lo detienen al terminar. La ruta del navegador usada en este entorno es `/usr/bin/chromium`.
-6. La conversión de vista previa se hizo con LibreOffice, por ejemplo `soffice --headless --convert-to pdf --outdir CARPETA_PDF ARCHIVO.pptx`. Las vistas PDF deben regenerarse tras cambiar los editables.
+Los scripts registran las rutas reales del entorno en el que se ejecutaron: /workspace/edu-build para el piloto, /workspace/edu-full para la producción completa, /workspace/edu-runtime para el entorno virtual y los modelos, y /workspace/Proyecto_Educativo_Completo para los entregables. No se presentan como una instalación portátil de un solo clic. Para ejecutarlos en otra máquina hay que adaptar esas rutas y las de Chromium/FFmpeg/LibreOffice, o recrear la misma estructura. Los archivos terminados se usan sin ejecutar los scripts.
 
-`empaquetar.py` es el registro específico del empaquetado de esta entrega: espera los PDF convertidos en `EDU_BUILD_DIR/pdf`, fotogramas y el informe acústico de validación. No sustituye los pasos de generación, conversión y prueba. No edites `Validacion.md` para afirmar resultados de una regeneración sin volver a ejecutar las comprobaciones.
+Dependencias usadas: Python 3.12, python-pptx 1.0.2, python-docx 1.2.0, Pillow 12.3.0, numpy 2.3.5, PyMuPDF 1.26.6, pypdf 6.10.0, kokoro-onnx 0.4.9, soundfile 0.13.1, onnxruntime 1.31.1 y playwright 1.62.0. El sistema aporta FFmpeg con H.264/AAC/MP3/libass, LibreOffice, Noto Sans y Chromium. Se usaron dos procesos locales de generación, con dos hilos de inferencia por proceso. No se usaron agentes secundarios.
 
-La generación reutiliza WAV existentes en su carpeta de trabajo. Si modificas los guiones, usa una carpeta `EDU_BUILD_DIR` nueva o elimina únicamente los WAV/JSON de producción que deban regenerarse; de lo contrario podría reutilizarse narración anterior. No se alteran los sílabos ni el repositorio aporte.
+La voz se obtuvo con los modelos oficiales Kokoro v1.0 y voices-v1.0.bin de la publicación model-files-v1.1: https://github.com/thewh1teagle/kokoro-onnx/releases . Modelo Apache 2.0; adaptador kokoro-onnx MIT. No se distribuyen los modelos. Se evaluaron float32 e int8: las introducciones iniciales de NE 1.2 y NE 1.3 conservan un bloque de la variante int8; el resto de la producción utiliza float32. Ambas variantes corresponden al mismo modelo, voz y fonetización. Las descargas conservaron TLS y no se desactivaron verificaciones.
+
+La música se compone programáticamente con arpegios y no usa grabaciones de terceros. La explicación de audio es autónoma: añade introducción y cierre de escucha y reutiliza bloques conceptuales coherentes con el video; no es una extracción de la pista mezclada. La segmentación de subtítulos es proporcional y no una alineación fonética forzada.
+
+Las cachés de WAV se vinculan al hash del texto en la producción nueva. Si se modifican guiones, modelo o voz, usa una carpeta de trabajo limpia; el hash de texto por sí solo no detecta cambios de modelo. La generación no descarga datos de estudiantes ni usa cuentas de terceros. Las comprobaciones de navegador inician servidores temporales en loopback y los detienen al finalizar.
+
+Los gráficos complementarios usan matplotlib 3.10.8 y la importación estructural BPMN se comprobó con Node y bpmn-moddle 9.0.4. integrar_visuales.py inserta durante la generación el diagrama de decisión de PND 3.2 y el gráfico editable de KPI de PND 4.4; debe estar activo antes de que esos temas terminen su narración. Los bloques conceptuales permanecen en las notas y guiones.

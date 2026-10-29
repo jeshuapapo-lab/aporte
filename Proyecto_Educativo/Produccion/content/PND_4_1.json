@@ -1,0 +1,131 @@
+{
+  "id": "PND_4_1",
+  "code": "PND",
+  "num": "4.1",
+  "materia": "Procesos para Negocios Digitales",
+  "unidad": "Implementación del BPM",
+  "title": "Planificación de un proyecto BPM",
+  "objective": "Planificar un proyecto BPM con alcance, entregables, responsabilidades, riesgos y criterios de aceptación.",
+  "sections": [
+    [
+      "Alcance y justificación",
+      "Un proyecto BPM organiza una intervención temporal para mejorar un proceso con propósito definido. Explica el problema, quién recibe el resultado, qué se incluye y qué queda fuera. Relaciona los beneficios esperados con evidencia inicial y evita prometer una transformación total sin recursos. El responsable del proyecto y el dueño del proceso cumplen funciones relacionadas, pero distintas."
+    ],
+    [
+      "Entregables y responsabilidades",
+      "Descompón el trabajo en entregables verificables: alcance, modelo actual, diagnóstico, propuesta futura, piloto y seguimiento. Asigna responsable de ejecución y autoridad de aprobación. Un cronograma útil representa dependencias y disponibilidad de participantes. No programes una validación antes de disponer de evidencia suficiente ni supongas que todas las personas estarán disponibles a tiempo completo."
+    ],
+    [
+      "Riesgos y cambio",
+      "Identifica riesgos de datos insuficientes, resistencia, dependencia técnica o interrupción de operación. Define señales tempranas, responsables y respuestas. El cambio necesita comunicación sobre qué se modificará, formación para quienes ejecutan el proceso y un canal para reportar excepciones. Considera pruebas y transición para no usar a los clientes como validadores involuntarios de una solución todavía no comprobada."
+    ],
+    [
+      "Aceptación y continuidad",
+      "Define criterios observables para aceptar cada entregable y decidir si ampliar el piloto. Prevé soporte y transferencia al responsable de la operación. El cierre del proyecto debe conservar modelos, decisiones, indicadores y aprendizajes. La mejora del proceso continúa después del cierre administrativo; necesita una revisión programada y capacidad de actuar cuando el resultado se aleja del propósito."
+    ]
+  ],
+  "flow": [
+    "Justificar alcance",
+    "Organizar entregables",
+    "Preparar piloto",
+    "Transferir seguimiento"
+  ],
+  "flowtext": "La planificación conecta el problema con entregables, personas y decisiones. Un modelo actual validado debe preceder al diagnóstico y a la selección del cambio. El piloto necesita preparación operacional y condiciones de aceptación. Al concluir, la responsabilidad de seguimiento se transfiere de manera explícita para que la mejora no dependa de mantener abierto el proyecto indefinidamente.",
+  "case": "Caso ficticio: una empresa propone mejorar soporte en cuatro semanas, pero el analista solo puede participar dos días por semana y los datos no están consolidados. El plan debe ajustar alcance o plazo, asignar acceso a registros y programar validación con atención al cliente. Comprar una herramienta en la primera semana no sustituye el diagnóstico. El piloto necesita responsables de incidentes y una decisión de continuidad.",
+  "problem": "¿Qué compromisos deben revisarse antes de aprobar el calendario del caso?",
+  "solution": "Comprobar disponibilidad real, acceso y calidad de datos, dependencias, alcance y criterios de aceptación. Ajustar plazo o alcance con responsables; no equiparar compra de herramienta a diagnóstico o capacidad de implantar.",
+  "tasks": [
+    "Redacta una ficha de proyecto con problema, alcance, exclusiones y beneficio esperado.",
+    "Construye entregables, dependencias y responsables para un calendario realista.",
+    "Elabora tres riesgos con señal temprana, responsable y respuesta.",
+    "Define aceptación del piloto y transferencia al responsable del proceso."
+  ],
+  "summary": [
+    "Planifica alcance y capacidad reales.",
+    "Organiza entregables con aceptación y riesgos.",
+    "Transfiere la mejora a la operación."
+  ],
+  "source": "Jeston y Nelis (2014), Business Process Management: Practical Guidelines to Successful Implementations. Dumas et al. (2018), Fundamentals of Business Process Management.",
+  "questions": [
+    {
+      "q": "¿Qué debe explicar el alcance?",
+      "correct": "Qué se incluye y qué queda fuera",
+      "distractors": [
+        "Solo el nombre del proveedor",
+        "Una promesa de cambiar toda la empresa",
+        "Únicamente la fecha de cierre"
+      ],
+      "feedback": "Los límites permiten planificar y evaluar lo comprometido."
+    },
+    {
+      "q": "¿Qué diferencia dueño del proceso y responsable del proyecto?",
+      "correct": "Uno sostiene la operación; el otro coordina la intervención temporal",
+      "distractors": [
+        "Son necesariamente el mismo cargo en toda empresa",
+        "El dueño solo compra tecnología",
+        "El proyecto no necesita coordinación"
+      ],
+      "feedback": "Pueden coincidir en una persona, pero sus funciones no son equivalentes."
+    },
+    {
+      "q": "¿Qué condiciona un cronograma realista?",
+      "correct": "Dependencias y disponibilidad de participantes",
+      "distractors": [
+        "Suponer dedicación total sin acuerdo",
+        "La fecha del anuncio comercial",
+        "Solo la duración de instalación"
+      ],
+      "feedback": "La capacidad disponible debe corresponder al trabajo planificado."
+    },
+    {
+      "q": "¿Qué conviene validar antes del diagnóstico?",
+      "correct": "La descripción y evidencia del estado actual",
+      "distractors": [
+        "La compra completa del sistema",
+        "La celebración del cierre",
+        "Solo el logotipo del proyecto"
+      ],
+      "feedback": "El diagnóstico necesita una base confiable."
+    },
+    {
+      "q": "¿Qué debe contener un riesgo gestionable?",
+      "correct": "Señal, responsable y respuesta",
+      "distractors": [
+        "Solo una frase genérica de preocupación",
+        "Una garantía de que nunca ocurrirá",
+        "Un número sin interpretación"
+      ],
+      "feedback": "El registro debe orientar acciones concretas."
+    },
+    {
+      "q": "¿Qué es un criterio de aceptación?",
+      "correct": "Condición observable para aprobar un entregable o resultado",
+      "distractors": [
+        "Una opinión que nunca puede comprobarse",
+        "El entusiasmo de la reunión",
+        "La cantidad de archivos guardados"
+      ],
+      "feedback": "La aceptación necesita evidencia definida previamente."
+    },
+    {
+      "q": "¿Qué evita usar clientes como probadores involuntarios?",
+      "correct": "Preparación, pruebas y transición controlada",
+      "distractors": [
+        "Lanzar sin revisar excepciones",
+        "Ocultar todos los incidentes",
+        "Cambiar producción sin responsable"
+      ],
+      "feedback": "La puesta en marcha debe cuidar continuidad y servicio."
+    },
+    {
+      "q": "¿Qué debe ocurrir al cerrar el proyecto?",
+      "correct": "Transferir seguimiento, soporte y conocimiento",
+      "distractors": [
+        "Eliminar indicadores y modelos",
+        "Suponer que el proceso ya no cambiará",
+        "Dejar toda responsabilidad sin asignar"
+      ],
+      "feedback": "El proceso continúa operando y requiere gestión posterior."
+    }
+  ]
+}

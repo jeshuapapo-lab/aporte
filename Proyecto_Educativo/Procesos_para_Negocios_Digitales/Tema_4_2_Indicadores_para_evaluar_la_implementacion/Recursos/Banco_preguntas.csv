@@ -1,0 +1,9 @@
+﻿Pregunta,A,B,C,D,Correcta,Retroalimentacion
+¿Qué convierte una medida en KPI?,Su relación seleccionada con un objetivo relevante,Que aparezca en un tablero de colores,Que sea fácil de contar aunque no importe,Que tenga un nombre en inglés,A,La importancia proviene de la decisión y el objetivo que apoya.
+18 respuestas dentro de plazo de 20 evaluables equivalen a…,18 %,90 %,95 %,9 %,B,La tasa usa dieciocho dividido para veinte y multiplicado por cien.
+Cuatro correcciones entre 50 casos completados equivalen a…,4 %,"12,5 %",8 %,46 %,C,La fórmula requiere conservar el denominador del grupo definido.
+¿Qué debe precisar una medida de tiempo?,Solo el promedio final,Únicamente el nombre del sistema,La meta sin unidad,"Inicio, fin y calendario de medición",D,Sin eventos y calendario el tiempo puede significar cosas distintas.
+¿Qué debe hacerse con casos abiertos?,Aplicar una regla explícita y revisar si su plazo ya es evaluable,Excluirlos siempre aunque estén vencidos,Contarlos siempre como resueltos,Mezclarlos sin conocer fechas,A,El tratamiento afecta el denominador y puede sesgar resultados.
+¿Qué riesgo tiene premiar solo cierres rápidos?,Garantizar calidad en todos los casos,Cerrar sin resolver y aumentar reaperturas,Eliminar toda variación de demanda,Hacer innecesarias medidas de calidad,B,Los incentivos deben revisarse con medidas de equilibrio.
+¿Qué debe acompañar un umbral de alerta?,Solo una celda roja sin explicación,La eliminación de datos adversos,Responsable y acción de revisión,Una meta universal inventada,C,La medición sirve para actuar con responsabilidades claras.
+¿Qué puede romper la comparabilidad de períodos?,Conservar eventos de inicio y fin,Documentar las exclusiones,Mantener el origen del dato,Cambiar definición o mezcla de casos sin explicarlo,D,Las condiciones y definiciones deben considerarse al interpretar variaciones.

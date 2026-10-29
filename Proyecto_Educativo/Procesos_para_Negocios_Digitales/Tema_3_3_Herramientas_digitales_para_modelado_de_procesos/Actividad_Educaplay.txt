@@ -1,0 +1,79 @@
+ACTIVIDAD PREPARADA PARA EDUCAPLAY — SIN PUBLICAR
+Procesos para Negocios Digitales · 3.3 · Herramientas digitales para modelado de procesos
+Objetivo: Comparar herramientas de modelado por propósito, interoperabilidad y colaboración, comprobando sus límites con una prueba práctica.
+Tipo propuesto: cuestionario de opción múltiple. Ocho preguntas, una respuesta correcta, un punto por acierto, sin descuento ni límite de tiempo. Referencia de práctica: seis de ocho. Estas son propuestas didácticas.
+Instrucciones: elige una respuesta y revisa la explicación. El caso y los datos son ficticios.
+
+1. ¿Qué debe definirse antes de elegir un modelador?
+   A) Propósito, usuarios y requisitos
+   B) La herramienta más anunciada
+   C) La gratuidad eterna de cualquier plan
+   D) La cantidad máxima de iconos
+Correcta: A
+Retroalimentación: La selección depende del trabajo que debe apoyar.
+
+2. ¿Qué limitación tiene entregar solo una imagen?
+   A) Garantiza ejecutar el proceso
+   B) Puede perderse la estructura editable del modelo
+   C) Conserva siempre todas las condiciones formales
+   D) Resuelve automáticamente versiones
+Correcta: B
+Retroalimentación: Visualización y estructura editable son cosas distintas.
+
+3. ¿Qué archivo puede conservar elementos y relaciones BPMN?
+   A) Solo una captura JPEG
+   B) Un audio sin metadatos del modelo
+   C) XML conforme al estándar BPMN
+   D) Una fotografía del monitor
+Correcta: C
+Retroalimentación: El intercambio estructurado necesita más que una vista rasterizada.
+
+4. ¿Por qué debe probarse la importación?
+   A) Porque el estándar garantiza idéntica apariencia siempre
+   B) Porque todas las funciones son equivalentes
+   C) Porque importar elimina las condiciones
+   D) Por posibles diferencias y extensiones entre herramientas
+Correcta: D
+Retroalimentación: La interoperabilidad debe comprobarse con el modelo concreto.
+
+5. ¿Qué necesita una especificación ejecutable?
+   A) Reglas y datos suficientes para el motor elegido
+   B) Solo una imagen con flechas
+   C) Únicamente una lista de participantes
+   D) Un archivo grande sin estructura
+Correcta: A
+Retroalimentación: La ejecución exige detalle y compatibilidad adicionales.
+
+6. ¿Qué debe revisarse respecto del costo?
+   A) Suponer que todo será gratuito para siempre
+   B) Las funciones disponibles en la versión y plan reales
+   C) Solo el precio de un anuncio antiguo
+   D) Ignorar condiciones de almacenamiento
+Correcta: B
+Retroalimentación: Funciones y licencias pueden variar y requieren verificación.
+
+7. ¿Qué no resuelve por sí solo un enlace compartido?
+   A) La posibilidad de acceder si hay permisos
+   B) La existencia de una dirección de recurso
+   C) Aprobación de cambios y control de versiones
+   D) La necesidad de revisar quién lo usa
+Correcta: C
+Retroalimentación: Colaborar requiere reglas, no solo acceso técnico.
+
+8. ¿Qué datos son apropiados para una prueba no autorizada en un servicio externo?
+   A) Datos personales reales de clientes
+   B) Contraseñas de producción
+   C) Documentos internos sin permiso
+   D) Datos ficticios sin información confidencial
+Correcta: D
+Retroalimentación: La prueba no debe exponer información que no se autorizó compartir.
+
+PUBLICACIÓN CON TU CUENTA AUTORIZADA
+1. Accede al sitio oficial https://www.educaplay.com/ e inicia sesión.
+2. Crea un cuestionario de opciones múltiples y copia título, objetivo e instrucciones. La interfaz y funciones pueden variar con la cuenta.
+3. Incorpora las ocho preguntas, sus opciones y su respuesta correcta. Añade retroalimentación si el formato lo permite.
+4. Configura español y las opciones de evaluación disponibles. El CSV adjunto es auxiliar, no un formato de importación verificado del servicio.
+5. Recorre una vista de prueba completa, revisando aciertos, errores y puntuación.
+6. Publica con la privacidad elegida y copia el enlace real de compartir. Verifica su acceso con permisos de estudiante.
+Enlace de actividad publicada: no disponible; no se accedió a una cuenta de Educaplay. No se inventa un enlace.
+Práctica local funcional: Actividad_Interactiva.html. Es independiente de Educaplay.

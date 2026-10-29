@@ -17,22 +17,22 @@ El usuario solicitó desarrollar **todos los subtemas de ambos sílabos**. No qu
 | Negocios Electrónicos | 3. Sistemas para Mypes y Pymes y valor financiero de los sistemas electrónicos | 3.3 | Integraciones rentables de software y hardware | PPTX, MP4, MP3, DOCX y Educaplay | Generado y verificado |
 | Negocios Electrónicos | 3. Sistemas para Mypes y Pymes y valor financiero de los sistemas electrónicos | 3.4 | Sistemas de pago y documentos electrónicos | PPTX, MP4, MP3, DOCX y Educaplay | Generado y verificado |
 | Negocios Electrónicos | 4. Sistemas para negocios globales y negocios móviles | 4.1 | Internacionalización de los negocios electrónicos | PPTX, MP4, MP3, DOCX y Educaplay | Generado y verificado |
-| Negocios Electrónicos | 4. Sistemas para negocios globales y negocios móviles | 4.2 | Aplicaciones para negocios móviles | PPTX, MP4, MP3, DOCX y Educaplay | En producción |
-| Procesos para Negocios Digitales | 1. Introducción del BPM | 1.1 | Generalidades del BPM | PPTX, MP4, MP3, DOCX y Educaplay | En producción |
-| Procesos para Negocios Digitales | 1. Introducción del BPM | 1.2 | Beneficios del BPM en los negocios digitales | PPTX, MP4, MP3, DOCX y Educaplay | En producción |
-| Procesos para Negocios Digitales | 1. Introducción del BPM | 1.3 | Certificaciones | PPTX, MP4, MP3, DOCX y Educaplay | En producción |
-| Procesos para Negocios Digitales | 1. Introducción del BPM | 1.4 | Ciclo de vida general del BPM | PPTX, MP4, MP3, DOCX y Educaplay | En producción |
-| Procesos para Negocios Digitales | 2. Estructura del BPM | 2.1 | Componentes clave del BPM | PPTX, MP4, MP3, DOCX y Educaplay | En producción |
-| Procesos para Negocios Digitales | 2. Estructura del BPM | 2.2 | Fases del ciclo de vida del BPM | PPTX, MP4, MP3, DOCX y Educaplay | En producción |
-| Procesos para Negocios Digitales | 2. Estructura del BPM | 2.3 | Rol del BPM en la mejora continua | PPTX, MP4, MP3, DOCX y Educaplay | En producción |
-| Procesos para Negocios Digitales | 3. Técnicas de modelado de procesos | 3.1 | Importancia del modelado en la gestión de procesos | PPTX, MP4, MP3, DOCX y Educaplay | En producción |
-| Procesos para Negocios Digitales | 3. Técnicas de modelado de procesos | 3.2 | Buenas prácticas de modelado | PPTX, MP4, MP3, DOCX y Educaplay | En producción |
-| Procesos para Negocios Digitales | 3. Técnicas de modelado de procesos | 3.3 | Herramientas digitales para modelado de procesos | PPTX, MP4, MP3, DOCX y Educaplay | En producción |
-| Procesos para Negocios Digitales | 3. Técnicas de modelado de procesos | 3.4 | Análisis y diagnóstico de procesos existentes y rediseño de procesos | PPTX, MP4, MP3, DOCX y Educaplay | En producción |
-| Procesos para Negocios Digitales | 4. Implementación del BPM | 4.1 | Planificación de un proyecto BPM | PPTX, MP4, MP3, DOCX y Educaplay | En producción |
-| Procesos para Negocios Digitales | 4. Implementación del BPM | 4.2 | Indicadores para evaluar la implementación | PPTX, MP4, MP3, DOCX y Educaplay | En producción |
-| Procesos para Negocios Digitales | 4. Implementación del BPM | 4.3 | Evaluación y selección de procesos a mejorar | PPTX, MP4, MP3, DOCX y Educaplay | En producción |
-| Procesos para Negocios Digitales | 4. Implementación del BPM | 4.4 | Estudio de caso | PPTX, MP4, MP3, DOCX y Educaplay | En producción |
+| Negocios Electrónicos | 4. Sistemas para negocios globales y negocios móviles | 4.2 | Aplicaciones para negocios móviles | PPTX, MP4, MP3, DOCX y Educaplay | Generado y verificado |
+| Procesos para Negocios Digitales | 1. Introducción del BPM | 1.1 | Generalidades del BPM | PPTX, MP4, MP3, DOCX y Educaplay | Generado y verificado |
+| Procesos para Negocios Digitales | 1. Introducción del BPM | 1.2 | Beneficios del BPM en los negocios digitales | PPTX, MP4, MP3, DOCX y Educaplay | Generado y verificado |
+| Procesos para Negocios Digitales | 1. Introducción del BPM | 1.3 | Certificaciones | PPTX, MP4, MP3, DOCX y Educaplay | Generado y verificado |
+| Procesos para Negocios Digitales | 1. Introducción del BPM | 1.4 | Ciclo de vida general del BPM | PPTX, MP4, MP3, DOCX y Educaplay | Generado y verificado |
+| Procesos para Negocios Digitales | 2. Estructura del BPM | 2.1 | Componentes clave del BPM | PPTX, MP4, MP3, DOCX y Educaplay | Generado y verificado |
+| Procesos para Negocios Digitales | 2. Estructura del BPM | 2.2 | Fases del ciclo de vida del BPM | PPTX, MP4, MP3, DOCX y Educaplay | Generado y verificado |
+| Procesos para Negocios Digitales | 2. Estructura del BPM | 2.3 | Rol del BPM en la mejora continua | PPTX, MP4, MP3, DOCX y Educaplay | Generado y verificado |
+| Procesos para Negocios Digitales | 3. Técnicas de modelado de procesos | 3.1 | Importancia del modelado en la gestión de procesos | PPTX, MP4, MP3, DOCX y Educaplay | Generado y verificado |
+| Procesos para Negocios Digitales | 3. Técnicas de modelado de procesos | 3.2 | Buenas prácticas de modelado | PPTX, MP4, MP3, DOCX y Educaplay | Generado y verificado |
+| Procesos para Negocios Digitales | 3. Técnicas de modelado de procesos | 3.3 | Herramientas digitales para modelado de procesos | PPTX, MP4, MP3, DOCX y Educaplay | Generado y verificado |
+| Procesos para Negocios Digitales | 3. Técnicas de modelado de procesos | 3.4 | Análisis y diagnóstico de procesos existentes y rediseño de procesos | PPTX, MP4, MP3, DOCX y Educaplay | Generado y verificado |
+| Procesos para Negocios Digitales | 4. Implementación del BPM | 4.1 | Planificación de un proyecto BPM | PPTX, MP4, MP3, DOCX y Educaplay | Generado y verificado |
+| Procesos para Negocios Digitales | 4. Implementación del BPM | 4.2 | Indicadores para evaluar la implementación | PPTX, MP4, MP3, DOCX y Educaplay | Generado y verificado |
+| Procesos para Negocios Digitales | 4. Implementación del BPM | 4.3 | Evaluación y selección de procesos a mejorar | PPTX, MP4, MP3, DOCX y Educaplay | Generado y verificado |
+| Procesos para Negocios Digitales | 4. Implementación del BPM | 4.4 | Estudio de caso | PPTX, MP4, MP3, DOCX y Educaplay | Generado y verificado |
 
 ## Resultados de aprendizaje de las unidades
 
