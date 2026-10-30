@@ -1,9 +1,0 @@
-﻿Pregunta,A,B,C,D,Correcta,Retroalimentacion
-¿Qué figura representa una actividad BPMN?,Rectángulo con esquinas redondeadas,Círculo de evento,Rombo de pasarela,Flecha de mensaje,A,Las formas tienen significado y no deben intercambiarse por apariencia.
-¿Qué nombre describe mejor una actividad?,Gestión,Verificar solicitud,Departamento técnico,Solicitud completa,B,Verbo y objeto expresan trabajo de forma clara.
-¿Qué pasarela corresponde a elegir completa o incompleta?,Paralela de apertura de todas las ramas,Un evento final por sí solo,Exclusiva,Un carril sin condición,C,Se selecciona una alternativa según la condición.
-¿Qué riesgo tiene reunir alternativas con una unión paralela?,Seleccionar automáticamente la condición correcta,Eliminar toda espera,Convertir mensajes en tareas,Esperar una rama que nunca se activó,D,La sincronización paralela no corresponde a rutas mutuamente excluyentes.
-¿Qué conecta un flujo de secuencia?,Elementos dentro de un mismo pool,Participantes de pools distintos,Solo dos documentos,Cualquier sistema externo por definición,A,La secuencia describe control dentro del participante.
-¿Qué representa un flujo de mensaje?,Siempre orden interno de tareas,Comunicación entre participantes distintos,Una unión de ramas paralelas,Un reemplazo del evento final,B,El mensaje tiene un significado distinto de la secuencia.
-¿Qué debería comprobar una revisión de comportamiento?,Únicamente los colores del dibujo,Solo que el archivo pese poco,"Casos que empiezan, avanzan y terminan sin esperas imposibles",El número máximo de símbolos,C,La revisión debe recorrer escenarios y sus condiciones.
-¿Qué no garantiza una validación sintáctica?,Que ciertos errores formales puedan detectarse,Que existan reglas de la notación,Que deba revisarse el comportamiento,Que el modelo represente correctamente el negocio,D,Corrección formal y adecuación al negocio son verificaciones diferentes.

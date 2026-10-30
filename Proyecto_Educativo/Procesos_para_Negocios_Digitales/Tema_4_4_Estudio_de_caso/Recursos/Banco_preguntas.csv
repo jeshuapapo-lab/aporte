@@ -1,9 +1,0 @@
-﻿Pregunta,A,B,C,D,Correcta,Retroalimentacion
-¿Cuál es el alcance del proceso del caso?,Desde recibir la solicitud hasta comunicar una respuesta útil,Solo instalar un sistema,Desde contratar al equipo hasta cerrar la empresa,Únicamente pulsar enviar,A,Los límites deben corresponder al resultado definido para el destinatario.
-80 casos de 30 horas y 20 de 80 dan promedio de…,55 horas,40 horas,30 horas,80 horas,B,La media ponderada es (80×30+20×80)/100.
-95 casos de 20 horas y cinco de 100 dan promedio de…,60 horas,20 horas,24 horas,95 horas,C,La media ponderada es (95×20+5×100)/100.
-El promedio de 40 a 24 horas baja relativamente…,16 %,24 %,60 %,40 %,D,La disminución de dieciséis se divide para cuarenta.
-La corrección de 12 % a 5 % disminuye…,Siete puntos porcentuales,Siete por ciento relativo,Doce puntos porcentuales,Cincuenta puntos porcentuales,A,La diferencia directa entre tasas es siete puntos porcentuales.
-¿Qué cumplimiento de 48 horas tiene el período futuro simulado?,100 %,95 %,80 %,24 %,B,Noventa y cinco casos duran veinte horas y cinco superan el plazo.
-¿Qué demuestra que el promedio no cuenta toda la historia?,Que todos los casos futuros son iguales,Que no existen datos de tiempo,Cinco casos futuros llegan a cien horas,Que la media es imposible de calcular,C,Las excepciones permanecen relevantes aunque mejore el resultado agregado.
-¿Qué límite debe declararse?,La simulación garantiza éxito universal,Los KPI eliminan toda incertidumbre,El diagrama confirma cualquier hipótesis,Los datos simulados no prueban causalidad en una empresa real,D,"La evidencia del ejercicio permite practicar, no atribuir resultados reales."

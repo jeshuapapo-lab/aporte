@@ -1,9 +1,0 @@
-﻿Pregunta,A,B,C,D,Correcta,Retroalimentacion
-¿Qué necesita un diagnóstico además de decir lento?,"Ubicación, efecto y evidencia del problema",Una plataforma ya elegida,Una opinión sin casos,Un único responsable culpable por defecto,A,El análisis debe precisar qué ocurre y con qué magnitud.
-Cuatro horas de trabajo y 36 de espera dan un ciclo de…,36 horas de ciclo total,40 horas,4 horas de ciclo total,9 horas,B,El tiempo transcurrido incluye trabajo y espera dentro de los límites definidos.
-Pasar de 40 a 24 horas supone reducción prevista de…,16 %,60 %,40 %,24 %,C,La disminución de dieciséis se divide para la base de cuarenta.
-¿Qué parte cambia en el ejemplo?,"El trabajo, de cuatro a cero",Todas las actividades desaparecen,El período medido deja de existir,"La espera, de 36 a 20 horas",D,"El mecanismo propuesto reduce espera, no elimina el trabajo."
-¿Qué debe hacerse con una hipótesis de causa?,Contrastar con observación y datos,Tratarla siempre como hecho,Descartar toda evidencia contraria,Confundirla con una solución elegida,A,Las hipótesis orientan investigación y pueden ser refutadas.
-¿Qué relación tiene automatización con rediseño?,Son sinónimos exactos,"Es una alternativa posible, no su definición",Siempre es la única opción válida,Nunca puede formar parte de una mejora,B,"Rediseñar puede modificar reglas, coordinación y tareas sin automatizar todo."
-¿Qué distingue resultado esperado y observado?,Ambos son iguales antes del piloto,El esperado demuestra causalidad,El observado procede de la operación medida,El observado no necesita condiciones,C,Una previsión debe comprobarse antes de presentarse como logro.
-¿Qué debe acompañar reducir tiempo?,Eliminar indicadores de error,Contar solo casos fáciles,Omitir condiciones del período,"Revisión de calidad, carga y efectos en otras etapas",D,Una mejora parcial puede desplazar o empeorar el problema.

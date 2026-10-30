@@ -1,0 +1,90 @@
+[
+  {
+    "id": "NE_U1",
+    "slides": 42,
+    "all_original_slide_shapes_and_text_preserved": true,
+    "workshop_pages": 5,
+    "workshop_exercises": 16,
+    "group_roles": 5,
+    "peer_review": true,
+    "contribution_record": true,
+    "rubric_points": 20
+  },
+  {
+    "id": "NE_U2",
+    "slides": 22,
+    "all_original_slide_shapes_and_text_preserved": true,
+    "workshop_pages": 4,
+    "workshop_exercises": 8,
+    "group_roles": 5,
+    "peer_review": true,
+    "contribution_record": true,
+    "rubric_points": 20
+  },
+  {
+    "id": "NE_U3",
+    "slides": 42,
+    "all_original_slide_shapes_and_text_preserved": true,
+    "workshop_pages": 5,
+    "workshop_exercises": 16,
+    "group_roles": 5,
+    "peer_review": true,
+    "contribution_record": true,
+    "rubric_points": 20
+  },
+  {
+    "id": "NE_U4",
+    "slides": 22,
+    "all_original_slide_shapes_and_text_preserved": true,
+    "workshop_pages": 4,
+    "workshop_exercises": 8,
+    "group_roles": 5,
+    "peer_review": true,
+    "contribution_record": true,
+    "rubric_points": 20
+  },
+  {
+    "id": "PND_U1",
+    "slides": 42,
+    "all_original_slide_shapes_and_text_preserved": true,
+    "workshop_pages": 5,
+    "workshop_exercises": 16,
+    "group_roles": 5,
+    "peer_review": true,
+    "contribution_record": true,
+    "rubric_points": 20
+  },
+  {
+    "id": "PND_U2",
+    "slides": 32,
+    "all_original_slide_shapes_and_text_preserved": true,
+    "workshop_pages": 5,
+    "workshop_exercises": 12,
+    "group_roles": 5,
+    "peer_review": true,
+    "contribution_record": true,
+    "rubric_points": 20
+  },
+  {
+    "id": "PND_U3",
+    "slides": 42,
+    "all_original_slide_shapes_and_text_preserved": true,
+    "workshop_pages": 5,
+    "workshop_exercises": 16,
+    "group_roles": 5,
+    "peer_review": true,
+    "contribution_record": true,
+    "rubric_points": 20
+  },
+  {
+    "id": "PND_U4",
+    "slides": 42,
+    "all_original_slide_shapes_and_text_preserved": true,
+    "workshop_pages": 6,
+    "workshop_exercises": 16,
+    "group_roles": 5,
+    "peer_review": true,
+    "contribution_record": true,
+    "rubric_points": 20
+  }
+]

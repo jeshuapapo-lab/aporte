@@ -1,0 +1,28 @@
+ENTREGA ORGANIZADA POR UNIDADES
+
+1. Extrae todo el ZIP.
+2. Abre 00_Indice.html para elegir una materia y una unidad.
+3. También puedes abrir las carpetas: materia / unidad con su nombre completo.
+
+CADA UNIDAD CONTIENE CINCO ARCHIVOS PRINCIPALES:
+- Presentacion.pptx: material completo y editable de todas sus secciones.
+- Video.mp4: explicación con capítulos identificados por número y nombre de sección.
+- Audio.mp3: explicación de todas sus secciones, con capítulos identificados.
+- Taller_grupal.docx: roles, casos y ejercicios por sección, revisión entre compañeros,
+  producto común, defensa, contribuciones y rúbrica grupal de 20 puntos propuesta.
+- Educaplay.html: acceso a los perfiles asignados por sección y práctica complementaria
+  funcional con todas las preguntas preparadas de esa unidad.
+
+Los nombres llevan materia abreviada, número y nombre de unidad y rango de secciones.
+El índice indica dónde empieza cada sección en la presentación, el video y el audio.
+La unidad 4 de Procesos incluye además Recursos con el CSV de datos simulados
+del estudio de caso; el propio taller contiene un cuadro de datos suficiente para resolverlo.
+
+EDUCAPLAY: se recibieron seis enlaces de perfiles, no los enlaces de cada juego.
+La asociación de cada sección a una cuenta sigue el reparto comunicado por el estudiante.
+La correspondencia y el contenido remoto de los juegos no se han podido comprobar desde
+este entorno. Las prácticas HTML son locales e independientes de Educaplay.
+
+Las voces son sintéticas neuronales en español. Los casos y datos son ficticios.
+Los 27 temas se mantienen completos dentro de las ocho unidades del sílabo.
+Los tiempos, equipos y rúbricas de los talleres son propuestas didácticas.

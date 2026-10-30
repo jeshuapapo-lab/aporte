@@ -1,0 +1,242 @@
+[
+  {
+    "id": "NE_U1",
+    "questions": 34,
+    "all_correct": true,
+    "all_wrong": true,
+    "keyboard": true,
+    "restart": true,
+    "mobile_no_horizontal_overflow": true,
+    "profile_links_match_received_assignment": true,
+    "remote_activity_correspondence_verified": false,
+    "javascript_errors": [],
+    "playback": {
+      "video": {
+        "duration": 908.544,
+        "currentTime": 0.221652,
+        "error": null,
+        "paused": false,
+        "width": 1920,
+        "height": 1080
+      },
+      "audio": {
+        "duration": 830.068685,
+        "currentTime": 0.210551,
+        "error": null,
+        "paused": false,
+        "width": null,
+        "height": null
+      }
+    }
+  },
+  {
+    "id": "NE_U2",
+    "questions": 16,
+    "all_correct": true,
+    "all_wrong": true,
+    "keyboard": true,
+    "restart": true,
+    "mobile_no_horizontal_overflow": true,
+    "profile_links_match_received_assignment": true,
+    "remote_activity_correspondence_verified": false,
+    "javascript_errors": [],
+    "playback": {
+      "video": {
+        "duration": 448.106,
+        "currentTime": 0.214697,
+        "error": null,
+        "paused": false,
+        "width": 1920,
+        "height": 1080
+      },
+      "audio": {
+        "duration": 421.125011,
+        "currentTime": 0.210856,
+        "error": null,
+        "paused": false,
+        "width": null,
+        "height": null
+      }
+    }
+  },
+  {
+    "id": "NE_U3",
+    "questions": 32,
+    "all_correct": true,
+    "all_wrong": true,
+    "keyboard": true,
+    "restart": true,
+    "mobile_no_horizontal_overflow": true,
+    "profile_links_match_received_assignment": true,
+    "remote_activity_correspondence_verified": false,
+    "javascript_errors": [],
+    "playback": {
+      "video": {
+        "duration": 894.101,
+        "currentTime": 0.213647,
+        "error": null,
+        "paused": false,
+        "width": 1920,
+        "height": 1080
+      },
+      "audio": {
+        "duration": 847.750045,
+        "currentTime": 0.212325,
+        "error": null,
+        "paused": false,
+        "width": null,
+        "height": null
+      }
+    }
+  },
+  {
+    "id": "NE_U4",
+    "questions": 16,
+    "all_correct": true,
+    "all_wrong": true,
+    "keyboard": true,
+    "restart": true,
+    "mobile_no_horizontal_overflow": true,
+    "profile_links_match_received_assignment": true,
+    "remote_activity_correspondence_verified": false,
+    "javascript_errors": [],
+    "playback": {
+      "video": {
+        "duration": 446.912,
+        "currentTime": 0.21543,
+        "error": null,
+        "paused": false,
+        "width": 1920,
+        "height": 1080
+      },
+      "audio": {
+        "duration": 419,
+        "currentTime": 0.208687,
+        "error": null,
+        "paused": false,
+        "width": null,
+        "height": null
+      }
+    }
+  },
+  {
+    "id": "PND_U1",
+    "questions": 32,
+    "all_correct": true,
+    "all_wrong": true,
+    "keyboard": true,
+    "restart": true,
+    "mobile_no_horizontal_overflow": true,
+    "profile_links_match_received_assignment": true,
+    "remote_activity_correspondence_verified": false,
+    "javascript_errors": [],
+    "playback": {
+      "video": {
+        "duration": 906.56,
+        "currentTime": 0.221426,
+        "error": null,
+        "paused": false,
+        "width": 1920,
+        "height": 1080
+      },
+      "audio": {
+        "duration": 845.541973,
+        "currentTime": 0.212156,
+        "error": null,
+        "paused": false,
+        "width": null,
+        "height": null
+      }
+    }
+  },
+  {
+    "id": "PND_U2",
+    "questions": 24,
+    "all_correct": true,
+    "all_wrong": true,
+    "keyboard": true,
+    "restart": true,
+    "mobile_no_horizontal_overflow": true,
+    "profile_links_match_received_assignment": true,
+    "remote_activity_correspondence_verified": false,
+    "javascript_errors": [],
+    "playback": {
+      "video": {
+        "duration": 677.056,
+        "currentTime": 0.217113,
+        "error": null,
+        "paused": false,
+        "width": 1920,
+        "height": 1080
+      },
+      "audio": {
+        "duration": 629.750544,
+        "currentTime": 0.21029,
+        "error": null,
+        "paused": false,
+        "width": null,
+        "height": null
+      }
+    }
+  },
+  {
+    "id": "PND_U3",
+    "questions": 32,
+    "all_correct": true,
+    "all_wrong": true,
+    "keyboard": true,
+    "restart": true,
+    "mobile_no_horizontal_overflow": true,
+    "profile_links_match_received_assignment": true,
+    "remote_activity_correspondence_verified": false,
+    "javascript_errors": [],
+    "playback": {
+      "video": {
+        "duration": 903.189,
+        "currentTime": 0.207465,
+        "error": null,
+        "paused": false,
+        "width": 1920,
+        "height": 1080
+      },
+      "audio": {
+        "duration": 839.833333,
+        "currentTime": 0.211876,
+        "error": null,
+        "paused": false,
+        "width": null,
+        "height": null
+      }
+    }
+  },
+  {
+    "id": "PND_U4",
+    "questions": 32,
+    "all_correct": true,
+    "all_wrong": true,
+    "keyboard": true,
+    "restart": true,
+    "mobile_no_horizontal_overflow": true,
+    "profile_links_match_received_assignment": true,
+    "remote_activity_correspondence_verified": false,
+    "javascript_errors": [],
+    "playback": {
+      "video": {
+        "duration": 916.714,
+        "currentTime": 0.214275,
+        "error": null,
+        "paused": false,
+        "width": 1920,
+        "height": 1080
+      },
+      "audio": {
+        "duration": 862.583379,
+        "currentTime": 0.210707,
+        "error": null,
+        "paused": false,
+        "width": null,
+        "height": null
+      }
+    }
+  }
+]

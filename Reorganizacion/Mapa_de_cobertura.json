@@ -1,0 +1,677 @@
+[
+  {
+    "materia": "Negocios Electrónicos",
+    "unidad": 1,
+    "nombre_unidad": "Estructura del negocio electrónico",
+    "seccion": "1.1",
+    "nombre_seccion": "Las páginas de inicio",
+    "carpeta": "Negocios_Electronicos/Unidad_1_Estructura_del_negocio_electronico",
+    "archivos": {
+      "pptx": "NE_U1_Estructura_del_negocio_electronico__1.1_a_1.4__Presentacion.pptx",
+      "video": "NE_U1_Estructura_del_negocio_electronico__1.1_a_1.4__Video.mp4",
+      "audio": "NE_U1_Estructura_del_negocio_electronico__1.1_a_1.4__Audio.mp3",
+      "workshop": "NE_U1_Estructura_del_negocio_electronico__1.1_a_1.4__Taller_grupal.docx",
+      "educaplay": "NE_U1_Estructura_del_negocio_electronico__1.1_a_1.4__Educaplay.html"
+    },
+    "diapositivas": {
+      "num": "1.1",
+      "title": "Las páginas de inicio",
+      "first": 3,
+      "last": 12
+    },
+    "video_inicio": 0.0,
+    "audio_inicio": 0.0,
+    "perfil_recibido": "https://es.educaplay.com/usuario/15461026-jeshua/",
+    "enlace_directo_verificado": false
+  },
+  {
+    "materia": "Negocios Electrónicos",
+    "unidad": 1,
+    "nombre_unidad": "Estructura del negocio electrónico",
+    "seccion": "1.2",
+    "nombre_seccion": "División por departamentos y categorías",
+    "carpeta": "Negocios_Electronicos/Unidad_1_Estructura_del_negocio_electronico",
+    "archivos": {
+      "pptx": "NE_U1_Estructura_del_negocio_electronico__1.1_a_1.4__Presentacion.pptx",
+      "video": "NE_U1_Estructura_del_negocio_electronico__1.1_a_1.4__Video.mp4",
+      "audio": "NE_U1_Estructura_del_negocio_electronico__1.1_a_1.4__Audio.mp3",
+      "workshop": "NE_U1_Estructura_del_negocio_electronico__1.1_a_1.4__Taller_grupal.docx",
+      "educaplay": "NE_U1_Estructura_del_negocio_electronico__1.1_a_1.4__Educaplay.html"
+    },
+    "diapositivas": {
+      "num": "1.2",
+      "title": "División por departamentos y categorías",
+      "first": 13,
+      "last": 22
+    },
+    "video_inicio": 218.125,
+    "audio_inicio": 197.198,
+    "perfil_recibido": "https://es.educaplay.com/usuario/15461026-jeshua/",
+    "enlace_directo_verificado": false
+  },
+  {
+    "materia": "Negocios Electrónicos",
+    "unidad": 1,
+    "nombre_unidad": "Estructura del negocio electrónico",
+    "seccion": "1.3",
+    "nombre_seccion": "Páginas de ventas y servicios",
+    "carpeta": "Negocios_Electronicos/Unidad_1_Estructura_del_negocio_electronico",
+    "archivos": {
+      "pptx": "NE_U1_Estructura_del_negocio_electronico__1.1_a_1.4__Presentacion.pptx",
+      "video": "NE_U1_Estructura_del_negocio_electronico__1.1_a_1.4__Video.mp4",
+      "audio": "NE_U1_Estructura_del_negocio_electronico__1.1_a_1.4__Audio.mp3",
+      "workshop": "NE_U1_Estructura_del_negocio_electronico__1.1_a_1.4__Taller_grupal.docx",
+      "educaplay": "NE_U1_Estructura_del_negocio_electronico__1.1_a_1.4__Educaplay.html"
+    },
+    "diapositivas": {
+      "num": "1.3",
+      "title": "Páginas de ventas y servicios",
+      "first": 23,
+      "last": 32
+    },
+    "video_inicio": 447.159,
+    "audio_inicio": 406.204,
+    "perfil_recibido": "https://es.educaplay.com/usuario/15461026-jeshua/",
+    "enlace_directo_verificado": false
+  },
+  {
+    "materia": "Negocios Electrónicos",
+    "unidad": 1,
+    "nombre_unidad": "Estructura del negocio electrónico",
+    "seccion": "1.4",
+    "nombre_seccion": "Aspectos institucionales",
+    "carpeta": "Negocios_Electronicos/Unidad_1_Estructura_del_negocio_electronico",
+    "archivos": {
+      "pptx": "NE_U1_Estructura_del_negocio_electronico__1.1_a_1.4__Presentacion.pptx",
+      "video": "NE_U1_Estructura_del_negocio_electronico__1.1_a_1.4__Video.mp4",
+      "audio": "NE_U1_Estructura_del_negocio_electronico__1.1_a_1.4__Audio.mp3",
+      "workshop": "NE_U1_Estructura_del_negocio_electronico__1.1_a_1.4__Taller_grupal.docx",
+      "educaplay": "NE_U1_Estructura_del_negocio_electronico__1.1_a_1.4__Educaplay.html"
+    },
+    "diapositivas": {
+      "num": "1.4",
+      "title": "Aspectos institucionales",
+      "first": 33,
+      "last": 42
+    },
+    "video_inicio": 673.633,
+    "audio_inicio": 614.374,
+    "perfil_recibido": "https://es.educaplay.com/usuario/15461026-jeshua/",
+    "enlace_directo_verificado": false
+  },
+  {
+    "materia": "Negocios Electrónicos",
+    "unidad": 2,
+    "nombre_unidad": "Sistemas empresariales electrónicos integrales",
+    "seccion": "2.1",
+    "nombre_seccion": "Tecnología en la gestión de cadena de valor",
+    "carpeta": "Negocios_Electronicos/Unidad_2_Sistemas_empresariales_electronicos_integrales",
+    "archivos": {
+      "pptx": "NE_U2_Sistemas_empresariales_electronicos_integrales__2.1_a_2.2__Presentacion.pptx",
+      "video": "NE_U2_Sistemas_empresariales_electronicos_integrales__2.1_a_2.2__Video.mp4",
+      "audio": "NE_U2_Sistemas_empresariales_electronicos_integrales__2.1_a_2.2__Audio.mp3",
+      "workshop": "NE_U2_Sistemas_empresariales_electronicos_integrales__2.1_a_2.2__Taller_grupal.docx",
+      "educaplay": "NE_U2_Sistemas_empresariales_electronicos_integrales__2.1_a_2.2__Educaplay.html"
+    },
+    "diapositivas": {
+      "num": "2.1",
+      "title": "Tecnología en la gestión de cadena de valor",
+      "first": 3,
+      "last": 12
+    },
+    "video_inicio": 0.0,
+    "audio_inicio": 0.0,
+    "perfil_recibido": "https://es.educaplay.com/usuario/15461026-jeshua/",
+    "enlace_directo_verificado": false
+  },
+  {
+    "materia": "Negocios Electrónicos",
+    "unidad": 2,
+    "nombre_unidad": "Sistemas empresariales electrónicos integrales",
+    "seccion": "2.2",
+    "nombre_seccion": "Metodología CRM",
+    "carpeta": "Negocios_Electronicos/Unidad_2_Sistemas_empresariales_electronicos_integrales",
+    "archivos": {
+      "pptx": "NE_U2_Sistemas_empresariales_electronicos_integrales__2.1_a_2.2__Presentacion.pptx",
+      "video": "NE_U2_Sistemas_empresariales_electronicos_integrales__2.1_a_2.2__Video.mp4",
+      "audio": "NE_U2_Sistemas_empresariales_electronicos_integrales__2.1_a_2.2__Audio.mp3",
+      "workshop": "NE_U2_Sistemas_empresariales_electronicos_integrales__2.1_a_2.2__Taller_grupal.docx",
+      "educaplay": "NE_U2_Sistemas_empresariales_electronicos_integrales__2.1_a_2.2__Educaplay.html"
+    },
+    "diapositivas": {
+      "num": "2.2",
+      "title": "Metodología CRM",
+      "first": 13,
+      "last": 22
+    },
+    "video_inicio": 225.493,
+    "audio_inicio": 210.651,
+    "perfil_recibido": "https://es.educaplay.com/usuario/15461174-host/",
+    "enlace_directo_verificado": false
+  },
+  {
+    "materia": "Negocios Electrónicos",
+    "unidad": 3,
+    "nombre_unidad": "Sistemas para Mypes y Pymes y valor financiero de los sistemas electrónicos",
+    "seccion": "3.1",
+    "nombre_seccion": "Diferentes sistemas para Mypes y Pymes",
+    "carpeta": "Negocios_Electronicos/Unidad_3_Sistemas_para_Mypes_y_Pymes_y_valor_financiero_de_los_sistemas_electronicos",
+    "archivos": {
+      "pptx": "NE_U3_Sistemas_para_Mypes_y_Pymes_y_valor_financiero_de_los_sistemas_electronicos__3.1_a_3.4__Presentacion.pptx",
+      "video": "NE_U3_Sistemas_para_Mypes_y_Pymes_y_valor_financiero_de_los_sistemas_electronicos__3.1_a_3.4__Video.mp4",
+      "audio": "NE_U3_Sistemas_para_Mypes_y_Pymes_y_valor_financiero_de_los_sistemas_electronicos__3.1_a_3.4__Audio.mp3",
+      "workshop": "NE_U3_Sistemas_para_Mypes_y_Pymes_y_valor_financiero_de_los_sistemas_electronicos__3.1_a_3.4__Taller_grupal.docx",
+      "educaplay": "NE_U3_Sistemas_para_Mypes_y_Pymes_y_valor_financiero_de_los_sistemas_electronicos__3.1_a_3.4__Educaplay.html"
+    },
+    "diapositivas": {
+      "num": "3.1",
+      "title": "Diferentes sistemas para Mypes y Pymes",
+      "first": 3,
+      "last": 12
+    },
+    "video_inicio": 0.0,
+    "audio_inicio": 0.0,
+    "perfil_recibido": "https://es.educaplay.com/usuario/15461174-host/",
+    "enlace_directo_verificado": false
+  },
+  {
+    "materia": "Negocios Electrónicos",
+    "unidad": 3,
+    "nombre_unidad": "Sistemas para Mypes y Pymes y valor financiero de los sistemas electrónicos",
+    "seccion": "3.2",
+    "nombre_seccion": "Rendimiento financiero de los negocios electrónicos",
+    "carpeta": "Negocios_Electronicos/Unidad_3_Sistemas_para_Mypes_y_Pymes_y_valor_financiero_de_los_sistemas_electronicos",
+    "archivos": {
+      "pptx": "NE_U3_Sistemas_para_Mypes_y_Pymes_y_valor_financiero_de_los_sistemas_electronicos__3.1_a_3.4__Presentacion.pptx",
+      "video": "NE_U3_Sistemas_para_Mypes_y_Pymes_y_valor_financiero_de_los_sistemas_electronicos__3.1_a_3.4__Video.mp4",
+      "audio": "NE_U3_Sistemas_para_Mypes_y_Pymes_y_valor_financiero_de_los_sistemas_electronicos__3.1_a_3.4__Audio.mp3",
+      "workshop": "NE_U3_Sistemas_para_Mypes_y_Pymes_y_valor_financiero_de_los_sistemas_electronicos__3.1_a_3.4__Taller_grupal.docx",
+      "educaplay": "NE_U3_Sistemas_para_Mypes_y_Pymes_y_valor_financiero_de_los_sistemas_electronicos__3.1_a_3.4__Educaplay.html"
+    },
+    "diapositivas": {
+      "num": "3.2",
+      "title": "Rendimiento financiero de los negocios electrónicos",
+      "first": 13,
+      "last": 22
+    },
+    "video_inicio": 218.922,
+    "audio_inicio": 202.736,
+    "perfil_recibido": "https://es.educaplay.com/usuario/15461174-host/",
+    "enlace_directo_verificado": false
+  },
+  {
+    "materia": "Negocios Electrónicos",
+    "unidad": 3,
+    "nombre_unidad": "Sistemas para Mypes y Pymes y valor financiero de los sistemas electrónicos",
+    "seccion": "3.3",
+    "nombre_seccion": "Integraciones rentables de software y hardware",
+    "carpeta": "Negocios_Electronicos/Unidad_3_Sistemas_para_Mypes_y_Pymes_y_valor_financiero_de_los_sistemas_electronicos",
+    "archivos": {
+      "pptx": "NE_U3_Sistemas_para_Mypes_y_Pymes_y_valor_financiero_de_los_sistemas_electronicos__3.1_a_3.4__Presentacion.pptx",
+      "video": "NE_U3_Sistemas_para_Mypes_y_Pymes_y_valor_financiero_de_los_sistemas_electronicos__3.1_a_3.4__Video.mp4",
+      "audio": "NE_U3_Sistemas_para_Mypes_y_Pymes_y_valor_financiero_de_los_sistemas_electronicos__3.1_a_3.4__Audio.mp3",
+      "workshop": "NE_U3_Sistemas_para_Mypes_y_Pymes_y_valor_financiero_de_los_sistemas_electronicos__3.1_a_3.4__Taller_grupal.docx",
+      "educaplay": "NE_U3_Sistemas_para_Mypes_y_Pymes_y_valor_financiero_de_los_sistemas_electronicos__3.1_a_3.4__Educaplay.html"
+    },
+    "diapositivas": {
+      "num": "3.3",
+      "title": "Integraciones rentables de software y hardware",
+      "first": 23,
+      "last": 32
+    },
+    "video_inicio": 441.898,
+    "audio_inicio": 422.321,
+    "perfil_recibido": "https://es.educaplay.com/usuario/15461174-host/",
+    "enlace_directo_verificado": false
+  },
+  {
+    "materia": "Negocios Electrónicos",
+    "unidad": 3,
+    "nombre_unidad": "Sistemas para Mypes y Pymes y valor financiero de los sistemas electrónicos",
+    "seccion": "3.4",
+    "nombre_seccion": "Sistemas de pago y documentos electrónicos",
+    "carpeta": "Negocios_Electronicos/Unidad_3_Sistemas_para_Mypes_y_Pymes_y_valor_financiero_de_los_sistemas_electronicos",
+    "archivos": {
+      "pptx": "NE_U3_Sistemas_para_Mypes_y_Pymes_y_valor_financiero_de_los_sistemas_electronicos__3.1_a_3.4__Presentacion.pptx",
+      "video": "NE_U3_Sistemas_para_Mypes_y_Pymes_y_valor_financiero_de_los_sistemas_electronicos__3.1_a_3.4__Video.mp4",
+      "audio": "NE_U3_Sistemas_para_Mypes_y_Pymes_y_valor_financiero_de_los_sistemas_electronicos__3.1_a_3.4__Audio.mp3",
+      "workshop": "NE_U3_Sistemas_para_Mypes_y_Pymes_y_valor_financiero_de_los_sistemas_electronicos__3.1_a_3.4__Taller_grupal.docx",
+      "educaplay": "NE_U3_Sistemas_para_Mypes_y_Pymes_y_valor_financiero_de_los_sistemas_electronicos__3.1_a_3.4__Educaplay.html"
+    },
+    "diapositivas": {
+      "num": "3.4",
+      "title": "Sistemas de pago y documentos electrónicos",
+      "first": 33,
+      "last": 42
+    },
+    "video_inicio": 665.215,
+    "audio_inicio": 633.312,
+    "perfil_recibido": "https://es.educaplay.com/usuario/15461174-host/",
+    "enlace_directo_verificado": false
+  },
+  {
+    "materia": "Negocios Electrónicos",
+    "unidad": 4,
+    "nombre_unidad": "Sistemas para negocios globales y negocios móviles",
+    "seccion": "4.1",
+    "nombre_seccion": "Internacionalización de los negocios electrónicos",
+    "carpeta": "Negocios_Electronicos/Unidad_4_Sistemas_para_negocios_globales_y_negocios_moviles",
+    "archivos": {
+      "pptx": "NE_U4_Sistemas_para_negocios_globales_y_negocios_moviles__4.1_a_4.2__Presentacion.pptx",
+      "video": "NE_U4_Sistemas_para_negocios_globales_y_negocios_moviles__4.1_a_4.2__Video.mp4",
+      "audio": "NE_U4_Sistemas_para_negocios_globales_y_negocios_moviles__4.1_a_4.2__Audio.mp3",
+      "workshop": "NE_U4_Sistemas_para_negocios_globales_y_negocios_moviles__4.1_a_4.2__Taller_grupal.docx",
+      "educaplay": "NE_U4_Sistemas_para_negocios_globales_y_negocios_moviles__4.1_a_4.2__Educaplay.html"
+    },
+    "diapositivas": {
+      "num": "4.1",
+      "title": "Internacionalización de los negocios electrónicos",
+      "first": 3,
+      "last": 12
+    },
+    "video_inicio": 0.0,
+    "audio_inicio": 0.0,
+    "perfil_recibido": "https://es.educaplay.com/usuario/15461190-nova/",
+    "enlace_directo_verificado": false
+  },
+  {
+    "materia": "Negocios Electrónicos",
+    "unidad": 4,
+    "nombre_unidad": "Sistemas para negocios globales y negocios móviles",
+    "seccion": "4.2",
+    "nombre_seccion": "Aplicaciones para negocios móviles",
+    "carpeta": "Negocios_Electronicos/Unidad_4_Sistemas_para_negocios_globales_y_negocios_moviles",
+    "archivos": {
+      "pptx": "NE_U4_Sistemas_para_negocios_globales_y_negocios_moviles__4.1_a_4.2__Presentacion.pptx",
+      "video": "NE_U4_Sistemas_para_negocios_globales_y_negocios_moviles__4.1_a_4.2__Video.mp4",
+      "audio": "NE_U4_Sistemas_para_negocios_globales_y_negocios_moviles__4.1_a_4.2__Audio.mp3",
+      "workshop": "NE_U4_Sistemas_para_negocios_globales_y_negocios_moviles__4.1_a_4.2__Taller_grupal.docx",
+      "educaplay": "NE_U4_Sistemas_para_negocios_globales_y_negocios_moviles__4.1_a_4.2__Educaplay.html"
+    },
+    "diapositivas": {
+      "num": "4.2",
+      "title": "Aplicaciones para negocios móviles",
+      "first": 13,
+      "last": 22
+    },
+    "video_inicio": 224.682,
+    "audio_inicio": 211.801,
+    "perfil_recibido": "https://es.educaplay.com/usuario/15461190-nova/",
+    "enlace_directo_verificado": false
+  },
+  {
+    "materia": "Procesos para Negocios Digitales",
+    "unidad": 1,
+    "nombre_unidad": "Introducción del BPM",
+    "seccion": "1.1",
+    "nombre_seccion": "Generalidades del BPM",
+    "carpeta": "Procesos_para_Negocios_Digitales/Unidad_1_Introduccion_del_BPM",
+    "archivos": {
+      "pptx": "PND_U1_Introduccion_del_BPM__1.1_a_1.4__Presentacion.pptx",
+      "video": "PND_U1_Introduccion_del_BPM__1.1_a_1.4__Video.mp4",
+      "audio": "PND_U1_Introduccion_del_BPM__1.1_a_1.4__Audio.mp3",
+      "workshop": "PND_U1_Introduccion_del_BPM__1.1_a_1.4__Taller_grupal.docx",
+      "educaplay": "PND_U1_Introduccion_del_BPM__1.1_a_1.4__Educaplay.html"
+    },
+    "diapositivas": {
+      "num": "1.1",
+      "title": "Generalidades del BPM",
+      "first": 3,
+      "last": 12
+    },
+    "video_inicio": 0.0,
+    "audio_inicio": 0.0,
+    "perfil_recibido": "https://es.educaplay.com/usuario/15461190-nova/",
+    "enlace_directo_verificado": false
+  },
+  {
+    "materia": "Procesos para Negocios Digitales",
+    "unidad": 1,
+    "nombre_unidad": "Introducción del BPM",
+    "seccion": "1.2",
+    "nombre_seccion": "Beneficios del BPM en los negocios digitales",
+    "carpeta": "Procesos_para_Negocios_Digitales/Unidad_1_Introduccion_del_BPM",
+    "archivos": {
+      "pptx": "PND_U1_Introduccion_del_BPM__1.1_a_1.4__Presentacion.pptx",
+      "video": "PND_U1_Introduccion_del_BPM__1.1_a_1.4__Video.mp4",
+      "audio": "PND_U1_Introduccion_del_BPM__1.1_a_1.4__Audio.mp3",
+      "workshop": "PND_U1_Introduccion_del_BPM__1.1_a_1.4__Taller_grupal.docx",
+      "educaplay": "PND_U1_Introduccion_del_BPM__1.1_a_1.4__Educaplay.html"
+    },
+    "diapositivas": {
+      "num": "1.2",
+      "title": "Beneficios del BPM en los negocios digitales",
+      "first": 13,
+      "last": 22
+    },
+    "video_inicio": 220.458,
+    "audio_inicio": 205.244,
+    "perfil_recibido": "https://es.educaplay.com/usuario/15461190-nova/",
+    "enlace_directo_verificado": false
+  },
+  {
+    "materia": "Procesos para Negocios Digitales",
+    "unidad": 1,
+    "nombre_unidad": "Introducción del BPM",
+    "seccion": "1.3",
+    "nombre_seccion": "Certificaciones",
+    "carpeta": "Procesos_para_Negocios_Digitales/Unidad_1_Introduccion_del_BPM",
+    "archivos": {
+      "pptx": "PND_U1_Introduccion_del_BPM__1.1_a_1.4__Presentacion.pptx",
+      "video": "PND_U1_Introduccion_del_BPM__1.1_a_1.4__Video.mp4",
+      "audio": "PND_U1_Introduccion_del_BPM__1.1_a_1.4__Audio.mp3",
+      "workshop": "PND_U1_Introduccion_del_BPM__1.1_a_1.4__Taller_grupal.docx",
+      "educaplay": "PND_U1_Introduccion_del_BPM__1.1_a_1.4__Educaplay.html"
+    },
+    "diapositivas": {
+      "num": "1.3",
+      "title": "Certificaciones",
+      "first": 23,
+      "last": 32
+    },
+    "video_inicio": 448.127,
+    "audio_inicio": 419.317,
+    "perfil_recibido": "https://es.educaplay.com/usuario/15461190-nova/",
+    "enlace_directo_verificado": false
+  },
+  {
+    "materia": "Procesos para Negocios Digitales",
+    "unidad": 1,
+    "nombre_unidad": "Introducción del BPM",
+    "seccion": "1.4",
+    "nombre_seccion": "Ciclo de vida general del BPM",
+    "carpeta": "Procesos_para_Negocios_Digitales/Unidad_1_Introduccion_del_BPM",
+    "archivos": {
+      "pptx": "PND_U1_Introduccion_del_BPM__1.1_a_1.4__Presentacion.pptx",
+      "video": "PND_U1_Introduccion_del_BPM__1.1_a_1.4__Video.mp4",
+      "audio": "PND_U1_Introduccion_del_BPM__1.1_a_1.4__Audio.mp3",
+      "workshop": "PND_U1_Introduccion_del_BPM__1.1_a_1.4__Taller_grupal.docx",
+      "educaplay": "PND_U1_Introduccion_del_BPM__1.1_a_1.4__Educaplay.html"
+    },
+    "diapositivas": {
+      "num": "1.4",
+      "title": "Ciclo de vida general del BPM",
+      "first": 33,
+      "last": 42
+    },
+    "video_inicio": 680.617,
+    "audio_inicio": 633.678,
+    "perfil_recibido": "https://es.educaplay.com/usuario/6179770-jeshua/",
+    "enlace_directo_verificado": false
+  },
+  {
+    "materia": "Procesos para Negocios Digitales",
+    "unidad": 2,
+    "nombre_unidad": "Estructura del BPM",
+    "seccion": "2.1",
+    "nombre_seccion": "Componentes clave del BPM",
+    "carpeta": "Procesos_para_Negocios_Digitales/Unidad_2_Estructura_del_BPM",
+    "archivos": {
+      "pptx": "PND_U2_Estructura_del_BPM__2.1_a_2.3__Presentacion.pptx",
+      "video": "PND_U2_Estructura_del_BPM__2.1_a_2.3__Video.mp4",
+      "audio": "PND_U2_Estructura_del_BPM__2.1_a_2.3__Audio.mp3",
+      "workshop": "PND_U2_Estructura_del_BPM__2.1_a_2.3__Taller_grupal.docx",
+      "educaplay": "PND_U2_Estructura_del_BPM__2.1_a_2.3__Educaplay.html"
+    },
+    "diapositivas": {
+      "num": "2.1",
+      "title": "Componentes clave del BPM",
+      "first": 3,
+      "last": 12
+    },
+    "video_inicio": 0.0,
+    "audio_inicio": 0.0,
+    "perfil_recibido": "https://es.educaplay.com/usuario/6179770-jeshua/",
+    "enlace_directo_verificado": false
+  },
+  {
+    "materia": "Procesos para Negocios Digitales",
+    "unidad": 2,
+    "nombre_unidad": "Estructura del BPM",
+    "seccion": "2.2",
+    "nombre_seccion": "Fases del ciclo de vida del BPM",
+    "carpeta": "Procesos_para_Negocios_Digitales/Unidad_2_Estructura_del_BPM",
+    "archivos": {
+      "pptx": "PND_U2_Estructura_del_BPM__2.1_a_2.3__Presentacion.pptx",
+      "video": "PND_U2_Estructura_del_BPM__2.1_a_2.3__Video.mp4",
+      "audio": "PND_U2_Estructura_del_BPM__2.1_a_2.3__Audio.mp3",
+      "workshop": "PND_U2_Estructura_del_BPM__2.1_a_2.3__Taller_grupal.docx",
+      "educaplay": "PND_U2_Estructura_del_BPM__2.1_a_2.3__Educaplay.html"
+    },
+    "diapositivas": {
+      "num": "2.2",
+      "title": "Fases del ciclo de vida del BPM",
+      "first": 13,
+      "last": 22
+    },
+    "video_inicio": 225.28,
+    "audio_inicio": 211.487,
+    "perfil_recibido": "https://es.educaplay.com/usuario/6179770-jeshua/",
+    "enlace_directo_verificado": false
+  },
+  {
+    "materia": "Procesos para Negocios Digitales",
+    "unidad": 2,
+    "nombre_unidad": "Estructura del BPM",
+    "seccion": "2.3",
+    "nombre_seccion": "Rol del BPM en la mejora continua",
+    "carpeta": "Procesos_para_Negocios_Digitales/Unidad_2_Estructura_del_BPM",
+    "archivos": {
+      "pptx": "PND_U2_Estructura_del_BPM__2.1_a_2.3__Presentacion.pptx",
+      "video": "PND_U2_Estructura_del_BPM__2.1_a_2.3__Video.mp4",
+      "audio": "PND_U2_Estructura_del_BPM__2.1_a_2.3__Audio.mp3",
+      "workshop": "PND_U2_Estructura_del_BPM__2.1_a_2.3__Taller_grupal.docx",
+      "educaplay": "PND_U2_Estructura_del_BPM__2.1_a_2.3__Educaplay.html"
+    },
+    "diapositivas": {
+      "num": "2.3",
+      "title": "Rol del BPM en la mejora continua",
+      "first": 23,
+      "last": 32
+    },
+    "video_inicio": 451.797,
+    "audio_inicio": 420.205,
+    "perfil_recibido": "https://es.educaplay.com/usuario/6179770-jeshua/",
+    "enlace_directo_verificado": false
+  },
+  {
+    "materia": "Procesos para Negocios Digitales",
+    "unidad": 3,
+    "nombre_unidad": "Técnicas de modelado de procesos",
+    "seccion": "3.1",
+    "nombre_seccion": "Importancia del modelado en la gestión de procesos",
+    "carpeta": "Procesos_para_Negocios_Digitales/Unidad_3_Tecnicas_de_modelado_de_procesos",
+    "archivos": {
+      "pptx": "PND_U3_Tecnicas_de_modelado_de_procesos__3.1_a_3.4__Presentacion.pptx",
+      "video": "PND_U3_Tecnicas_de_modelado_de_procesos__3.1_a_3.4__Video.mp4",
+      "audio": "PND_U3_Tecnicas_de_modelado_de_procesos__3.1_a_3.4__Audio.mp3",
+      "workshop": "PND_U3_Tecnicas_de_modelado_de_procesos__3.1_a_3.4__Taller_grupal.docx",
+      "educaplay": "PND_U3_Tecnicas_de_modelado_de_procesos__3.1_a_3.4__Educaplay.html"
+    },
+    "diapositivas": {
+      "num": "3.1",
+      "title": "Importancia del modelado en la gestión de procesos",
+      "first": 3,
+      "last": 12
+    },
+    "video_inicio": 0.0,
+    "audio_inicio": 0.0,
+    "perfil_recibido": "https://es.educaplay.com/usuario/6179770-jeshua/",
+    "enlace_directo_verificado": false
+  },
+  {
+    "materia": "Procesos para Negocios Digitales",
+    "unidad": 3,
+    "nombre_unidad": "Técnicas de modelado de procesos",
+    "seccion": "3.2",
+    "nombre_seccion": "Buenas prácticas de modelado",
+    "carpeta": "Procesos_para_Negocios_Digitales/Unidad_3_Tecnicas_de_modelado_de_procesos",
+    "archivos": {
+      "pptx": "PND_U3_Tecnicas_de_modelado_de_procesos__3.1_a_3.4__Presentacion.pptx",
+      "video": "PND_U3_Tecnicas_de_modelado_de_procesos__3.1_a_3.4__Video.mp4",
+      "audio": "PND_U3_Tecnicas_de_modelado_de_procesos__3.1_a_3.4__Audio.mp3",
+      "workshop": "PND_U3_Tecnicas_de_modelado_de_procesos__3.1_a_3.4__Taller_grupal.docx",
+      "educaplay": "PND_U3_Tecnicas_de_modelado_de_procesos__3.1_a_3.4__Educaplay.html"
+    },
+    "diapositivas": {
+      "num": "3.2",
+      "title": "Buenas prácticas de modelado",
+      "first": 13,
+      "last": 22
+    },
+    "video_inicio": 225.322,
+    "audio_inicio": 208.039,
+    "perfil_recibido": "https://es.educaplay.com/usuario/15461204-clash/",
+    "enlace_directo_verificado": false
+  },
+  {
+    "materia": "Procesos para Negocios Digitales",
+    "unidad": 3,
+    "nombre_unidad": "Técnicas de modelado de procesos",
+    "seccion": "3.3",
+    "nombre_seccion": "Herramientas digitales para modelado de procesos",
+    "carpeta": "Procesos_para_Negocios_Digitales/Unidad_3_Tecnicas_de_modelado_de_procesos",
+    "archivos": {
+      "pptx": "PND_U3_Tecnicas_de_modelado_de_procesos__3.1_a_3.4__Presentacion.pptx",
+      "video": "PND_U3_Tecnicas_de_modelado_de_procesos__3.1_a_3.4__Video.mp4",
+      "audio": "PND_U3_Tecnicas_de_modelado_de_procesos__3.1_a_3.4__Audio.mp3",
+      "workshop": "PND_U3_Tecnicas_de_modelado_de_procesos__3.1_a_3.4__Taller_grupal.docx",
+      "educaplay": "PND_U3_Tecnicas_de_modelado_de_procesos__3.1_a_3.4__Educaplay.html"
+    },
+    "diapositivas": {
+      "num": "3.3",
+      "title": "Herramientas digitales para modelado de procesos",
+      "first": 23,
+      "last": 32
+    },
+    "video_inicio": 455.124,
+    "audio_inicio": 419.422,
+    "perfil_recibido": "https://es.educaplay.com/usuario/15461204-clash/",
+    "enlace_directo_verificado": false
+  },
+  {
+    "materia": "Procesos para Negocios Digitales",
+    "unidad": 3,
+    "nombre_unidad": "Técnicas de modelado de procesos",
+    "seccion": "3.4",
+    "nombre_seccion": "Análisis y diagnóstico de procesos existentes y rediseño de procesos",
+    "carpeta": "Procesos_para_Negocios_Digitales/Unidad_3_Tecnicas_de_modelado_de_procesos",
+    "archivos": {
+      "pptx": "PND_U3_Tecnicas_de_modelado_de_procesos__3.1_a_3.4__Presentacion.pptx",
+      "video": "PND_U3_Tecnicas_de_modelado_de_procesos__3.1_a_3.4__Video.mp4",
+      "audio": "PND_U3_Tecnicas_de_modelado_de_procesos__3.1_a_3.4__Audio.mp3",
+      "workshop": "PND_U3_Tecnicas_de_modelado_de_procesos__3.1_a_3.4__Taller_grupal.docx",
+      "educaplay": "PND_U3_Tecnicas_de_modelado_de_procesos__3.1_a_3.4__Educaplay.html"
+    },
+    "diapositivas": {
+      "num": "3.4",
+      "title": "Análisis y diagnóstico de procesos existentes y rediseño de procesos",
+      "first": 33,
+      "last": 42
+    },
+    "video_inicio": 683.86,
+    "audio_inicio": 632.372,
+    "perfil_recibido": "https://es.educaplay.com/usuario/15461204-clash/",
+    "enlace_directo_verificado": false
+  },
+  {
+    "materia": "Procesos para Negocios Digitales",
+    "unidad": 4,
+    "nombre_unidad": "Implementación del BPM",
+    "seccion": "4.1",
+    "nombre_seccion": "Planificación de un proyecto BPM",
+    "carpeta": "Procesos_para_Negocios_Digitales/Unidad_4_Implementacion_del_BPM",
+    "archivos": {
+      "pptx": "PND_U4_Implementacion_del_BPM__4.1_a_4.4__Presentacion.pptx",
+      "video": "PND_U4_Implementacion_del_BPM__4.1_a_4.4__Video.mp4",
+      "audio": "PND_U4_Implementacion_del_BPM__4.1_a_4.4__Audio.mp3",
+      "workshop": "PND_U4_Implementacion_del_BPM__4.1_a_4.4__Taller_grupal.docx",
+      "educaplay": "PND_U4_Implementacion_del_BPM__4.1_a_4.4__Educaplay.html"
+    },
+    "diapositivas": {
+      "num": "4.1",
+      "title": "Planificación de un proyecto BPM",
+      "first": 3,
+      "last": 12
+    },
+    "video_inicio": 0.0,
+    "audio_inicio": 0.0,
+    "perfil_recibido": "https://es.educaplay.com/usuario/15461204-clash/",
+    "enlace_directo_verificado": false
+  },
+  {
+    "materia": "Procesos para Negocios Digitales",
+    "unidad": 4,
+    "nombre_unidad": "Implementación del BPM",
+    "seccion": "4.2",
+    "nombre_seccion": "Indicadores para evaluar la implementación",
+    "carpeta": "Procesos_para_Negocios_Digitales/Unidad_4_Implementacion_del_BPM",
+    "archivos": {
+      "pptx": "PND_U4_Implementacion_del_BPM__4.1_a_4.4__Presentacion.pptx",
+      "video": "PND_U4_Implementacion_del_BPM__4.1_a_4.4__Video.mp4",
+      "audio": "PND_U4_Implementacion_del_BPM__4.1_a_4.4__Audio.mp3",
+      "workshop": "PND_U4_Implementacion_del_BPM__4.1_a_4.4__Taller_grupal.docx",
+      "educaplay": "PND_U4_Implementacion_del_BPM__4.1_a_4.4__Educaplay.html"
+    },
+    "diapositivas": {
+      "num": "4.2",
+      "title": "Indicadores para evaluar la implementación",
+      "first": 13,
+      "last": 22
+    },
+    "video_inicio": 230.186,
+    "audio_inicio": 211.749,
+    "perfil_recibido": "https://es.educaplay.com/usuario/15461204-clash/",
+    "enlace_directo_verificado": false
+  },
+  {
+    "materia": "Procesos para Negocios Digitales",
+    "unidad": 4,
+    "nombre_unidad": "Implementación del BPM",
+    "seccion": "4.3",
+    "nombre_seccion": "Evaluación y selección de procesos a mejorar",
+    "carpeta": "Procesos_para_Negocios_Digitales/Unidad_4_Implementacion_del_BPM",
+    "archivos": {
+      "pptx": "PND_U4_Implementacion_del_BPM__4.1_a_4.4__Presentacion.pptx",
+      "video": "PND_U4_Implementacion_del_BPM__4.1_a_4.4__Video.mp4",
+      "audio": "PND_U4_Implementacion_del_BPM__4.1_a_4.4__Audio.mp3",
+      "workshop": "PND_U4_Implementacion_del_BPM__4.1_a_4.4__Taller_grupal.docx",
+      "educaplay": "PND_U4_Implementacion_del_BPM__4.1_a_4.4__Educaplay.html"
+    },
+    "diapositivas": {
+      "num": "4.3",
+      "title": "Evaluación y selección de procesos a mejorar",
+      "first": 23,
+      "last": 32
+    },
+    "video_inicio": 458.196,
+    "audio_inicio": 427.834,
+    "perfil_recibido": "https://es.educaplay.com/usuario/15461216-jeshua/",
+    "enlace_directo_verificado": false
+  },
+  {
+    "materia": "Procesos para Negocios Digitales",
+    "unidad": 4,
+    "nombre_unidad": "Implementación del BPM",
+    "seccion": "4.4",
+    "nombre_seccion": "Estudio de caso",
+    "carpeta": "Procesos_para_Negocios_Digitales/Unidad_4_Implementacion_del_BPM",
+    "archivos": {
+      "pptx": "PND_U4_Implementacion_del_BPM__4.1_a_4.4__Presentacion.pptx",
+      "video": "PND_U4_Implementacion_del_BPM__4.1_a_4.4__Video.mp4",
+      "audio": "PND_U4_Implementacion_del_BPM__4.1_a_4.4__Audio.mp3",
+      "workshop": "PND_U4_Implementacion_del_BPM__4.1_a_4.4__Taller_grupal.docx",
+      "educaplay": "PND_U4_Implementacion_del_BPM__4.1_a_4.4__Educaplay.html"
+    },
+    "diapositivas": {
+      "num": "4.4",
+      "title": "Estudio de caso",
+      "first": 33,
+      "last": 42
+    },
+    "video_inicio": 682.281,
+    "audio_inicio": 639.583,
+    "perfil_recibido": "https://es.educaplay.com/usuario/15461216-jeshua/",
+    "enlace_directo_verificado": false
+  }
+]
