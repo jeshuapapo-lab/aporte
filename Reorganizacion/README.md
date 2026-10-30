@@ -11,9 +11,12 @@ en los imports y adaptar las rutas. La colección original se conserva en el his
 del repositorio, commit 1d5132a326768194c529c0d3a3bba99e20ed96a7, y en el respaldo local.
 No se afirma que ejecutar estos scripts en una máquina nueva funcione sin preparar esa base.
 
-Los JSON registran las comprobaciones reales. Educaplay remoto sigue sin verificarse por
-restricción de red; la igualdad de enlaces con el reparto del usuario es una comprobación
-diferente de la publicación y contenido de los juegos. Los índices declaran esa limitación.
+Los JSON registran las comprobaciones reales. El PDF de enlaces aportado por el usuario
+registra comprobación pública de los 27 juegos el 30/10/2026; esa prueba remota no se repitió
+desde este entorno. Aquí se cotejaron los destinos, títulos, numeración, slugs y preguntas
+con el sílabo, y se comprobó la integración de los enlaces en los ocho HTML de unidad.
+Integrar_enlaces_directos.py recupera los destinos desde las anotaciones PDF, incluyendo
+el enlace de PND 3.4 que aparece partido en dos líneas en el texto visible.
 
 El manifiesto usa rutas relativas a Proyecto_Educativo. Los archivos técnicos de esta
-carpeta no se incluyen en el ZIP para el profesor, que contiene 44 archivos organizados.
+carpeta no se incluyen en el ZIP para el profesor, que contiene 45 archivos organizados.

@@ -156,7 +156,20 @@
             "feedback": "Las señales de confianza deben poder demostrarse y no basarse en afirmaciones engañosas."
           }
         ],
-        "profile": "https://es.educaplay.com/usuario/15461026-jeshua/"
+        "profile": "https://es.educaplay.com/usuario/15461026-jeshua/",
+        "activity_url": "https://es.educaplay.com/recursos-educativos/31311458-ne_1_1_las_paginas_de_inicio.html",
+        "activity_evidence": {
+          "url": "https://es.educaplay.com/recursos-educativos/31311458-ne_1_1_las_paginas_de_inicio.html",
+          "activity_id": "31311458",
+          "section": "1.1",
+          "title": "Las páginas de inicio",
+          "questions": 10,
+          "source_pdf_page": 1,
+          "documental_title_number_and_slug_match": true,
+          "source_pdf_reports_public_http200": true,
+          "source_pdf_check_date": "2026-10-30",
+          "independent_remote_check_in_this_environment": false
+        }
       },
       {
         "id": "NE_1_2",
@@ -400,7 +413,20 @@
             "feedback": "Los cambios de clasificación pueden romper recorridos o dejar artículos difíciles de localizar."
           }
         ],
-        "profile": "https://es.educaplay.com/usuario/15461026-jeshua/"
+        "profile": "https://es.educaplay.com/usuario/15461026-jeshua/",
+        "activity_url": "https://es.educaplay.com/recursos-educativos/31311492-ne_1_2_division_por_departamentos_y_categorias.html",
+        "activity_evidence": {
+          "url": "https://es.educaplay.com/recursos-educativos/31311492-ne_1_2_division_por_departamentos_y_categorias.html",
+          "activity_id": "31311492",
+          "section": "1.2",
+          "title": "División por departamentos y categorías",
+          "questions": 8,
+          "source_pdf_page": 1,
+          "documental_title_number_and_slug_match": true,
+          "source_pdf_reports_public_http200": true,
+          "source_pdf_check_date": "2026-10-30",
+          "independent_remote_check_in_this_environment": false
+        }
       },
       {
         "id": "NE_1_3",
@@ -644,7 +670,20 @@
             "feedback": "La confianza requiere evidencia auténtica y condiciones comprensibles."
           }
         ],
-        "profile": "https://es.educaplay.com/usuario/15461026-jeshua/"
+        "profile": "https://es.educaplay.com/usuario/15461026-jeshua/",
+        "activity_url": "https://es.educaplay.com/recursos-educativos/31311527-ne_1_3_paginas_de_ventas_y_servicios.html",
+        "activity_evidence": {
+          "url": "https://es.educaplay.com/recursos-educativos/31311527-ne_1_3_paginas_de_ventas_y_servicios.html",
+          "activity_id": "31311527",
+          "section": "1.3",
+          "title": "Páginas de ventas y servicios",
+          "questions": 8,
+          "source_pdf_page": 1,
+          "documental_title_number_and_slug_match": true,
+          "source_pdf_reports_public_http200": true,
+          "source_pdf_check_date": "2026-10-30",
+          "independent_remote_check_in_this_environment": false
+        }
       },
       {
         "id": "NE_1_4",
@@ -888,7 +927,20 @@
             "feedback": "Una apariencia institucional no justifica una afirmación no verificable."
           }
         ],
-        "profile": "https://es.educaplay.com/usuario/15461026-jeshua/"
+        "profile": "https://es.educaplay.com/usuario/15461026-jeshua/",
+        "activity_url": "https://es.educaplay.com/recursos-educativos/31311540-ne_1_4_aspectos_institucionales.html",
+        "activity_evidence": {
+          "url": "https://es.educaplay.com/recursos-educativos/31311540-ne_1_4_aspectos_institucionales.html",
+          "activity_id": "31311540",
+          "section": "1.4",
+          "title": "Aspectos institucionales",
+          "questions": 8,
+          "source_pdf_page": 1,
+          "documental_title_number_and_slug_match": true,
+          "source_pdf_reports_public_http200": true,
+          "source_pdf_check_date": "2026-10-30",
+          "independent_remote_check_in_this_environment": false
+        }
       }
     ],
     "files": {
@@ -1178,7 +1230,20 @@
             "feedback": "El valor debe evaluarse con medidas relacionadas y no con una cifra aislada."
           }
         ],
-        "profile": "https://es.educaplay.com/usuario/15461026-jeshua/"
+        "profile": "https://es.educaplay.com/usuario/15461026-jeshua/",
+        "activity_url": "https://es.educaplay.com/recursos-educativos/31311552-ne_2_1_tecnologia_en_la_gestion_de_cadena_de_valor.html",
+        "activity_evidence": {
+          "url": "https://es.educaplay.com/recursos-educativos/31311552-ne_2_1_tecnologia_en_la_gestion_de_cadena_de_valor.html",
+          "activity_id": "31311552",
+          "section": "2.1",
+          "title": "Tecnología en la gestión de cadena de valor",
+          "questions": 8,
+          "source_pdf_page": 1,
+          "documental_title_number_and_slug_match": true,
+          "source_pdf_reports_public_http200": true,
+          "source_pdf_check_date": "2026-10-30",
+          "independent_remote_check_in_this_environment": false
+        }
       },
       {
         "id": "NE_2_2",
@@ -1422,7 +1487,20 @@
             "feedback": "La selección del registro puede ocultar parte del trabajo y alterar la interpretación."
           }
         ],
-        "profile": "https://es.educaplay.com/usuario/15461174-host/"
+        "profile": "https://es.educaplay.com/usuario/15461174-host/",
+        "activity_url": "https://es.educaplay.com/recursos-educativos/31311592-ne_2_2_metodologia_crm.html",
+        "activity_evidence": {
+          "url": "https://es.educaplay.com/recursos-educativos/31311592-ne_2_2_metodologia_crm.html",
+          "activity_id": "31311592",
+          "section": "2.2",
+          "title": "Metodología CRM",
+          "questions": 8,
+          "source_pdf_page": 1,
+          "documental_title_number_and_slug_match": true,
+          "source_pdf_reports_public_http200": true,
+          "source_pdf_check_date": "2026-10-30",
+          "independent_remote_check_in_this_environment": false
+        }
       }
     ],
     "files": {
@@ -1700,7 +1778,20 @@
             "feedback": "La portabilidad ayuda a gestionar dependencia y continuidad."
           }
         ],
-        "profile": "https://es.educaplay.com/usuario/15461174-host/"
+        "profile": "https://es.educaplay.com/usuario/15461174-host/",
+        "activity_url": "https://es.educaplay.com/recursos-educativos/31311599-ne_3_1_diferentes_sistemas_para_mypes_y_pymes.html",
+        "activity_evidence": {
+          "url": "https://es.educaplay.com/recursos-educativos/31311599-ne_3_1_diferentes_sistemas_para_mypes_y_pymes.html",
+          "activity_id": "31311599",
+          "section": "3.1",
+          "title": "Diferentes sistemas para Mypes y Pymes",
+          "questions": 8,
+          "source_pdf_page": 2,
+          "documental_title_number_and_slug_match": true,
+          "source_pdf_reports_public_http200": true,
+          "source_pdf_check_date": "2026-10-30",
+          "independent_remote_check_in_this_environment": false
+        }
       },
       {
         "id": "NE_3_2",
@@ -1944,7 +2035,20 @@
             "feedback": "El momento del movimiento de efectivo puede diferir del registro de ventas."
           }
         ],
-        "profile": "https://es.educaplay.com/usuario/15461174-host/"
+        "profile": "https://es.educaplay.com/usuario/15461174-host/",
+        "activity_url": "https://es.educaplay.com/recursos-educativos/31311602-ne_3_2_rendimiento_financiero_de_los_negocios_electronicos.html",
+        "activity_evidence": {
+          "url": "https://es.educaplay.com/recursos-educativos/31311602-ne_3_2_rendimiento_financiero_de_los_negocios_electronicos.html",
+          "activity_id": "31311602",
+          "section": "3.2",
+          "title": "Rendimiento financiero de los negocios electrónicos",
+          "questions": 8,
+          "source_pdf_page": 2,
+          "documental_title_number_and_slug_match": true,
+          "source_pdf_reports_public_http200": true,
+          "source_pdf_check_date": "2026-10-30",
+          "independent_remote_check_in_this_environment": false
+        }
       },
       {
         "id": "NE_3_3",
@@ -2188,7 +2292,20 @@
             "feedback": "La continuidad económica requiere considerar operación y mantenimiento."
           }
         ],
-        "profile": "https://es.educaplay.com/usuario/15461174-host/"
+        "profile": "https://es.educaplay.com/usuario/15461174-host/",
+        "activity_url": "https://es.educaplay.com/recursos-educativos/31311609-ne_3_3_integraciones_rentables_de_software_y_hardware.html",
+        "activity_evidence": {
+          "url": "https://es.educaplay.com/recursos-educativos/31311609-ne_3_3_integraciones_rentables_de_software_y_hardware.html",
+          "activity_id": "31311609",
+          "section": "3.3",
+          "title": "Integraciones rentables de software y hardware",
+          "questions": 8,
+          "source_pdf_page": 2,
+          "documental_title_number_and_slug_match": true,
+          "source_pdf_reports_public_http200": true,
+          "source_pdf_check_date": "2026-10-30",
+          "independent_remote_check_in_this_environment": false
+        }
       },
       {
         "id": "NE_3_4",
@@ -2432,7 +2549,20 @@
             "feedback": "El estado operativo debe reflejar la evidencia auténtica del pago."
           }
         ],
-        "profile": "https://es.educaplay.com/usuario/15461174-host/"
+        "profile": "https://es.educaplay.com/usuario/15461174-host/",
+        "activity_url": "https://es.educaplay.com/recursos-educativos/31311612-ne_3_4_sistemas_de_pago_y_documentos_electronicos.html",
+        "activity_evidence": {
+          "url": "https://es.educaplay.com/recursos-educativos/31311612-ne_3_4_sistemas_de_pago_y_documentos_electronicos.html",
+          "activity_id": "31311612",
+          "section": "3.4",
+          "title": "Sistemas de pago y documentos electrónicos",
+          "questions": 8,
+          "source_pdf_page": 2,
+          "documental_title_number_and_slug_match": true,
+          "source_pdf_reports_public_http200": true,
+          "source_pdf_check_date": "2026-10-30",
+          "independent_remote_check_in_this_environment": false
+        }
       }
     ],
     "files": {
@@ -2722,7 +2852,20 @@
             "feedback": "El margen puede variar por condiciones financieras y operativas."
           }
         ],
-        "profile": "https://es.educaplay.com/usuario/15461190-nova/"
+        "profile": "https://es.educaplay.com/usuario/15461190-nova/",
+        "activity_url": "https://es.educaplay.com/recursos-educativos/31311631-ne_4_1_internacionalizacion_de_los_negocios_electronicos.html",
+        "activity_evidence": {
+          "url": "https://es.educaplay.com/recursos-educativos/31311631-ne_4_1_internacionalizacion_de_los_negocios_electronicos.html",
+          "activity_id": "31311631",
+          "section": "4.1",
+          "title": "Internacionalización de los negocios electrónicos",
+          "questions": 8,
+          "source_pdf_page": 2,
+          "documental_title_number_and_slug_match": true,
+          "source_pdf_reports_public_http200": true,
+          "source_pdf_check_date": "2026-10-30",
+          "independent_remote_check_in_this_environment": false
+        }
       },
       {
         "id": "NE_4_2",
@@ -2966,7 +3109,20 @@
             "feedback": "La utilidad se demuestra en tareas y resultados, no en presencia de una aplicación."
           }
         ],
-        "profile": "https://es.educaplay.com/usuario/15461190-nova/"
+        "profile": "https://es.educaplay.com/usuario/15461190-nova/",
+        "activity_url": "https://es.educaplay.com/recursos-educativos/31311635-ne_4_2_aplicaciones_para_negocios_moviles.html",
+        "activity_evidence": {
+          "url": "https://es.educaplay.com/recursos-educativos/31311635-ne_4_2_aplicaciones_para_negocios_moviles.html",
+          "activity_id": "31311635",
+          "section": "4.2",
+          "title": "Aplicaciones para negocios móviles",
+          "questions": 8,
+          "source_pdf_page": 2,
+          "documental_title_number_and_slug_match": true,
+          "source_pdf_reports_public_http200": true,
+          "source_pdf_check_date": "2026-10-30",
+          "independent_remote_check_in_this_environment": false
+        }
       }
     ],
     "files": {
@@ -3244,7 +3400,20 @@
             "feedback": "La automatización puede ampliar problemas que no se comprendieron."
           }
         ],
-        "profile": "https://es.educaplay.com/usuario/15461190-nova/"
+        "profile": "https://es.educaplay.com/usuario/15461190-nova/",
+        "activity_url": "https://es.educaplay.com/recursos-educativos/31311638-pnd_1_1_generalidades_del_bpm.html",
+        "activity_evidence": {
+          "url": "https://es.educaplay.com/recursos-educativos/31311638-pnd_1_1_generalidades_del_bpm.html",
+          "activity_id": "31311638",
+          "section": "1.1",
+          "title": "Generalidades del BPM",
+          "questions": 8,
+          "source_pdf_page": 3,
+          "documental_title_number_and_slug_match": true,
+          "source_pdf_reports_public_http200": true,
+          "source_pdf_check_date": "2026-10-30",
+          "independent_remote_check_in_this_environment": false
+        }
       },
       {
         "id": "PND_1_2",
@@ -3488,7 +3657,20 @@
             "feedback": "La atribución causal exige examinar otros cambios y evidencia pertinente."
           }
         ],
-        "profile": "https://es.educaplay.com/usuario/15461190-nova/"
+        "profile": "https://es.educaplay.com/usuario/15461190-nova/",
+        "activity_url": "https://es.educaplay.com/recursos-educativos/31311644-pnd_1_2_beneficios_del_bpm_en_los_negocios_digitales.html",
+        "activity_evidence": {
+          "url": "https://es.educaplay.com/recursos-educativos/31311644-pnd_1_2_beneficios_del_bpm_en_los_negocios_digitales.html",
+          "activity_id": "31311644",
+          "section": "1.2",
+          "title": "Beneficios del BPM en los negocios digitales",
+          "questions": 8,
+          "source_pdf_page": 3,
+          "documental_title_number_and_slug_match": true,
+          "source_pdf_reports_public_http200": true,
+          "source_pdf_check_date": "2026-10-30",
+          "independent_remote_check_in_this_environment": false
+        }
       },
       {
         "id": "PND_1_3",
@@ -3732,7 +3914,20 @@
             "feedback": "La práctica y los resultados dependen de más factores que una credencial."
           }
         ],
-        "profile": "https://es.educaplay.com/usuario/15461190-nova/"
+        "profile": "https://es.educaplay.com/usuario/15461190-nova/",
+        "activity_url": "https://es.educaplay.com/recursos-educativos/31311649-pnd_1_3_certificaciones.html",
+        "activity_evidence": {
+          "url": "https://es.educaplay.com/recursos-educativos/31311649-pnd_1_3_certificaciones.html",
+          "activity_id": "31311649",
+          "section": "1.3",
+          "title": "Certificaciones",
+          "questions": 8,
+          "source_pdf_page": 3,
+          "documental_title_number_and_slug_match": true,
+          "source_pdf_reports_public_http200": true,
+          "source_pdf_check_date": "2026-10-30",
+          "independent_remote_check_in_this_environment": false
+        }
       },
       {
         "id": "PND_1_4",
@@ -3976,7 +4171,20 @@
             "feedback": "Tener documentos o sesiones no prueba que el servicio funcione mejor."
           }
         ],
-        "profile": "https://es.educaplay.com/usuario/6179770-jeshua/"
+        "profile": "https://es.educaplay.com/usuario/6179770-jeshua/",
+        "activity_url": "https://es.educaplay.com/recursos-educativos/31311658-pnd_1_4_ciclo_de_vida_general_del_bpm.html",
+        "activity_evidence": {
+          "url": "https://es.educaplay.com/recursos-educativos/31311658-pnd_1_4_ciclo_de_vida_general_del_bpm.html",
+          "activity_id": "31311658",
+          "section": "1.4",
+          "title": "Ciclo de vida general del BPM",
+          "questions": 8,
+          "source_pdf_page": 3,
+          "documental_title_number_and_slug_match": true,
+          "source_pdf_reports_public_http200": true,
+          "source_pdf_check_date": "2026-10-30",
+          "independent_remote_check_in_this_environment": false
+        }
       }
     ],
     "files": {
@@ -4266,7 +4474,20 @@
             "feedback": "Los componentes deben seguir describiendo y midiendo el mismo proceso."
           }
         ],
-        "profile": "https://es.educaplay.com/usuario/6179770-jeshua/"
+        "profile": "https://es.educaplay.com/usuario/6179770-jeshua/",
+        "activity_url": "https://es.educaplay.com/recursos-educativos/31311661-pnd_2_1_componentes_clave_del_bpm.html",
+        "activity_evidence": {
+          "url": "https://es.educaplay.com/recursos-educativos/31311661-pnd_2_1_componentes_clave_del_bpm.html",
+          "activity_id": "31311661",
+          "section": "2.1",
+          "title": "Componentes clave del BPM",
+          "questions": 8,
+          "source_pdf_page": 3,
+          "documental_title_number_and_slug_match": true,
+          "source_pdf_reports_public_http200": true,
+          "source_pdf_check_date": "2026-10-30",
+          "independent_remote_check_in_this_environment": false
+        }
       },
       {
         "id": "PND_2_2",
@@ -4510,7 +4731,20 @@
             "feedback": "La trazabilidad reduce pérdida de conocimiento y decisiones inconsistentes."
           }
         ],
-        "profile": "https://es.educaplay.com/usuario/6179770-jeshua/"
+        "profile": "https://es.educaplay.com/usuario/6179770-jeshua/",
+        "activity_url": "https://es.educaplay.com/recursos-educativos/31311665-pnd_2_2_fases_del_ciclo_de_vida_del_bpm.html",
+        "activity_evidence": {
+          "url": "https://es.educaplay.com/recursos-educativos/31311665-pnd_2_2_fases_del_ciclo_de_vida_del_bpm.html",
+          "activity_id": "31311665",
+          "section": "2.2",
+          "title": "Fases del ciclo de vida del BPM",
+          "questions": 8,
+          "source_pdf_page": 3,
+          "documental_title_number_and_slug_match": true,
+          "source_pdf_reports_public_http200": true,
+          "source_pdf_check_date": "2026-10-30",
+          "independent_remote_check_in_this_environment": false
+        }
       },
       {
         "id": "PND_2_3",
@@ -4754,7 +4988,20 @@
             "feedback": "La revisión iterativa necesita un proceso y una gestión que sostengan el aprendizaje."
           }
         ],
-        "profile": "https://es.educaplay.com/usuario/6179770-jeshua/"
+        "profile": "https://es.educaplay.com/usuario/6179770-jeshua/",
+        "activity_url": "https://es.educaplay.com/recursos-educativos/31311674-pnd_2_3_rol_del_bpm_en_la_mejora_continua.html",
+        "activity_evidence": {
+          "url": "https://es.educaplay.com/recursos-educativos/31311674-pnd_2_3_rol_del_bpm_en_la_mejora_continua.html",
+          "activity_id": "31311674",
+          "section": "2.3",
+          "title": "Rol del BPM en la mejora continua",
+          "questions": 8,
+          "source_pdf_page": 3,
+          "documental_title_number_and_slug_match": true,
+          "source_pdf_reports_public_http200": true,
+          "source_pdf_check_date": "2026-10-30",
+          "independent_remote_check_in_this_environment": false
+        }
       }
     ],
     "files": {
@@ -5038,7 +5285,20 @@
             "feedback": "El modelo necesita gobierno y actualización para sostener decisiones."
           }
         ],
-        "profile": "https://es.educaplay.com/usuario/6179770-jeshua/"
+        "profile": "https://es.educaplay.com/usuario/6179770-jeshua/",
+        "activity_url": "https://es.educaplay.com/recursos-educativos/31311680-pnd_3_1_importancia_del_modelado_en_la_gestion_de_procesos.html",
+        "activity_evidence": {
+          "url": "https://es.educaplay.com/recursos-educativos/31311680-pnd_3_1_importancia_del_modelado_en_la_gestion_de_procesos.html",
+          "activity_id": "31311680",
+          "section": "3.1",
+          "title": "Importancia del modelado en la gestión de procesos",
+          "questions": 8,
+          "source_pdf_page": 4,
+          "documental_title_number_and_slug_match": true,
+          "source_pdf_reports_public_http200": true,
+          "source_pdf_check_date": "2026-10-30",
+          "independent_remote_check_in_this_environment": false
+        }
       },
       {
         "id": "PND_3_2",
@@ -5282,7 +5542,20 @@
             "feedback": "Corrección formal y adecuación al negocio son verificaciones diferentes."
           }
         ],
-        "profile": "https://es.educaplay.com/usuario/15461204-clash/"
+        "profile": "https://es.educaplay.com/usuario/15461204-clash/",
+        "activity_url": "https://es.educaplay.com/recursos-educativos/31311694-pnd_3_2_buenas_practicas_de_modelado.html",
+        "activity_evidence": {
+          "url": "https://es.educaplay.com/recursos-educativos/31311694-pnd_3_2_buenas_practicas_de_modelado.html",
+          "activity_id": "31311694",
+          "section": "3.2",
+          "title": "Buenas prácticas de modelado",
+          "questions": 8,
+          "source_pdf_page": 4,
+          "documental_title_number_and_slug_match": true,
+          "source_pdf_reports_public_http200": true,
+          "source_pdf_check_date": "2026-10-30",
+          "independent_remote_check_in_this_environment": false
+        }
       },
       {
         "id": "PND_3_3",
@@ -5526,7 +5799,20 @@
             "feedback": "La prueba no debe exponer información que no se autorizó compartir."
           }
         ],
-        "profile": "https://es.educaplay.com/usuario/15461204-clash/"
+        "profile": "https://es.educaplay.com/usuario/15461204-clash/",
+        "activity_url": "https://es.educaplay.com/recursos-educativos/31311699-pnd_3_3_herramientas_digitales_para_modelado_de_procesos.html",
+        "activity_evidence": {
+          "url": "https://es.educaplay.com/recursos-educativos/31311699-pnd_3_3_herramientas_digitales_para_modelado_de_procesos.html",
+          "activity_id": "31311699",
+          "section": "3.3",
+          "title": "Herramientas digitales para modelado de procesos",
+          "questions": 8,
+          "source_pdf_page": 4,
+          "documental_title_number_and_slug_match": true,
+          "source_pdf_reports_public_http200": true,
+          "source_pdf_check_date": "2026-10-30",
+          "independent_remote_check_in_this_environment": false
+        }
       },
       {
         "id": "PND_3_4",
@@ -5770,7 +6056,20 @@
             "feedback": "Una mejora parcial puede desplazar o empeorar el problema."
           }
         ],
-        "profile": "https://es.educaplay.com/usuario/15461204-clash/"
+        "profile": "https://es.educaplay.com/usuario/15461204-clash/",
+        "activity_url": "https://es.educaplay.com/recursos-educativos/31311703-pnd_3_4_analisis_y_diagnostico_de_procesos_existentes_y_rediseno_de_procesos.html",
+        "activity_evidence": {
+          "url": "https://es.educaplay.com/recursos-educativos/31311703-pnd_3_4_analisis_y_diagnostico_de_procesos_existentes_y_rediseno_de_procesos.html",
+          "activity_id": "31311703",
+          "section": "3.4",
+          "title": "Análisis y diagnóstico de procesos existentes y rediseño de procesos",
+          "questions": 8,
+          "source_pdf_page": 4,
+          "documental_title_number_and_slug_match": true,
+          "source_pdf_reports_public_http200": true,
+          "source_pdf_check_date": "2026-10-30",
+          "independent_remote_check_in_this_environment": false
+        }
       }
     ],
     "files": {
@@ -6060,7 +6359,20 @@
             "feedback": "El proceso continúa operando y requiere gestión posterior."
           }
         ],
-        "profile": "https://es.educaplay.com/usuario/15461204-clash/"
+        "profile": "https://es.educaplay.com/usuario/15461204-clash/",
+        "activity_url": "https://es.educaplay.com/recursos-educativos/31311709-pnd_4_1_planificacion_de_un_proyecto_bpm.html",
+        "activity_evidence": {
+          "url": "https://es.educaplay.com/recursos-educativos/31311709-pnd_4_1_planificacion_de_un_proyecto_bpm.html",
+          "activity_id": "31311709",
+          "section": "4.1",
+          "title": "Planificación de un proyecto BPM",
+          "questions": 8,
+          "source_pdf_page": 4,
+          "documental_title_number_and_slug_match": true,
+          "source_pdf_reports_public_http200": true,
+          "source_pdf_check_date": "2026-10-30",
+          "independent_remote_check_in_this_environment": false
+        }
       },
       {
         "id": "PND_4_2",
@@ -6304,7 +6616,20 @@
             "feedback": "Las condiciones y definiciones deben considerarse al interpretar variaciones."
           }
         ],
-        "profile": "https://es.educaplay.com/usuario/15461204-clash/"
+        "profile": "https://es.educaplay.com/usuario/15461204-clash/",
+        "activity_url": "https://es.educaplay.com/recursos-educativos/31311714-pnd_4_2_indicadores_para_evaluar_la_implementacion.html",
+        "activity_evidence": {
+          "url": "https://es.educaplay.com/recursos-educativos/31311714-pnd_4_2_indicadores_para_evaluar_la_implementacion.html",
+          "activity_id": "31311714",
+          "section": "4.2",
+          "title": "Indicadores para evaluar la implementación",
+          "questions": 8,
+          "source_pdf_page": 4,
+          "documental_title_number_and_slug_match": true,
+          "source_pdf_reports_public_http200": true,
+          "source_pdf_check_date": "2026-10-30",
+          "independent_remote_check_in_this_environment": false
+        }
       },
       {
         "id": "PND_4_3",
@@ -6548,7 +6873,20 @@
             "feedback": "La incertidumbre debe ser visible para no simular certeza."
           }
         ],
-        "profile": "https://es.educaplay.com/usuario/15461216-jeshua/"
+        "profile": "https://es.educaplay.com/usuario/15461216-jeshua/",
+        "activity_url": "https://es.educaplay.com/recursos-educativos/31311728-pnd_4_3_evaluacion_y_seleccion_de_procesos_a_mejorar.html",
+        "activity_evidence": {
+          "url": "https://es.educaplay.com/recursos-educativos/31311728-pnd_4_3_evaluacion_y_seleccion_de_procesos_a_mejorar.html",
+          "activity_id": "31311728",
+          "section": "4.3",
+          "title": "Evaluación y selección de procesos a mejorar",
+          "questions": 8,
+          "source_pdf_page": 4,
+          "documental_title_number_and_slug_match": true,
+          "source_pdf_reports_public_http200": true,
+          "source_pdf_check_date": "2026-10-30",
+          "independent_remote_check_in_this_environment": false
+        }
       },
       {
         "id": "PND_4_4",
@@ -6792,7 +7130,20 @@
             "feedback": "La evidencia del ejercicio permite practicar, no atribuir resultados reales."
           }
         ],
-        "profile": "https://es.educaplay.com/usuario/15461216-jeshua/"
+        "profile": "https://es.educaplay.com/usuario/15461216-jeshua/",
+        "activity_url": "https://es.educaplay.com/recursos-educativos/31311732-pnd_4_4_estudio_de_caso.html",
+        "activity_evidence": {
+          "url": "https://es.educaplay.com/recursos-educativos/31311732-pnd_4_4_estudio_de_caso.html",
+          "activity_id": "31311732",
+          "section": "4.4",
+          "title": "Estudio de caso",
+          "questions": 8,
+          "source_pdf_page": 4,
+          "documental_title_number_and_slug_match": true,
+          "source_pdf_reports_public_http200": true,
+          "source_pdf_check_date": "2026-10-30",
+          "independent_remote_check_in_this_environment": false
+        }
       }
     ],
     "files": {

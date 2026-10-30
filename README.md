@@ -24,11 +24,16 @@ LibreOffice. Los 16 medios se decodificaron completos y reprodujeron en Chromium
 capítulos identifican las 27 secciones. Las prácticas locales conservan las 218 preguntas
 y pasaron recorridos correctos/incorrectos, teclado, reinicio y pantalla móvil.
 
-**Educaplay:** los seis enlaces recibidos son perfiles, distribuidos entre las 27 secciones
-según la información del usuario. Los enlaces individuales y el contenido de los juegos
-remotos todavía no se han comprobado por la restricción de red del entorno. Los HTML
-distinguen este acceso de sus prácticas locales independientes; no se afirman publicaciones
-o comprobaciones remotas inexistentes.
+**Educaplay:** las 27 secciones tienen enlaces directos a sus juegos dentro del HTML de
+cada unidad y en [el PDF de enlaces directos](Proyecto_Educativo/01_Enlaces_directos_Educaplay.pdf).
+Se cotejaron los 27 números, títulos, slugs, cantidades de preguntas y destinos con el
+documento proporcionado por el usuario. Se recuperó la URL larga de PND 3.4 desde su
+hipervínculo completo para evitar truncarla al copiar texto del PDF.
+
+El informe aportado registra comprobación pública de página y reproductor HTTP 200
+el 30/10/2026. Esa prueba remota no se repitió desde este entorno, cuya red restringe
+Educaplay. El cotejo documental, las etiquetas y los destinos de los ocho HTML sí se
+comprobaron aquí. Las prácticas locales son complementarias e independientes de Educaplay.
 
 Los casos y datos son ficticios; la voz es sintética neuronal. La colección anterior se
 conserva en el historial de Git. El archivo del sitio previo permanece en la raíz; no se

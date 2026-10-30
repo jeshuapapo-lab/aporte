@@ -7,7 +7,6 @@
     "keyboard": true,
     "restart": true,
     "mobile_no_horizontal_overflow": true,
-    "profile_links_match_received_assignment": true,
     "remote_activity_correspondence_verified": false,
     "javascript_errors": [],
     "playback": {
@@ -27,7 +26,10 @@
         "width": null,
         "height": null
       }
-    }
+    },
+    "direct_activity_links_match_uploaded_pdf_and_syllabus": true,
+    "source_pdf_reports_public_http200_checks": true,
+    "independent_remote_check_in_this_environment": false
   },
   {
     "id": "NE_U2",
@@ -37,7 +39,6 @@
     "keyboard": true,
     "restart": true,
     "mobile_no_horizontal_overflow": true,
-    "profile_links_match_received_assignment": true,
     "remote_activity_correspondence_verified": false,
     "javascript_errors": [],
     "playback": {
@@ -57,7 +58,10 @@
         "width": null,
         "height": null
       }
-    }
+    },
+    "direct_activity_links_match_uploaded_pdf_and_syllabus": true,
+    "source_pdf_reports_public_http200_checks": true,
+    "independent_remote_check_in_this_environment": false
   },
   {
     "id": "NE_U3",
@@ -67,7 +71,6 @@
     "keyboard": true,
     "restart": true,
     "mobile_no_horizontal_overflow": true,
-    "profile_links_match_received_assignment": true,
     "remote_activity_correspondence_verified": false,
     "javascript_errors": [],
     "playback": {
@@ -87,7 +90,10 @@
         "width": null,
         "height": null
       }
-    }
+    },
+    "direct_activity_links_match_uploaded_pdf_and_syllabus": true,
+    "source_pdf_reports_public_http200_checks": true,
+    "independent_remote_check_in_this_environment": false
   },
   {
     "id": "NE_U4",
@@ -97,7 +103,6 @@
     "keyboard": true,
     "restart": true,
     "mobile_no_horizontal_overflow": true,
-    "profile_links_match_received_assignment": true,
     "remote_activity_correspondence_verified": false,
     "javascript_errors": [],
     "playback": {
@@ -117,7 +122,10 @@
         "width": null,
         "height": null
       }
-    }
+    },
+    "direct_activity_links_match_uploaded_pdf_and_syllabus": true,
+    "source_pdf_reports_public_http200_checks": true,
+    "independent_remote_check_in_this_environment": false
   },
   {
     "id": "PND_U1",
@@ -127,7 +135,6 @@
     "keyboard": true,
     "restart": true,
     "mobile_no_horizontal_overflow": true,
-    "profile_links_match_received_assignment": true,
     "remote_activity_correspondence_verified": false,
     "javascript_errors": [],
     "playback": {
@@ -147,7 +154,10 @@
         "width": null,
         "height": null
       }
-    }
+    },
+    "direct_activity_links_match_uploaded_pdf_and_syllabus": true,
+    "source_pdf_reports_public_http200_checks": true,
+    "independent_remote_check_in_this_environment": false
   },
   {
     "id": "PND_U2",
@@ -157,7 +167,6 @@
     "keyboard": true,
     "restart": true,
     "mobile_no_horizontal_overflow": true,
-    "profile_links_match_received_assignment": true,
     "remote_activity_correspondence_verified": false,
     "javascript_errors": [],
     "playback": {
@@ -177,7 +186,10 @@
         "width": null,
         "height": null
       }
-    }
+    },
+    "direct_activity_links_match_uploaded_pdf_and_syllabus": true,
+    "source_pdf_reports_public_http200_checks": true,
+    "independent_remote_check_in_this_environment": false
   },
   {
     "id": "PND_U3",
@@ -187,7 +199,6 @@
     "keyboard": true,
     "restart": true,
     "mobile_no_horizontal_overflow": true,
-    "profile_links_match_received_assignment": true,
     "remote_activity_correspondence_verified": false,
     "javascript_errors": [],
     "playback": {
@@ -207,7 +218,10 @@
         "width": null,
         "height": null
       }
-    }
+    },
+    "direct_activity_links_match_uploaded_pdf_and_syllabus": true,
+    "source_pdf_reports_public_http200_checks": true,
+    "independent_remote_check_in_this_environment": false
   },
   {
     "id": "PND_U4",
@@ -217,7 +231,6 @@
     "keyboard": true,
     "restart": true,
     "mobile_no_horizontal_overflow": true,
-    "profile_links_match_received_assignment": true,
     "remote_activity_correspondence_verified": false,
     "javascript_errors": [],
     "playback": {
@@ -237,6 +250,9 @@
         "width": null,
         "height": null
       }
-    }
+    },
+    "direct_activity_links_match_uploaded_pdf_and_syllabus": true,
+    "source_pdf_reports_public_http200_checks": true,
+    "independent_remote_check_in_this_environment": false
   }
 ]

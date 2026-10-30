@@ -1,0 +1,55 @@
+{
+  "unidades": [
+    {
+      "unidad": "NE_U1",
+      "enlaces_directos": 4,
+      "temas_y_urls_coinciden": true,
+      "banco_preguntas_sin_cambios": true
+    },
+    {
+      "unidad": "NE_U2",
+      "enlaces_directos": 2,
+      "temas_y_urls_coinciden": true,
+      "banco_preguntas_sin_cambios": true
+    },
+    {
+      "unidad": "NE_U3",
+      "enlaces_directos": 4,
+      "temas_y_urls_coinciden": true,
+      "banco_preguntas_sin_cambios": true
+    },
+    {
+      "unidad": "NE_U4",
+      "enlaces_directos": 2,
+      "temas_y_urls_coinciden": true,
+      "banco_preguntas_sin_cambios": true
+    },
+    {
+      "unidad": "PND_U1",
+      "enlaces_directos": 4,
+      "temas_y_urls_coinciden": true,
+      "banco_preguntas_sin_cambios": true
+    },
+    {
+      "unidad": "PND_U2",
+      "enlaces_directos": 3,
+      "temas_y_urls_coinciden": true,
+      "banco_preguntas_sin_cambios": true
+    },
+    {
+      "unidad": "PND_U3",
+      "enlaces_directos": 4,
+      "temas_y_urls_coinciden": true,
+      "banco_preguntas_sin_cambios": true
+    },
+    {
+      "unidad": "PND_U4",
+      "enlaces_directos": 4,
+      "temas_y_urls_coinciden": true,
+      "banco_preguntas_sin_cambios": true
+    }
+  ],
+  "enlaces_unicos": 27,
+  "errores_js": [],
+  "alcance": "Cotejo de destinos y etiquetas del HTML con el PDF aportado; no acceso remoto de este entorno."
+}

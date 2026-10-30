@@ -118,7 +118,7 @@ def browsers():
             expected=[q for t in u['topics'] for q in t['questions']]
             assert questions==expected
             hrefs=page.locator('tbody a').evaluate_all('(els)=>els.map(e=>e.href)')
-            assert hrefs==[t['profile'] for t in u['topics']]
+            assert hrefs==[t.get('activity_url',t['profile']) for t in u['topics']]
             for correct in (True,False):
                 if not correct:page.locator('#restart').click()
                 for q in questions:
@@ -145,7 +145,8 @@ def browsers():
             assert not errors,errors
             results.append(dict(id=u['id'],questions=len(questions),all_correct=True,all_wrong=True,
                                 keyboard=True,restart=True,mobile_no_horizontal_overflow=True,
-                                profile_links_match_received_assignment=True,
+                                activity_or_profile_links_match_received_assignment=True,
+                                direct_activity_links_match_uploaded_pdf_and_syllabus=all(t.get('activity_url') for t in u['topics']),
                                 remote_activity_correspondence_verified=False,
                                 javascript_errors=errors,playback=playback))
             print('Navegador comprobado:',u['id'],len(questions),'preguntas y ambos medios reproducidos',flush=True)

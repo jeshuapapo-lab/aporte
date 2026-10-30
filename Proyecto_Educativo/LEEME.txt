@@ -18,10 +18,12 @@ El índice indica dónde empieza cada sección en la presentación, el video y e
 La unidad 4 de Procesos incluye además Recursos con el CSV de datos simulados
 del estudio de caso; el propio taller contiene un cuadro de datos suficiente para resolverlo.
 
-EDUCAPLAY: se recibieron seis enlaces de perfiles, no los enlaces de cada juego.
-La asociación de cada sección a una cuenta sigue el reparto comunicado por el estudiante.
-La correspondencia y el contenido remoto de los juegos no se han podido comprobar desde
-este entorno. Las prácticas HTML son locales e independientes de Educaplay.
+EDUCAPLAY: cada sección enlaza directamente a su juego desde el HTML de la unidad.
+01_Enlaces_directos_Educaplay.pdf conserva los 27 destinos completos y el informe
+de comprobación pública del 30/10/2026 recibido del estudiante. Aquí se cotejaron
+número, título, URL y cantidad de preguntas de las 27 secciones con ese documento;
+no se repitió su comprobación remota desde este entorno. Las prácticas complementarias
+HTML son locales e independientes de Educaplay.
 
 Las voces son sintéticas neuronales en español. Los casos y datos son ficticios.
 Los 27 temas se mantienen completos dentro de las ocho unidades del sílabo.

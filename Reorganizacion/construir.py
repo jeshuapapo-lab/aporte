@@ -55,8 +55,13 @@ def topic(code, number, title):
                               options=[row[c] for c in 'ABCD'], answer='ABCD'.index(lowered['correcta']),
                               feedback=lowered['retroalimentacion']))
     assert len(questions) == (10 if ident == 'NE_1_1' else 8)
-    return dict(id=ident, num=number, title=title, source=str(src), content=content,
+    result=dict(id=ident, num=number, title=title, source=str(src), content=content,
                 questions=questions, profile=PROFILES[ident]['Perfil_aportado_por_usuario'])
+    direct=WORK/'Enlaces_directos_verificados_documentalmente.json'
+    if direct.exists():
+        evidence=json.loads(direct.read_text())[ident]
+        result.update(activity_url=evidence['url'],activity_evidence=evidence)
+    return result
 
 def catalog():
     units = []
@@ -267,6 +272,12 @@ def make_quiz(unit):
                       '__SUBJECT__':html.escape(unit['materia']), '__SPAN__':', '.join(t['num'] for t in unit['topics']),
                       '__ROWS__':rows, '__DATA__':json.dumps(data,ensure_ascii=False).replace('</','<\\/')}.items():
         page=page.replace(key,value)
+    if all(t.get('activity_url') for t in unit['topics']):
+        for t in unit['topics']:
+            page=page.replace('href="'+t['profile']+'" target="_blank" rel="noopener">Abrir perfil · buscar '+t['num'],
+                              'href="'+t['activity_url']+'" target="_blank" rel="noopener">Abrir juego '+t['num'])
+        page=page.replace('Estos son los perfiles facilitados por el estudiante. Abre el perfil indicado y selecciona el juego del tema correspondiente. Los enlaces individuales a los juegos no se recibieron y su correspondencia no se ha podido comprobar desde este entorno.',
+                          'Cada sección enlaza directamente a su actividad de Educaplay. Los 27 destinos se contrastaron con los números, títulos y preguntas del PDF aportado por el estudiante. Ese informe registra comprobación pública de página y reproductor el 30/10/2026; no se repitió la comprobación remota desde este entorno.')
     (Path(unit['folder']) / unit['files']['educaplay']).write_text(page,encoding='utf-8')
     unit['questions']=len(data)
 
@@ -322,7 +333,7 @@ def main():
     for u in units:
         Path(u['folder']).mkdir(parents=True,exist_ok=True)
         merge_pptx(u);make_workshop(u);make_quiz(u)
-        assert len(list(Path(u['folder']).iterdir())) in (3,5)
+        assert len([p for p in Path(u['folder']).iterdir() if p.is_file()]) in (3,5)
         print('Documentos y actividad:',u['id'],u['slide_count'],'diapositivas',u['questions'],'preguntas',flush=True)
     (WORK/'catalogo.json').write_text(json.dumps(units,ensure_ascii=False,indent=2))
     with ProcessPoolExecutor(max_workers=2) as pool:

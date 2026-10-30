@@ -8,7 +8,8 @@ import fitz
 WORK=Path('/workspace/reorganizacion-unidades')
 OUT=Path('/workspace/Entrega')
 UNITS=json.loads((WORK/'catalogo.json').read_text())
-ZIP=Path('/workspace/Entrega_Corregida_Por_Unidades.zip')
+ZIP=Path('/workspace/Entrega.zip')
+DIRECT=(WORK/'Enlaces_directos_verificados_documentalmente.json').exists()
 
 def stamp(seconds):
     n=round(float(seconds));return f'{n//60:02d}:{n%60:02d}'
@@ -28,7 +29,10 @@ def prepare():
     doc.add_heading('Índice de la entrega por unidades',0)
     doc.add_paragraph('2 materias · 8 unidades · 27 secciones · cinco archivos principales por unidad')
     doc.add_paragraph('Cada unidad contiene una presentación PowerPoint, un video MP4, un audio MP3, un taller grupal Word y un archivo HTML de Educaplay con acceso por sección y práctica complementaria. Los nombres de los archivos indican materia, unidad, nombre de la unidad y rango de secciones. Abre 00_Indice.html para acceder directamente a cada archivo.')
-    doc.add_paragraph('En Educaplay se recibieron seis enlaces a perfiles. El archivo de cada unidad indica qué perfil fue asignado a cada sección y lo distingue de un enlace directo a un juego. No se ha podido comprobar la correspondencia de los juegos remotos desde este entorno.')
+    if DIRECT:
+        doc.add_paragraph('Cada sección dispone de un enlace directo a su juego de Educaplay en el archivo HTML de su unidad y en 01_Enlaces_directos_Educaplay.pdf. Se cotejaron números, títulos, URLs y preguntas con el documento recibido, que registra comprobación pública del 30/10/2026. Esa prueba remota no se repitió desde este entorno.')
+    else:
+        doc.add_paragraph('En Educaplay se recibieron seis enlaces a perfiles. El archivo de cada unidad indica qué perfil fue asignado a cada sección y lo distingue de un enlace directo a un juego. No se ha podido comprobar la correspondencia de los juegos remotos desde este entorno.')
     cards=[];previous=None;all_mapping=[]
     for u in UNITS:
         media=json.loads((WORK/u['id']/'media.json').read_text())
@@ -49,7 +53,7 @@ def prepare():
             detail=f"Diapositivas {slides['first']}–{slides['last']} · Video {stamp(vc['start'])} · Audio {stamp(ac['start'])}"
             doc.add_paragraph(f"{t['num']} · {t['title']}\n{detail}",style='List Bullet')
             topics.append('<li><strong>'+html.escape(t['num']+' · '+t['title'])+'</strong><br><small>'+html.escape(detail)+'</small></li>')
-            all_mapping.append(dict(materia=u['materia'],unidad=u['number'],nombre_unidad=u['title'],seccion=t['num'],nombre_seccion=t['title'],carpeta=rel.as_posix(),archivos=u['files'],diapositivas=slides,video_inicio=vc['start'],audio_inicio=ac['start'],perfil_recibido=t['profile'],enlace_directo_verificado=False))
+            all_mapping.append(dict(materia=u['materia'],unidad=u['number'],nombre_unidad=u['title'],seccion=t['num'],nombre_seccion=t['title'],carpeta=rel.as_posix(),archivos=u['files'],diapositivas=slides,video_inicio=vc['start'],audio_inicio=ac['start'],url_actividad=t.get('activity_url'),correspondencia_documental_verificada=bool(t.get('activity_url')),verificacion_remota_independiente=False))
         cards.append(f'<article data-materia="{u["code"]}"><small>{html.escape(u["materia"])} · Unidad {u["number"]}</small><h2>{html.escape(u["title"])}</h2><p>{u["slide_count"]} diapositivas · Video {stamp(media["video"]["format"]["duration"])} · Audio {stamp(media["audio"]["format"]["duration"])}</p><nav>'+''.join(links)+'</nav><ol>'+''.join(topics)+'</ol></article>')
     doc.save(WORK/'00_Indice.docx')
     (OUT/'00_Indice.html').write_text('''<!doctype html><html lang="es"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><title>Entrega por unidades · dos materias</title><style>*{box-sizing:border-box}body{margin:0;font:17px/1.6 system-ui;color:#18394a;background:#f5f2eb}header{background:#112b3c;color:white;padding:45px max(24px,calc((100vw - 1200px)/2))}header p{max-width:1000px}h1{font-size:clamp(2rem,4vw,3rem);line-height:1.15}.wrap{max-width:1250px;margin:auto;padding:30px 24px}.filters{display:flex;gap:12px;flex-wrap:wrap;margin-bottom:24px}button{font:inherit;border:2px solid #087e8b;border-radius:8px;background:white;padding:10px 15px;color:#18394a;cursor:pointer}button[aria-pressed=true]{background:#087e8b;color:white}.grid{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:24px}article{padding:25px;background:white;border-radius:15px;border-top:5px solid #087e8b}article[hidden]{display:none}h2{line-height:1.25;font-size:1.4rem;overflow-wrap:anywhere}small{color:#536975}nav{display:flex;gap:8px;flex-wrap:wrap}a{color:#086977;overflow-wrap:anywhere}nav a{padding:9px 12px;background:#e2f0ee;border-radius:7px;font-weight:bold;text-decoration:none}li{margin:12px 0}li small{font-size:.85rem}a:focus-visible,button:focus-visible{outline:4px solid #b9432e;outline-offset:3px}.note{padding:20px;border-left:5px solid #e7ae53;background:#fff8e9;margin-top:28px}@media(max-width:760px){.grid{grid-template-columns:1fr}.wrap{padding:22px 15px}article{padding:20px}}</style></head><body><header><h1>Proyecto educativo<br>Entrega organizada por unidades</h1><p>2 materias · 8 unidades · 27 secciones. En cada unidad: una presentación, un video, un audio, un taller grupal y un archivo de acceso a Educaplay con práctica complementaria.</p></header><main class="wrap"><div class="filters"><button data-filter="all" aria-pressed="true">Todas las unidades</button><button data-filter="NE" aria-pressed="false">Negocios Electrónicos</button><button data-filter="PND" aria-pressed="false">Procesos para Negocios Digitales</button></div><section class="grid">'''+''.join(cards)+'''</section><aside class="note">Educaplay: los enlaces recibidos corresponden a seis perfiles. La correspondencia con los juegos individuales está pendiente de comprobación. Las preguntas de las 27 secciones están disponibles en las prácticas complementarias de cada unidad; estas funcionan localmente y son independientes de Educaplay.</aside></main><script>const cards=[...document.querySelectorAll('article')],buttons=[...document.querySelectorAll('button[data-filter]')];buttons.forEach(b=>b.onclick=()=>{cards.forEach(c=>c.hidden=b.dataset.filter!=='all'&&c.dataset.materia!==b.dataset.filter);buttons.forEach(x=>x.setAttribute('aria-pressed',String(x===b)));});</script></body></html>''',encoding='utf-8')
@@ -83,6 +87,15 @@ Los 27 temas se mantienen completos dentro de las ocho unidades del sílabo.
 Los tiempos, equipos y rúbricas de los talleres son propuestas didácticas.
 ''',encoding='utf-8')
     (WORK/'Mapa_de_cobertura.json').write_text(json.dumps(all_mapping,ensure_ascii=False,indent=2))
+    if DIRECT:
+        p=OUT/'00_Indice.html'
+        text=p.read_text().replace('Educaplay: los enlaces recibidos corresponden a seis perfiles. La correspondencia con los juegos individuales está pendiente de comprobación. Las preguntas de las 27 secciones están disponibles en las prácticas complementarias de cada unidad; estas funcionan localmente y son independientes de Educaplay.',
+                                  'Educaplay: las 27 secciones tienen enlaces directos a sus juegos, cotejados con el PDF aportado por el estudiante. <a href="01_Enlaces_directos_Educaplay.pdf">Consultar los 27 enlaces y la comprobación pública registrada el 30/10/2026</a>. La comprobación remota de ese informe no se repitió desde este entorno. Las prácticas complementarias de cada unidad funcionan localmente y son independientes de Educaplay.')
+        p.write_text(text,encoding='utf-8')
+        p=OUT/'LEEME.txt'
+        text=p.read_text().replace('EDUCAPLAY: se recibieron seis enlaces de perfiles, no los enlaces de cada juego.\nLa asociación de cada sección a una cuenta sigue el reparto comunicado por el estudiante.\nLa correspondencia y el contenido remoto de los juegos no se han podido comprobar desde\neste entorno. Las prácticas HTML son locales e independientes de Educaplay.',
+                                  'EDUCAPLAY: cada sección enlaza directamente a su juego desde el HTML de la unidad.\n01_Enlaces_directos_Educaplay.pdf conserva los 27 destinos completos y el informe\nde comprobación pública del 30/10/2026 recibido del estudiante. Aquí se cotejaron\nnúmero, título, URL y cantidad de preguntas de las 27 secciones con ese documento;\nno se repitió su comprobación remota desde este entorno. Las prácticas complementarias\nHTML son locales e independientes de Educaplay.')
+        p.write_text(text,encoding='utf-8')
     print('Índice HTML, Word para exportar y guía preparados.',flush=True)
 
 def finish():
@@ -108,20 +121,21 @@ def finish():
         assert (OUT/unquote(html.unescape(href))).exists(),href
     report={'materias':2,'unidades':8,'secciones':27,'archivos_principales':40,'diapositivas':286,
             'preguntas_practicas_locales':218,'workshops':offices,'browser':browsers,
-            'educaplay_verificacion_remota':'Bloqueada por política de red. Perfiles asignados según el usuario; enlaces de juegos no verificados.',
-            'pdf_indice_paginas':len(pdf),'max_longitud_ruta_zip':max(len((Path('Entrega')/p.relative_to(OUT)).as_posix()) for p in OUT.rglob('*') if p.is_file())}
+            'educaplay_verificacion_remota':('El PDF del usuario registra HTTP 200 de página y reproductor el 30/10/2026 para los 27 enlaces. Se cotejaron títulos, números, slugs y preguntas; no se repitió la prueba remota desde este entorno.' if DIRECT else 'Bloqueada por política de red. Perfiles asignados según el usuario; enlaces de juegos no verificados.'),
+            'enlaces_directos_contrastados_documentalmente':27 if DIRECT else 0,
+            'pdf_indice_paginas':len(pdf),'max_longitud_ruta_zip':max(len(p.relative_to(OUT).as_posix()) for p in OUT.rglob('*') if p.is_file())}
     (WORK/'Verificacion_final.json').write_text(json.dumps(report,ensure_ascii=False,indent=2))
     hashes=[hashlib.sha256(p.read_bytes()).hexdigest()+'  '+p.relative_to(OUT).as_posix() for p in sorted(OUT.rglob('*')) if p.is_file()]
     (WORK/'MANIFIESTO_SHA256.txt').write_text('\n'.join(hashes)+'\n')
     with zipfile.ZipFile(ZIP,'w',zipfile.ZIP_DEFLATED,compresslevel=6) as z:
         for p in sorted(OUT.rglob('*')):
-            if p.is_file():z.write(p,(Path('Entrega')/p.relative_to(OUT)).as_posix())
+            if p.is_file():z.write(p,p.relative_to(OUT).as_posix())
     with zipfile.ZipFile(ZIP) as z:
         assert z.testzip() is None
         count=len(z.namelist())
-        assert count==44,count
+        assert count==(45 if DIRECT else 44),count
         assert all(sum(n.endswith(ext) for n in z.namelist())==8 for ext in ('.pptx','.mp4','.mp3','.docx'))
-    print(json.dumps({'zip':str(ZIP),'bytes':ZIP.stat().st_size,'archivos':count,'unidades':8,'cinco_archivos_principales_por_unidad':True,'integridad':'OK','educaplay_juegos_remotos_verificados':False},ensure_ascii=False,indent=2),flush=True)
+    print(json.dumps({'zip':str(ZIP),'bytes':ZIP.stat().st_size,'archivos':count,'unidades':8,'cinco_archivos_principales_por_unidad':True,'integridad':'OK','enlaces_directos_contrastados_con_pdf':27 if DIRECT else 0,'educaplay_pruebas_remotas_independientes':False},ensure_ascii=False,indent=2),flush=True)
 
 def slug(s):
     import unicodedata
